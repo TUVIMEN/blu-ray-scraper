@@ -421,7 +421,7 @@ class BluRay_Thing(BluRayItem):
         return list(
             filter(
                 lambda x: x != "",
-                map(lambda y: y.strip(), reliq(r).text().strip().split("\n")),
+                map(lambda y: y.strip(), reliq(r).text.strip().split("\n")),
             )
         )
 
