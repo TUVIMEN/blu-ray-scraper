@@ -13,19 +13,12 @@ from typing import Tuple
 from pathlib import Path
 import argparse
 import ast
-from concurrent.futures import ThreadPoolExecutor
-import itertools
 import gzip
 
-from reliq import reliq
+from reliq import RQ
 import requests
-from urllib.parse import urljoin
 
-
-def urljoin_r(ref, url):
-    if url is None or len(url) == 0:
-        return ""
-    return urljoin(ref, url)
+reliq = RQ(cached=True)
 
 
 def conv_curl_header_to_requests(src: str):
@@ -132,16 +125,6 @@ class Session(requests.Session):
 
         self.logger = kwargs.get("logger")
 
-    @staticmethod
-    def base(rq: reliq, url: str) -> str:
-        ref = url
-        u = rq.search(r'[0] head; [0] base href=>[1:] | "%(href)v"')
-        if u != "":
-            u = urljoin(url, u)
-            if u != "":
-                ref = u
-        return ref
-
     def r_req_try(self, url: str, method: str, retry: bool = False, **kwargs):
         if not retry:
             if self.wait != 0:
@@ -204,8 +187,8 @@ class Session(requests.Session):
     ) -> Tuple[reliq, str] | Tuple[reliq, str, dict]:
         resp = self.r_req(url, **kwargs)
 
-        rq = reliq(resp.text)
-        ref = self.base(rq, url)
+        rq = reliq(resp.text, ref=url)
+        ref = rq.ref
 
         if return_cookies:
             return (rq, ref, resp.cookies.get_dict())
@@ -437,14 +420,13 @@ class BluRay_Thing(BluRayItem):
         r = rq.json(
             r"""
             .c h3 i@f>"Member uploaded packaging images"; [:3] * ssub@; [0] div self@; a; {
-                .link @ | "%(href)v",
+                .link.U @ | "%(href)v",
                 .date @ | "%(title)v" sed "s/^Uploaded //"
             } |
         """
         )["c"]
 
         for i in r:
-            i["link"] = urljoin_r(ref, i["link"])
             i["date"] = self.conv_date(i["date"], "%H:%M:%S %B %d, %Y")
         return r
 
@@ -459,11 +441,11 @@ class BluRay_Thing(BluRayItem):
         r = rq.json(
             r"""
             .c table l@[0] style; {
-                .avatar a href=a>/profile.php?u=; [0] img | "%(src)v",
+                .avatar.U a href=a>/profile.php?u=; [0] img | "%(src)v",
                 [0] h5; {
                     .user @ | "%Di" trim,
                     a parent@; {
-                        .user_link @ | "%(href)v",
+                        .user_link.U @ | "%(href)v",
                         .date [0] * ssub@; font style="color: #aaa" | "%Di" trim,
                         .rating.u [0] img #b>showrating fssub@ | "%(title)v"
                     }
@@ -473,8 +455,6 @@ class BluRay_Thing(BluRayItem):
         """
         )["c"]
         for i in r:
-            i["avatar"] = urljoin_r(ref, i["avatar"])
-            i["user_link"] = urljoin_r(ref, i["user_link"])
             i["date"] = self.conv_date(i["date"], "%b %d, %Y")
         return r
 
@@ -486,7 +466,9 @@ class BluRay_Thing(BluRayItem):
         loc = resp.headers.get("Location")
         if loc is None:
             return url
-        return urljoin_r(url, loc)
+        if len(loc) == 0:
+            return ""
+        return reliq.urljoin(url, loc)
 
     def clear_redirections(self, arr):
         ret = set()
@@ -503,7 +485,7 @@ class BluRay_Thing(BluRayItem):
             r"""
             [0] td width=728; {
                 [0] a data-globalparentid; {
-                    .parent_link @ | "%(href)v",
+                    .parent_link.U @ | "%(href)v",
                     .parent_id.u @ | "%(data-globalparentid)v",
                 },
                 .title h1 | "%Dt" trim,
@@ -520,7 +502,7 @@ class BluRay_Thing(BluRayItem):
                     .seasons.u text@ " Seasons |" child@ / sed "s/.* [0-9]+ Seasons \|.*/\1/" "E",
                     .rated text@ "| Rated " child@ / sed "s/.*\| Rated ([^|]+) \|.*/\1/" "E" trim
                 },
-                .cover img #frontimage_overlay | "%(src)v",
+                .cover.U img #frontimage_overlay | "%(src)v",
                 .rating div #bluray_rating; {
                     .movie.n td width=38% i@f>Movie; [1] * ssub@; td width=16% | "%i",
                     .video.n td width=38% i@f>Video; [1] * ssub@; td width=16% | "%i",
@@ -584,8 +566,6 @@ class BluRay_Thing(BluRayItem):
         info["links"] = self.clear_redirections(info["links"])
 
         r["release"] = self.conv_date(r["release"], "%b %d, %Y")
-        r["parent_link"] = urljoin_r(ref, r["parent_link"])
-        r["cover"] = urljoin_r(ref, r["cover"])
         r["sources"] = self.clear_redirections(r["sources"])
         return r
 
@@ -614,7 +594,7 @@ class BluRay_Movie(BluRayItem):
                 r"""
             .releases tr; a; {
                 .name @ | "%(title)Dv" trim,
-                .link @ | "%(href)v",
+                .link.U @ | "%(href)v",
                 .country [0] * spre@; img self@ | "%(title)v",
                 [0:1] * ssub@; small self@; {
                     .distributor [0] @ | "%t" trim,
@@ -626,7 +606,6 @@ class BluRay_Movie(BluRayItem):
         )["releases"]
 
         for i in r:
-            i["link"] = urljoin_r(ref, i["link"])
             self.alllinks.add(i["link"])
         return r
 
@@ -634,14 +613,14 @@ class BluRay_Movie(BluRayItem):
         r = json.loads(
             rq.search(
                 r"""
-            .cover [0] img #productimage | "%(src)v",
+            .cover.U [0] img #productimage | "%(src)v",
             [0] h1 .eurostile; {
                 .title @ | "%t" trim,
                 .year.u [0] font .oswald | "%i"
             },
 
             // just a few screenshots at main page
-            .screenshots.a img src=b>"https://images.static-bluray.com/reviews/" | "%(src)v\n" / sed "s/_tn(\.[a-z]+)$/\1/" "E",
+            .screenshots.a.U img src=b>"https://images.static-bluray.com/reviews/" | "%(src)v\n" / sed "s/_tn(\.[a-z]+)$/\1/" "E",
             .watched.u div c@[0] #B>watched1_.* | "%i",
             .watchlist.u div c@[0] #B>watchlist1_.* | "%i",
             .notinterested.u div c@[0] #B>notinterested1_.* | "%i",
@@ -655,11 +634,11 @@ class BluRay_Movie(BluRayItem):
                 [0] table .menu; {
                     .studios [0] td .specmenu i@f>Studio; [0] * ssub@; td .specitem self@; a; {
                         .name @ | "%Dt" trim,
-                        .link @ | "%(href)v"
+                        .link.U @ | "%(href)v"
                     } | ,
                     .distributors [0] td .specmenu i@f>"Blu-ray distributor"; [0] * ssub@; td .specitem self@; a; {
                         .name @ | "%Dt" trim,
-                        .link @ | "%(href)v"
+                        .link.U @ | "%(href)v"
                     } | ,
                     .releasedates [0] td .specmenu i@f>"Release date"; [0] * ssub@; td .specitem self@; img; {
                         .name @ | "%(title)Dv",
@@ -691,7 +670,7 @@ class BluRay_Movie(BluRayItem):
                 },
                 .sources [0] table width=240 .menu; a c@[0]; {
                     .name @ | "%Dt" trim,
-                    .link @ | "%(href)v"
+                    .link.U @ | "%(href)v"
                 } |
             }
         """
@@ -699,15 +678,6 @@ class BluRay_Movie(BluRayItem):
         )
         r["id"] = p_id
         r["url"] = url
-        r["cover"] = urljoin_r(ref, r["cover"])
-        for i, img in enumerate(r["screenshots"]):
-            r["screenshots"][i] = urljoin_r(ref, img)
-        for i in r["studios"]:
-            i["link"] = urljoin_r(ref, i["link"])
-        for i in r["distributors"]:
-            i["link"] = urljoin_r(ref, i["link"])
-        for i in r["sources"]:
-            i["link"] = urljoin_r(ref, i["link"])
         for i in r["releasedates"]:
             i["date"] = self.conv_date(i["date"], "%b %d, %Y")
 
@@ -772,7 +742,7 @@ class BluRay(BluRayItem):
             ).split("\n")[:-1]:
                 print(i)
                 r = self.ses.get(i)
-                rq = reliq(gzip.decompress(r.content))
+                rq = reliq(gzip.decompress(r.content), ref=rq.ref)
 
                 for j in rq.search(r'loc | "%i\n"').split("\n")[:-1]:
                     self.links.add(j)
