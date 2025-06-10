@@ -561,7 +561,6 @@ class BluRay(BluRayItem):
             for i in rq.search(
                 r'loc i@E>"/sitemap_(movies|bluraymovies|itunesmovies|dvdmovies|digitalmovies|ma)_" | "%i\n"'
             ).split("\n")[:-1]:
-                print(i)
                 r = self.ses.get(i)
                 rq = reliq(gzip.decompress(r.content), ref=rq.ref)
 
@@ -590,7 +589,7 @@ class BluRay(BluRayItem):
 
 def argparser():
     parser = argparse.ArgumentParser(
-        description="Tool for getting torrents from 1337x",
+        description="Tool for scraping blu-ray.com. If no URLs provided scrapes the whole site",
         add_help=False,
     )
 
@@ -652,11 +651,11 @@ def cli(argv: list[str]):
         blur.save(i, force=force)
 
     if len(args.urls) == 0:
-        # blur.sitemap_load()
+        blur.sitemap_load()
         blur.saveall(force=force)
 
 
-cli(sys.argv[1:] if sys.argv[1:] else ["-h"])
+cli(sys.argv[1:])
 
 # https://www.blu-ray.com/movies/Tarantino-XX-8-Film-Collection-Blu-ray/55782/#Packaging
 # https://www.blu-ray.com/movies/Pulp-Fiction-4K-Blu-ray/252780/#Packaging
