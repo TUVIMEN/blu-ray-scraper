@@ -17,36 +17,9 @@ import gzip
 
 from reliq import RQ
 import requests
+import treerequests
 
 reliq = RQ(cached=True)
-
-
-def conv_curl_header_to_requests(src: str):
-    r = re.search(r"^\s*([A-Za-z0-9_-]+)\s*:(.*)$", src)
-    if r is None:
-        return None
-    return {r[1]: r[2].strip()}
-
-
-def conv_curl_cookie_to_requests(src: str):
-    r = re.search(r"^\s*([A-Za-z0-9_-]+)\s*=(.*)$", src)
-    if r is None:
-        return None
-    return {r[1]: r[2].strip()}
-
-
-def valid_header(src: str) -> dict:
-    r = conv_curl_header_to_requests(src)
-    if r is None:
-        raise argparse.ArgumentTypeError('Invalid header "{}"'.format(src))
-    return r
-
-
-def valid_cookie(src: str) -> dict:
-    r = conv_curl_cookie_to_requests(src)
-    if r is None:
-        raise argparse.ArgumentTypeError('Invalid cookie "{}"'.format(src))
-    return r
 
 
 def valid_directory(directory: str):
@@ -54,161 +27,6 @@ def valid_directory(directory: str):
         return directory
     else:
         raise argparse.ArgumentTypeError('"{}" is not a directory'.format(directory))
-
-
-def valid_file(directory: str):
-    if os.path.isfile(directory):
-        return directory
-    else:
-        raise argparse.ArgumentTypeError('"{}" is not a file'.format(directory))
-
-
-class RequestError(Exception):
-    pass
-
-
-def bool_get(obj: dict, name: str, otherwise: bool = False) -> bool:
-    x = obj.get(name)
-    if x is None:
-        return otherwise
-    return bool(x)
-
-
-def int_get(obj: dict, name: str, otherwise: int = 0) -> int:
-    x = obj.get(name)
-    if x is None:
-        return otherwise
-    return int(x)
-
-
-def float_get(obj: dict, name: str, otherwise: float = 0) -> float:
-    x = obj.get(name)
-    if x is None:
-        return otherwise
-    return float(x)
-
-
-def dict_get(obj: dict, name: str) -> dict:
-    x = obj.get(name)
-    if not isinstance(x, dict):
-        return {}
-    return x
-
-
-class Session(requests.Session):
-    def __init__(self, **kwargs):
-        super().__init__()
-
-        self.proxies.update(dict_get(kwargs, "proxies"))
-        self.headers.update(dict_get(kwargs, "headers"))
-        self.cookies.update(dict_get(kwargs, "cookies"))
-
-        self.timeout = int_get(kwargs, "timeout", 30)
-        self.verify = bool_get(kwargs, "verify", True)
-        self.allow_redirects = bool_get(kwargs, "allow_redirects", False)
-
-        t = kwargs.get("user_agent")
-        self.user_agent = (
-            t
-            if t is not None
-            else "Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0"
-        )
-
-        self.headers.update(
-            {"User-Agent": self.user_agent, "Referer": "https://hdporncomics.com/"}
-        )
-
-        self.retries = int_get(kwargs, "retries", 3)
-        self.retry_wait = float_get(kwargs, "retry_wait", 60)
-        self.wait = float_get(kwargs, "wait")
-        self.wait_random = int_get(kwargs, "wait_random")
-
-        self.logger = kwargs.get("logger")
-
-    def r_req_try(self, url: str, method: str, retry: bool = False, **kwargs):
-        if not retry:
-            if self.wait != 0:
-                time.sleep(self.wait)
-            if self.wait_random != 0:
-                time.sleep(random.randint(0, self.wait_random + 1) / 1000)
-
-        if self.logger is not None:
-            print(url, file=self.logger)
-
-        if method == "get":
-            return self.get(url, timeout=self.timeout, **kwargs)
-        elif method == "post":
-            return self.post(url, timeout=self.timeout, **kwargs)
-        elif method == "delete":
-            return self.delete(url, timeout=self.timeout, **kwargs)
-        elif method == "put":
-            return self.put(url, timeout=self.timeout, **kwargs)
-
-    def r_req(self, url: str, method: str = "get", **kwargs):
-        tries = self.retries
-        retry_wait = self.retry_wait
-
-        instant_end_code = [400, 401, 402, 403, 404, 410, 412, 414, 421, 505]
-
-        i = 0
-        while True:
-            try:
-                resp = self.r_req_try(url, method, retry=(i != 0), **kwargs)
-            except (
-                requests.ConnectTimeout,
-                requests.ConnectionError,
-                requests.ReadTimeout,
-                requests.exceptions.ChunkedEncodingError,
-                RequestError,
-            ):
-                resp = None
-
-            if resp is None or not (
-                resp.status_code >= 200 and resp.status_code <= 299
-            ):
-                if resp is not None and resp.status_code in instant_end_code:
-                    raise RequestError(
-                        "failed completely {} {}".format(resp.status_code, url)
-                    )
-                if i >= tries:
-                    raise RequestError(
-                        "failed {} {}".format(
-                            "connection" if resp is None else resp.status_code, url
-                        )
-                    )
-                i += 1
-                if retry_wait != 0:
-                    time.sleep(retry_wait)
-            else:
-                return resp
-
-    def get_html(
-        self, url: str, return_cookies: bool = False, **kwargs
-    ) -> Tuple[reliq, str] | Tuple[reliq, str, dict]:
-        resp = self.r_req(url, **kwargs)
-
-        rq = reliq(resp.text, ref=url)
-        ref = rq.ref
-
-        if return_cookies:
-            return (rq, ref, resp.cookies.get_dict())
-        return (rq, ref)
-
-    def get_json(self, url: str, **kwargs) -> dict:
-        resp = self.r_req(url, **kwargs)
-        return resp.json()
-
-    def post_json(self, url: str, **kwargs) -> dict:
-        resp = self.r_req(url, method="post", **kwargs)
-        return resp.json()
-
-    def delete_json(self, url: str, **kwargs) -> dict:
-        resp = self.r_req(url, method="delete", **kwargs)
-        return resp.json()
-
-    def put_json(self, url: str, **kwargs) -> dict:
-        resp = self.r_req(url, method="put", **kwargs)
-        return resp.json()
 
 
 def createdir(path):
@@ -281,7 +99,7 @@ class BluRayItem:
         # for main components returns int, otherwise string
         pass
 
-    def process(self, rq, ref, url, p_id):
+    def process(self, rq, url, p_id):
         pass
 
     # def raws_path(self, p_id):
@@ -314,9 +132,9 @@ class BluRayItem:
 
     def add(self, url, p_id):
         self.links_add(url)
-        rq, ref = self.ses.get_html(url)
+        rq = self.ses.get_html(url)
         # self.raw_save(rq, ref, url, p_id)
-        return (rq, ref)
+        return rq
 
     def read(self, p_id):
         path = self.post_path(p_id)
@@ -333,9 +151,9 @@ class BluRayItem:
         # if not force and self.raw_exists(p_id):
         # rq, ref = self.raw_read(p_id)
         # else:
-        rq, ref = self.add(url, p_id)
+        rq = self.add(url, p_id)
 
-        return self.process(rq, ref, url, p_id)
+        return self.process(rq, url, p_id)
 
     def file_exists(self, path, minsize=2):
         if not os.path.exists(path):
@@ -416,7 +234,7 @@ class BluRay_Thing(BluRayItem):
             self.name, p_id
         )
 
-        rq, ref = self.ses.get_html(url)
+        rq = self.ses.get_html(url)
         r = rq.json(
             r"""
             .c h3 i@f>"Member uploaded packaging images"; [:3] * ssub@; [0] div self@; a; {
@@ -437,7 +255,7 @@ class BluRay_Thing(BluRayItem):
         url = "https://www.blu-ray.com/{}/movies.php?id={}&action=showregioncoding&filter=rating&page=".format(
             self.name, p_id
         )
-        rq, ref = self.ses.get_html(url)
+        rq = self.ses.get_html(url)
         r = rq.json(
             r"""
             .c table l@[0] style; {
@@ -480,7 +298,7 @@ class BluRay_Thing(BluRayItem):
             ret.add(self.get_redirection(i))
         return list(ret)
 
-    def process(self, rq, ref, url, p_id):
+    def process(self, rq, url, p_id):
         r = rq.json(
             r"""
             [0] td width=728; {
@@ -587,7 +405,7 @@ class BluRay_Movie(BluRayItem):
         return int(r[1])
 
     def get_releases(self, url):
-        rq, ref = self.ses.get_html(url)
+        rq = self.ses.get_html(url)
 
         r = json.loads(
             rq.search(
@@ -609,7 +427,7 @@ class BluRay_Movie(BluRayItem):
             self.alllinks.add(i["link"])
         return r
 
-    def process(self, rq, ref, url, p_id):
+    def process(self, rq, url, p_id):
         r = json.loads(
             rq.search(
                 r"""
@@ -692,7 +510,10 @@ class BluRay_Movie(BluRayItem):
 
 class BluRay(BluRayItem):
     def __init__(self, path, **kwargs):
-        self.ses = Session(
+        self.ses = treerequests.Session(
+            requests,
+            requests.Session,
+            lambda x, y: treerequests.reliq(x, y, obj=reliq),
             **kwargs,
         )
 
@@ -736,7 +557,7 @@ class BluRay(BluRayItem):
 
     def sitemap_load(self):
         try:
-            rq, ref = self.ses.get_html("https://www.blu-ray.com/sitemap.xml")
+            rq = self.ses.get_html("https://www.blu-ray.com/sitemap.xml")
             for i in rq.search(
                 r'loc i@E>"/sitemap_(movies|bluraymovies|itunesmovies|dvdmovies|digitalmovies|ma)_" | "%i\n"'
             ).split("\n")[:-1]:
@@ -802,132 +623,30 @@ def argparser():
         help="Exit if anything fails",
     )
 
-    request_set = parser.add_argument_group("Request settings")
-    request_set.add_argument(
-        "-w",
-        "--wait",
-        metavar="SECONDS",
-        type=float,
-        help="Sets waiting time for each request to SECONDS",
-    )
-    request_set.add_argument(
-        "-W",
-        "--wait-random",
-        metavar="MILISECONDS",
-        type=int,
-        help="Sets random waiting time for each request to be at max MILISECONDS",
-    )
-    request_set.add_argument(
-        "-r",
-        "--retries",
-        metavar="NUM",
-        type=int,
-        help="Sets number of retries for failed request to NUM",
-    )
-    request_set.add_argument(
-        "--retry-wait",
-        metavar="SECONDS",
-        type=float,
-        help="Sets interval between each retry",
-    )
-    request_set.add_argument(
-        "-m",
-        "--timeout",
-        metavar="SECONDS",
-        type=float,
-        help="Sets request timeout",
-    )
-    request_set.add_argument(
-        "-k",
-        "--insecure",
-        action="store_false",
-        help="Ignore ssl errors",
-    )
-    request_set.add_argument(
-        "-L",
-        "--location",
-        action="store_true",
-        help="Allow for redirections, can be dangerous if credentials are passed in headers",
-    )
-    request_set.add_argument(
-        "-A",
-        "--user-agent",
-        metavar="UA",
-        type=str,
-        help="Sets custom user agent",
-    )
-    request_set.add_argument(
-        "-x",
-        "--proxies",
-        metavar="DICT",
-        type=lambda x: dict(ast.literal_eval(x)),
-        help='Set requests proxies dictionary, e.g. -x \'{"http":"127.0.0.1:8080","ftp":"0.0.0.0"}\'',
-    )
-    request_set.add_argument(
-        "-H",
-        "--header",
-        metavar="HEADER",
-        type=valid_header,
-        action="append",
-        help="Set header, can be used multiple times e.g. -H 'User: Admin' -H 'Pass: 12345'",
-    )
-    request_set.add_argument(
-        "-b",
-        "--cookie",
-        metavar="COOKIE",
-        type=valid_cookie,
-        action="append",
-        help="Set cookie, can be used multiple times e.g. -b 'auth=8f82ab' -b 'PHPSESSID=qw3r8an829'",
-    )
+    treerequests.args_section(parser)
 
     return parser
+
+
+def logger(args):
+    if len(args) != 3:
+        assert 0
+
+    sys.stdout.write(args[1])
+    sys.stdout.write("\n")
 
 
 def cli(argv: list[str]):
     args = argparser().parse_args(argv)
 
-    headers = {}
-    cookies = {}
-    if args.cookie is not None:
-        for i in args.cookie:
-            cookies.update(i)
-
-    if args.header is not None:
-        for i in args.header:
-            headers.update(i)
-        cookie = headers.get("Cookie")
-        if cookie is not None:
-            headers.pop("Cookie")
-            for i in cookie.split(";"):
-                pair = i.split("=")
-                name = pair[0].strip()
-                val = None
-                if len(pair) > 1:
-                    val = pair[1].strip()
-                cookies.update({name: val})
-
     directory = args.directory
 
-    net_settings = {
-        "logger": sys.stdout,
-        "wait": args.wait,
-        "wait_random": args.wait_random,
-        "retries": args.retries,
-        "retry_wait": args.retry_wait,
-        "timeout": args.timeout,
-        "location": args.location,
-        "user_agent": args.user_agent,
-        "verify": args.insecure,
-        "proxies": args.proxies,
-        "headers": headers,
-        "cookies": cookies,
-    }
+    net_settings = {"logger": logger}
 
-    force = False
-    if args.force is True:
-        force = True
+    force = args.force
 
     blur = BluRay(directory, **net_settings)
+    treerequests.args_session(blur.ses, args)
 
     for i in args.urls:
         blur.save(i, force=force)
