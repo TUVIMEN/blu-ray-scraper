@@ -627,20 +627,12 @@ def argparser():
     return parser
 
 
-def logger(args):
-    if len(args) != 3:
-        assert 0
-
-    sys.stdout.write(args[1])
-    sys.stdout.write("\n")
-
-
 def cli(argv: list[str]):
     args = argparser().parse_args(argv)
 
     directory = args.directory
 
-    net_settings = {"logger": logger}
+    net_settings = {"logger": treerequests.simple_logger(sys.stdout)}
 
     force = args.force
 
