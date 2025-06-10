@@ -1,0 +1,77 @@
+{
+  "parent_link": "https://www.blu-ray.com/One-Foot-in-the-Grave/167401/",
+  "parent_id": 167401,
+  "title": "The Complete One Foot in the Grave - Series 1-6 Plus Christmas Specials DVD",
+  "country": "United Kingdom",
+  "subtitle": "",
+  "distributor": "2 Entertain Video",
+  "year1": 1990,
+  "year2": 2000,
+  "runtime": 1346,
+  "release": "2006-10-16T00:00:00",
+  "seasons": 0,
+  "rated": "BBFC: 12, BBFC: PG",
+  "cover": "https://images.static-bluray.com/movies/dvdcovers/126555_large.jpg?t=1592559881",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "£29.99",
+  "price": "£39.99",
+  "sources": [
+    "https://www.amazon.co.uk/The-Complete-One-Foot-in-the-Grave-Series-1-6-Plus-Christmas-Specials/dp/B000HXDM1E?tag=bluraycom-21&linkCode=ogi&th=1&psc=1&m=",
+    "https://www.amazon.co.uk/s?k=5014503211523&SubscriptionId=AKIAJVVUESQCQC4UYBWA&suppress-ve=1&tag=bluraycom-21&linkCode=xm2",
+    "https://www.ebay.co.uk/sch/i.html?_nkw=5014503211523&mkcid=1&mkrid=710-53481-19255-0&siteid=0&campid=5337460077&toolid=10001&customid=&mkevt=1"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-2",
+      "Encoding format: 4:3",
+      "Resolution: 576i (PAL)",
+      "Aspect ratio: 1.33:1",
+      "Original aspect ratio: 1.33:1"
+    ],
+    "discs": [
+      "DVD",
+      "Twelve-disc set (6 DVD-5, 6 DVD-9)"
+    ],
+    "digital": [],
+    "packaging": [
+      "Slipbox"
+    ],
+    "playback": [
+      "Region 2 (1,3,4,5,6,7,8 untested)"
+    ],
+    "audio": [
+      "English: Dolby Digital 2.0 (192 kbps)"
+    ],
+    "subtitles": [
+      "One Foot in the Grave - Series 1: English",
+      "One Foot in the Grave - Series 2 & 1990 Christmas Special: English",
+      "One Foot in the Grave - Series 3 & 1991 Christmas Special: English SDH",
+      "One Foot in the Grave - Series 4 & One Foot in the Algarve Special: English SDH",
+      "One Foot in the Grave - Series 5 & 1995 Christmas Special: English SDH",
+      "One Foot in the Grave - Series 6 - The Final Series: English SDH",
+      "One Foot in the Grave - The 1996 and 1997 Christmas Specials: English SDH"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/dvd/The-Complete-One-Foot-in-the-Grave-Series-1-6-Plus-Christmas-Specials-DVD/126555/",
+  "id": 126555,
+  "packaging": [
+    {
+      "link": "https://images.static-bluray.com/products/21/126555_1_large.jpg",
+      "date": "2020-06-19T16:59:12"
+    },
+    {
+      "link": "https://images.static-bluray.com/products/21/126555_2_large.jpg",
+      "date": "2020-06-19T16:59:14"
+    }
+  ],
+  "region_coding": []
+}

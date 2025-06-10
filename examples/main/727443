@@ -1,0 +1,1264 @@
+{
+  "cover": "https://images.static-bluray.com/products/20/59524_4_front.jpg",
+  "title": "Dark Phoenix",
+  "year": 2019,
+  "screenshots": [
+    "https://images.static-bluray.com/reviews/19521_1.jpg",
+    "https://images.static-bluray.com/reviews/19521_2.jpg",
+    "https://images.static-bluray.com/reviews/19521_4.jpg",
+    "https://images.static-bluray.com/reviews/19521_5.jpg",
+    "https://images.static-bluray.com/reviews/19521_6.jpg",
+    "https://images.static-bluray.com/reviews/19521_7.jpg"
+  ],
+  "watched": 2063,
+  "watchlist": 151,
+  "notinterested": 40,
+  "appeals": [
+    {
+      "name": "Action",
+      "amount": 230
+    },
+    {
+      "name": "Adventure",
+      "amount": 191
+    },
+    {
+      "name": "Comic book",
+      "amount": 173
+    },
+    {
+      "name": "Sci-Fi",
+      "amount": 170
+    }
+  ],
+  "plottags": [
+    "Mutant",
+    "Superhero",
+    "Alien",
+    "Space",
+    "Train",
+    "San Francisco",
+    "Time travel",
+    "Save the day",
+    "Daring rescue",
+    "Ship",
+    "Government",
+    "Mentor",
+    "On the run",
+    "Psychic",
+    "Childhood",
+    "Disaster"
+  ],
+  "studios": [
+    {
+      "name": "Twentieth Century Fox",
+      "link": "https://www.blu-ray.com/Twentieth-Century-Fox/1300059/"
+    },
+    {
+      "name": "Marvel Entertainment",
+      "link": "https://www.blu-ray.com/Marvel-Entertainment/1284103/"
+    },
+    {
+      "name": "TSG Entertainment",
+      "link": "https://www.blu-ray.com/TSG-Entertainment/1284092/"
+    },
+    {
+      "name": "Kinberg Genre",
+      "link": "https://www.blu-ray.com/Kinberg-Genre/1356964/"
+    },
+    {
+      "name": "Hutch Parker Entertainment",
+      "link": "https://www.blu-ray.com/Hutch-Parker-Entertainment/1432275/"
+    }
+  ],
+  "distributors": [
+    {
+      "name": "20th Century Fox",
+      "link": "https://www.blu-ray.com/20th-Century-Fox/1281864/"
+    },
+    {
+      "name": "Disney / Buena Vista",
+      "link": "https://www.blu-ray.com/Disney-and-Buena-Vista/1281865/"
+    }
+  ],
+  "releasedates": [
+    {
+      "name": "Poland",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "United States",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "United Kingdom",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Canada",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Australia",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Poland",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "United States",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "United Kingdom",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Canada",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Australia",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Germany",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "France",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Spain",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Italy",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Argentina",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Austria",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Brazil",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "China",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Colombia",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Chile",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Czech Republic",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Denmark",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Finland",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Greece",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Hong Kong",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Hungary",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Iceland",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Ireland",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "India",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Indonesia",
+      "date": "2019-06-14T00:00:00"
+    },
+    {
+      "name": "Israel",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Japan",
+      "date": "2019-06-21T00:00:00"
+    },
+    {
+      "name": "Mexico",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "New Zealand",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Netherlands",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Norway",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Philippines",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Portugal",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Romania",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Russia",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Singapore",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "South Korea",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Sweden",
+      "date": "2019-06-07T00:00:00"
+    },
+    {
+      "name": "Taiwan",
+      "date": "2019-06-06T00:00:00"
+    },
+    {
+      "name": "Turkey",
+      "date": "2019-06-05T00:00:00"
+    },
+    {
+      "name": "Ukraine",
+      "date": "2019-06-06T00:00:00"
+    }
+  ],
+  "boxoffice": [
+    {
+      "name": "Box office US",
+      "amount": "$65,845,974"
+    },
+    {
+      "name": "Box office worldwide (including US)",
+      "amount": "$252,442,974"
+    }
+  ],
+  "country": "US",
+  "language": "English",
+  "runtime": 114,
+  "rated": "PG-13",
+  "technical": "2.39:1Converted 3DIMAX",
+  "fans": 87,
+  "collections": {
+    "blu-ray": 9723,
+    "dvd": 185,
+    "digital": 539,
+    "itunes": 368,
+    "prime": 77
+  },
+  "score": 5.97,
+  "liked": 999,
+  "sources": [
+    {
+      "name": "imdb",
+      "link": "https://www.imdb.com/title/tt6565702/"
+    },
+    {
+      "name": "rottentomatoes",
+      "link": "https://www.rottentomatoes.com/m/dark_phoenix"
+    },
+    {
+      "name": "wikipedia",
+      "link": "http://en.wikipedia.org/wiki/Dark_Phoenix_(film)"
+    },
+    {
+      "name": "allrovi",
+      "link": "http://www.allmovie.com/movie/x-men-dark-phoenix-v684449"
+    },
+    {
+      "name": "boxofficemojo",
+      "link": "https://www.boxofficemojo.com/movies/?id=foxmarvel18b.htm"
+    },
+    {
+      "name": "fandango",
+      "link": "http://www.fandango.com/x-men-dark-phoenix-208497/movie-overview"
+    },
+    {
+      "name": "filmaffinity",
+      "link": "https://www.filmaffinity.com/us/film994718.html"
+    },
+    {
+      "name": "justwatch",
+      "link": "https://www.justwatch.com/us/movie/dark-phoenix"
+    },
+    {
+      "name": "metacritic",
+      "link": "http://www.metacritic.com/movie/x-men-dark-phoenix"
+    },
+    {
+      "name": "movieinsider",
+      "link": "https://www.movieinsider.com/m14166/dark-phoenix"
+    },
+    {
+      "name": "disneyplus",
+      "link": "https://www.disneyplus.com/movies/x-men-dark-phoenix/3bCZz3EzlG6r"
+    },
+    {
+      "name": "max",
+      "link": "https://play.hbomax.com/feature/urn:hbo:feature:GXhzsPQW3_h_DTgEAAADV"
+    },
+    {
+      "name": "themoviedb",
+      "link": "https://www.themoviedb.org/movie/320288-dark-phoenix"
+    },
+    {
+      "name": "thenumbers",
+      "link": "https://www.the-numbers.com/movie/Dark-Phoenix-(2019)#tab=summary"
+    },
+    {
+      "name": "letterboxd",
+      "link": "https://letterboxd.com/film/dark-phoenix/"
+    }
+  ],
+  "id": 727443,
+  "url": "https://www.blu-ray.com/Dark-Phoenix/727443/",
+  "releases": [
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/245059/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": "$20.8"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/245076/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/247992/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/252567/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/245072/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/245070/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": "£32.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/291473/",
+      "country": "United Kingdom",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/251284/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Bilingual)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/243586/",
+      "country": "Canada",
+      "distributor": "20th Century Fox",
+      "price": "C$36.3"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/245142/",
+      "country": "Canada",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/245921/",
+      "country": "Australia",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/250494/",
+      "country": "Australia",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/246802/",
+      "country": "Australia",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/245001/",
+      "country": "Germany",
+      "distributor": "20th Century Fox",
+      "price": "€19.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/249549/",
+      "country": "Germany",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/244850/",
+      "country": "France",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/289362/",
+      "country": "France",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix Fnac Special Edition 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Fnac-Special-Edition-4K-Blu-ray/248552/",
+      "country": "France",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/275271/",
+      "country": "Netherlands",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (X-Men: Fénix Oscura 4K)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/276052/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": "€19.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (X-Men: Fénix Oscura 4K)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/289018/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (X-Men: Fénix Oscura 4K)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/250075/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "Dark Phoenix 4K (X-Men: Fénix Negra 4K)",
+      "link": "https://www.blu-ray.com/movies/Dark-Phoenix-4K-Blu-ray/252561/",
+      "country": "Portugal",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/252579/",
+      "country": "Italy",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/195160/",
+      "country": "Sweden",
+      "distributor": "20th Century Fox",
+      "price": "SEK199"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/287471/",
+      "country": "Sweden",
+      "distributor": "Disney / Buena Vista",
+      "price": "SEK299"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/252321/",
+      "country": "Sweden",
+      "distributor": "20th Century Fox",
+      "price": "SEK149"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/195159/",
+      "country": "Norway",
+      "distributor": "20th Century Fox",
+      "price": "NOK199"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/287470/",
+      "country": "Norway",
+      "distributor": "Disney / Buena Vista",
+      "price": "NOK299"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/252322/",
+      "country": "Norway",
+      "distributor": "20th Century Fox",
+      "price": "NOK149"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/195162/",
+      "country": "Denmark",
+      "distributor": "20th Century Fox",
+      "price": "DKK149"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/287469/",
+      "country": "Denmark",
+      "distributor": "Disney / Buena Vista",
+      "price": "DKK249"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/252320/",
+      "country": "Denmark",
+      "distributor": "20th Century Fox",
+      "price": "DKK149"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/195161/",
+      "country": "Finland",
+      "distributor": "20th Century Fox",
+      "price": "€19.95"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/252317/",
+      "country": "Finland",
+      "distributor": "20th Century Fox",
+      "price": "€14.95"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/287459/",
+      "country": "Finland",
+      "distributor": "Disney / Buena Vista",
+      "price": "€29.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (X-MEN: ダーク・フェニックス)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/288252/",
+      "country": "Japan",
+      "distributor": "20th Century Fox",
+      "price": "¥5285"
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (엑스맨: 다크 피닉스)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/257920/",
+      "country": "South Korea",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (엑스맨: 다크 피닉스)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/329957/",
+      "country": "South Korea",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (WeET COLLECTION Collection No.16 / Fullslip)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/256578/",
+      "country": "South Korea",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (WeET COLLECTION Collection No.16 / Lenticular)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/256582/",
+      "country": "South Korea",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (X戰警：黑鳳凰 雙碟鐵盒版)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/317553/",
+      "country": "Taiwan",
+      "distributor": "Deltamac Co. Ltd.",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (Люди Икс: Темный Феникс)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/262536/",
+      "country": "Russia",
+      "distributor": "New Disc",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K (X-Men: Mroczna Phoenix)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/372864/",
+      "country": "Poland",
+      "distributor": "Imperial Cinepix",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/243479/",
+      "country": "India",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/243480/",
+      "country": "India",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix 4K",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-4K-Blu-ray/281230/",
+      "country": "Malaysia",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/245058/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": "$19.32"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/245074/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": "£5.89"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (Lenticular Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/291467/",
+      "country": "United Kingdom",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/251283/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (Bilingual)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/243566/",
+      "country": "Canada",
+      "distributor": "20th Century Fox",
+      "price": "C$26.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/245920/",
+      "country": "Australia",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/245000/",
+      "country": "Germany",
+      "distributor": "20th Century Fox",
+      "price": "€9.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/249382/",
+      "country": "Germany",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/244851/",
+      "country": "France",
+      "distributor": "20th Century Fox",
+      "price": "€15"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/277585/",
+      "country": "Netherlands",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/250790/",
+      "country": "Netherlands",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Fénix Oscura)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/250076/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": "€12.99"
+    },
+    {
+      "name": "Dark Phoenix (X-Men: Fénix Negra)",
+      "link": "https://www.blu-ray.com/movies/Dark-Phoenix-Blu-ray/249664/",
+      "country": "Portugal",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/252578/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": "€11.71"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/252577/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Ο Μαύρος Φοίνικας)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/252669/",
+      "country": "Greece",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Ο Μαύρος Φοίνικας)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/252670/",
+      "country": "Greece",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/246602/",
+      "country": "Sweden",
+      "distributor": "20th Century Fox",
+      "price": "SEK99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/247480/",
+      "country": "Norway",
+      "distributor": "20th Century Fox",
+      "price": "NOK99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/247256/",
+      "country": "Denmark",
+      "distributor": "20th Century Fox",
+      "price": "DKK99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/245541/",
+      "country": "Finland",
+      "distributor": "20th Century Fox",
+      "price": "€9.95"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Fênix Negra)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/274023/",
+      "country": "Brazil",
+      "distributor": "20th Century Fox",
+      "price": "R$39.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-MEN: ダーク・フェニックス)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/288250/",
+      "country": "Japan",
+      "distributor": "20th Century Fox",
+      "price": "¥1500"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-MEN: ダーク・フェニックス)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/288251/",
+      "country": "Japan",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (엑스맨: 다크 피닉스)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/257919/",
+      "country": "South Korea",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/256577/",
+      "country": "South Korea",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (變種特攻：黑鳳凰)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/253031/",
+      "country": "Hong Kong",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X戰警：黑鳳凰)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/253047/",
+      "country": "Taiwan",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "Dark Phoenix (Люди Икс: Тёмный Феникс)",
+      "link": "https://www.blu-ray.com/movies/Dark-Phoenix-Blu-ray/252971/",
+      "country": "Russia",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Mroczna Phoenix)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/372863/",
+      "country": "Poland",
+      "distributor": "Imperial Cinepix",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Mroczna Phoenix)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Dark-Phoenix-Blu-ray/372867/",
+      "country": "Poland",
+      "distributor": "Galapagos",
+      "price": ""
+    },
+    {
+      "name": "Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/Dark-Phoenix-Blu-ray/243454/",
+      "country": "India",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "Dark Phoenix",
+      "link": "https://www.blu-ray.com/movies/Dark-Phoenix-Blu-ray/243478/",
+      "country": "India",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men Collection (10 Movie Collection)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Collection-Blu-ray/310567/",
+      "country": "United Kingdom",
+      "distributor": "Disney / Buena Vista",
+      "price": "£29.99"
+    },
+    {
+      "name": "X-Men Collection (Colección X-Men | Orígenes Lobezno / X-Men / X-Men 2 / La Decisión Final / Lobezno Inmortal {The Wolverine} / Primera Generación / Días del Futuro Pasado / Apocalipsis / Fénix Oscura / Los Nuevos Mutantes)",
+      "link": "https://www.blu-ray.com/movies/X-Men-Collection-Blu-ray/286583/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Collection",
+      "link": "https://www.blu-ray.com/movies/X-Men-Collection-Blu-ray/287506/",
+      "country": "Sweden",
+      "distributor": "Disney / Buena Vista",
+      "price": "SEK749"
+    },
+    {
+      "name": "X-Men: Collection",
+      "link": "https://www.blu-ray.com/movies/X-Men-Collection-Blu-ray/287509/",
+      "country": "Norway",
+      "distributor": "Disney / Buena Vista",
+      "price": "NOK799"
+    },
+    {
+      "name": "X-Men: Collection",
+      "link": "https://www.blu-ray.com/movies/X-Men-Collection-Blu-ray/287510/",
+      "country": "Denmark",
+      "distributor": "Disney / Buena Vista",
+      "price": "DKK599"
+    },
+    {
+      "name": "X-Men: Collection",
+      "link": "https://www.blu-ray.com/movies/X-Men-Collection-Blu-ray/287273/",
+      "country": "Finland",
+      "distributor": "Disney / Buena Vista",
+      "price": "€74.95"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/182011/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": "$11.68"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/182985/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": "£4.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (Bilingual)",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/191487/",
+      "country": "Canada",
+      "distributor": "20th Century Fox",
+      "price": "C$30.98"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/191352/",
+      "country": "Australia",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/201244/",
+      "country": "Germany",
+      "distributor": "20th Century Fox",
+      "price": "€7.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/301803/",
+      "country": "Netherlands",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Fénix Oscura)",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/201245/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/193200/",
+      "country": "Denmark",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-MEN: ダーク・フェニックス)",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/233780/",
+      "country": "Japan",
+      "distributor": "20th Century Fox",
+      "price": "¥1200"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (變種特攻：黑鳳凰)",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/196059/",
+      "country": "Hong Kong",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X戰警：黑鳳凰)",
+      "link": "https://www.blu-ray.com/dvd/X-Men-Dark-Phoenix-DVD/192346/",
+      "country": "Taiwan",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/127294/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": "SD: $19.99, HD: $19.99, rent SD: $3.99, rent HD: $3.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/127312/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": "SD: £9.99, HD: £9.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/130046/",
+      "country": "Canada",
+      "distributor": "20th Century Fox",
+      "price": "SD: C$24.99, HD: C$24.99, rent SD: C$4.99, rent HD: C$4.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/130047/",
+      "country": "Australia",
+      "distributor": "",
+      "price": "SD: AU$14.99, HD: AU$14.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/137815/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €9.99, HD: €9.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/223958/",
+      "country": "Austria",
+      "distributor": "",
+      "price": "SD: €9.99, HD: €9.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/223959/",
+      "country": "Switzerland",
+      "distributor": "",
+      "price": "SD: CHF25, HD: CHF25, rent SD: CHF4.5, rent HD: CHF4.5"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/127310/",
+      "country": "France",
+      "distributor": "20th Century Fox",
+      "price": "SD: €16.99, HD: €16.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/141566/",
+      "country": "Netherlands",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €13.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (X-Men: Fénix oscura)",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/141277/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": "SD: €13.99, HD: €13.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "Dark Phoenix (X-Men: Fênix Negra)",
+      "link": "https://www.blu-ray.com/itunes/Dark-Phoenix-iTunes/167461/",
+      "country": "Portugal",
+      "distributor": "20th Century Fox",
+      "price": "SD: €13.99, HD: €13.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "X-Men : Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men--Dark-Phoenix-iTunes/141278/",
+      "country": "Italy",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €8.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/132514/",
+      "country": "Sweden",
+      "distributor": "",
+      "price": "SD: SEK139, HD: SEK169, rent SD: SEK39, rent HD: SEK39"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/218606/",
+      "country": "Norway",
+      "distributor": "",
+      "price": "SD: NOK139, HD: NOK169, rent SD: NOK39, rent HD: NOK39"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/218607/",
+      "country": "Denmark",
+      "distributor": "",
+      "price": "SD: DKK139, HD: DKK169, rent SD: DKK39, rent HD: DKK39"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/218605/",
+      "country": "Finland",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €16.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/157938/",
+      "country": "Mexico",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/146848/",
+      "country": "Brazil",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/223957/",
+      "country": "Poland",
+      "distributor": "",
+      "price": "SD: zł49.99, HD: zł54.99, rent SD: zł9.99, rent HD: zł9.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/218608/",
+      "country": "Ireland",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €13.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/itunes/X-Men-Dark-Phoenix-iTunes/217965/",
+      "country": "Turkey",
+      "distributor": "",
+      "price": "SD: ₺199.99, HD: ₺199.99, rent SD: ₺24.99, rent HD: ₺24.99"
+    },
+    {
+      "name": "The X-Men 11-Movie Collection",
+      "link": "https://www.blu-ray.com/itunes/The-X-Men-11-Movie-Collection-iTunes/203067/",
+      "country": "United States",
+      "distributor": "Disney / Buena Vista",
+      "price": "SD: $99.99, HD: $99.99"
+    },
+    {
+      "name": "X-Men: 4-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/X-Men-4-Film-Collection-iTunes/165390/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": "SD: £39.99, HD: £39.99"
+    },
+    {
+      "name": "X-Men 11-Movie Collection",
+      "link": "https://www.blu-ray.com/itunes/X-Men-11-Movie-Collection-iTunes/186410/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": "SD: £49.99, HD: £49.99"
+    },
+    {
+      "name": "X-Men: 11-Movie Collection (X-Men: Colección 11 películas)",
+      "link": "https://www.blu-ray.com/itunes/X-Men-11-Movie-Collection-iTunes/165308/",
+      "country": "Spain",
+      "distributor": "20th Century Fox",
+      "price": "SD: €69.99, HD: €69.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/ma/X-Men-Dark-Phoenix-Movies-Anywhere/7786/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/uv/X-Men-Dark-Phoenix-Digital/27623/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": "HD: $19.99, 4K: $19.99"
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/uv/X-Men-Dark-Phoenix-Digital/30797/",
+      "country": "Denmark",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men 11-Movie Collection",
+      "link": "https://www.blu-ray.com/uv/X-Men-11-Movie-Collection-Digital/42489/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/prime/X-Men-Dark-Phoenix-Prime-Video/41033/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": "$22.59"
+    },
+    {
+      "name": "X-Men: Dark Phoenix (Plus Bonus Content)",
+      "link": "https://www.blu-ray.com/prime/X-Men-Dark-Phoenix-Prime-Video/42370/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "X-Men: Dark Phoenix",
+      "link": "https://www.blu-ray.com/prime/X-Men-Dark-Phoenix-Prime-Video/53245/",
+      "country": "United Kingdom",
+      "distributor": "20th Century Fox",
+      "price": "£9.99"
+    }
+  ]
+}

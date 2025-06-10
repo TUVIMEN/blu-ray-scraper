@@ -1,0 +1,1022 @@
+{
+  "cover": "https://images.static-bluray.com/products/20/7665_2_front.jpg",
+  "title": "My Neighbor Totoro",
+  "year": 1988,
+  "screenshots": [
+    "https://images.static-bluray.com/reviews/8027_1.jpg",
+    "https://images.static-bluray.com/reviews/8027_2.jpg",
+    "https://images.static-bluray.com/reviews/8027_3.jpg",
+    "https://images.static-bluray.com/reviews/8027_4.jpg",
+    "https://images.static-bluray.com/reviews/8027_5.jpg",
+    "https://images.static-bluray.com/reviews/8027_6.jpg"
+  ],
+  "watched": 2270,
+  "watchlist": 136,
+  "notinterested": 38,
+  "appeals": [
+    {
+      "name": "Foreign",
+      "amount": 230
+    },
+    {
+      "name": "Anime",
+      "amount": 205
+    },
+    {
+      "name": "Fantasy",
+      "amount": 138
+    },
+    {
+      "name": "Family",
+      "amount": 127
+    },
+    {
+      "name": "Adventure",
+      "amount": 94
+    },
+    {
+      "name": "Period",
+      "amount": 25
+    }
+  ],
+  "plottags": [
+    "Magical",
+    "Forest",
+    "Creature",
+    "Childhood",
+    "Princess",
+    "Sky",
+    "Rural",
+    "Sibling relationships"
+  ],
+  "studios": [
+    {
+      "name": "Studio Ghibli",
+      "link": "https://www.blu-ray.com/Studio-Ghibli/1283314/"
+    }
+  ],
+  "distributors": [
+    {
+      "name": "Disney / Buena Vista",
+      "link": "https://www.blu-ray.com/Disney-and-Buena-Vista/1281865/"
+    },
+    {
+      "name": "Shout Factory",
+      "link": "https://www.blu-ray.com/Shout-Factory/1281953/"
+    },
+    {
+      "name": "Studio Canal",
+      "link": "https://www.blu-ray.com/Studio-Canal/1281962/"
+    },
+    {
+      "name": "Madman Entertainment",
+      "link": "https://www.blu-ray.com/Madman-Entertainment/1282204/"
+    },
+    {
+      "name": "Universum Film",
+      "link": "https://www.blu-ray.com/Universum-Film/1282150/"
+    },
+    {
+      "name": "Wild Side Video",
+      "link": "https://www.blu-ray.com/Wild-Side-Video/1282043/"
+    },
+    {
+      "name": "Vértigo Films",
+      "link": "https://www.blu-ray.com/Vertigo-Films/1283256/"
+    }
+  ],
+  "releasedates": [
+    {
+      "name": "Poland",
+      "date": "2007-09-28T00:00:00"
+    },
+    {
+      "name": "United States",
+      "date": "1990-07-13T00:00:00"
+    },
+    {
+      "name": "United Kingdom",
+      "date": "1989-11-17T00:00:00"
+    },
+    {
+      "name": "Australia",
+      "date": "1991-06-13T00:00:00"
+    },
+    {
+      "name": "Germany",
+      "date": "2014-01-17T00:00:00"
+    },
+    {
+      "name": "Poland",
+      "date": "2007-09-28T00:00:00"
+    },
+    {
+      "name": "United States",
+      "date": "1990-07-13T00:00:00"
+    },
+    {
+      "name": "United Kingdom",
+      "date": "1989-11-17T00:00:00"
+    },
+    {
+      "name": "Australia",
+      "date": "1991-06-13T00:00:00"
+    },
+    {
+      "name": "Germany",
+      "date": "2014-01-17T00:00:00"
+    },
+    {
+      "name": "France",
+      "date": "1999-12-08T00:00:00"
+    },
+    {
+      "name": "Spain",
+      "date": "2009-10-30T00:00:00"
+    },
+    {
+      "name": "Italy",
+      "date": "2009-09-18T00:00:00"
+    },
+    {
+      "name": "Brazil",
+      "date": "1995-03-08T00:00:00"
+    },
+    {
+      "name": "China",
+      "date": "2018-12-14T00:00:00"
+    },
+    {
+      "name": "Denmark",
+      "date": "2007-03-30T00:00:00"
+    },
+    {
+      "name": "Finland",
+      "date": "2006-09-29T00:00:00"
+    },
+    {
+      "name": "Hong Kong",
+      "date": "1988-07-15T00:00:00"
+    },
+    {
+      "name": "Japan",
+      "date": "1988-04-16T00:00:00"
+    },
+    {
+      "name": "Norway",
+      "date": "2007-03-30T00:00:00"
+    },
+    {
+      "name": "Russia",
+      "date": "2008-03-20T00:00:00"
+    },
+    {
+      "name": "South Korea",
+      "date": "2001-07-27T00:00:00"
+    },
+    {
+      "name": "Sweden",
+      "date": "2007-03-30T00:00:00"
+    },
+    {
+      "name": "Switzerland",
+      "date": "2002-08-28T00:00:00"
+    },
+    {
+      "name": "Taiwan",
+      "date": "2002-11-14T00:00:00"
+    },
+    {
+      "name": "Turkey",
+      "date": "2007-07-06T00:00:00"
+    }
+  ],
+  "boxoffice": [
+    {
+      "name": "Box office US",
+      "amount": "$2,250,213"
+    },
+    {
+      "name": "Box office worldwide (including US)",
+      "amount": "$30,574,632"
+    }
+  ],
+  "country": "Japan",
+  "language": "Japanese",
+  "runtime": 86,
+  "rated": "G",
+  "technical": "1.85:1",
+  "fans": 180,
+  "collections": {
+    "blu-ray": 11939,
+    "dvd": 1189,
+    "digital": 68,
+    "itunes": 96,
+    "prime": 7
+  },
+  "score": 8.43,
+  "liked": 999,
+  "sources": [
+    {
+      "name": "imdb",
+      "link": "https://www.imdb.com/title/tt0096283/"
+    },
+    {
+      "name": "rottentomatoes",
+      "link": "http://www.rottentomatoes.com/m/my_neighbor_totoro/"
+    },
+    {
+      "name": "wikipedia",
+      "link": "http://en.wikipedia.org/wiki/My_Neighbor_Totoro"
+    },
+    {
+      "name": "allrovi",
+      "link": "http://www.allmovie.com/movie/my-neighbor-totoro-v131782"
+    },
+    {
+      "name": "boxofficemojo",
+      "link": "https://www.boxofficemojo.com/title/tt0096283/?ref_=bo_se_r_1"
+    },
+    {
+      "name": "fandango",
+      "link": "http://www.fandango.com/myneighbortotoro_56197/movieoverview"
+    },
+    {
+      "name": "metacritic",
+      "link": "https://www.metacritic.com/movie/my-neighbor-totoro"
+    },
+    {
+      "name": "netflix",
+      "link": "https://www.netflix.com/dz-en/title/60032294"
+    },
+    {
+      "name": "max",
+      "link": "https://www.hbomax.com/feature/urn:hbo:feature:GXrHaagZAIKu9KwEAAAAm"
+    },
+    {
+      "name": "themoviedb",
+      "link": "https://www.themoviedb.org/movie/8392-tonari-no-totoro"
+    },
+    {
+      "name": "letterboxd",
+      "link": "https://letterboxd.com/film/my-neighbor-totoro/"
+    },
+    {
+      "name": "animenewsnetwork",
+      "link": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=534"
+    }
+  ],
+  "id": 63470,
+  "url": "https://www.blu-ray.com/My-Neighbor-Totoro/63470/",
+  "releases": [
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/44746/",
+      "country": "United States",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/272921/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "$18.89"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/184137/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "$16.56"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ | Tonari no Totoro | 30th Anniversary Edition)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/215683/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "$36.96"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ | Tonari no Totoro | Limited Edition | Longbox)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/293311/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (With Art Cards / となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/352610/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": ""
+    },
+    {
+      "name": "My Neighbour Totoro (となりのトトロ / Tonari no Totoro | Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbour-Totoro-Blu-ray/49703/",
+      "country": "United Kingdom",
+      "distributor": "Studio Canal",
+      "price": ""
+    },
+    {
+      "name": "My Neighbour Totoro (となりのトトロ / Tonari no Totoro | Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbour-Totoro-Blu-ray/86085/",
+      "country": "United Kingdom",
+      "distributor": "Studio Canal",
+      "price": ""
+    },
+    {
+      "name": "My Neighbour Totoro (30th Anniversary Collector's Edition | Tonari no Totoro | Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbour-Totoro-Blu-ray/219113/",
+      "country": "United Kingdom",
+      "distributor": "Studio Canal",
+      "price": ""
+    },
+    {
+      "name": "My Neighbour Totoro (Collector's Edition | Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbour-Totoro-Blu-ray/301137/",
+      "country": "United Kingdom",
+      "distributor": "Studio Canal",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/67298/",
+      "country": "Canada",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/186991/",
+      "country": "Canada",
+      "distributor": "Shout Factory",
+      "price": "C$31.99"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ | Tonari no Totoro | 30th Anniversary Edition)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/218516/",
+      "country": "Canada",
+      "distributor": "Shout Factory",
+      "price": "C$49.99"
+    },
+    {
+      "name": "My Neighbor Totoro (Mon Voisin Totoro | Bilingual | となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/67518/",
+      "country": "Canada",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / Sous-titres français)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/272674/",
+      "country": "Canada",
+      "distributor": "Shout Factory",
+      "price": "C$31.07"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ | Tonari no Totoro | 35th Anniversary Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/339160/",
+      "country": "Australia",
+      "distributor": "Crunchyroll, LLC",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/53511/",
+      "country": "Australia",
+      "distributor": "Madman Entertainment",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/269147/",
+      "country": "Australia",
+      "distributor": "Madman Entertainment",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro | Studio Ghibli | 25th Anniversary Edition)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/93023/",
+      "country": "Australia",
+      "distributor": "Madman Entertainment",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro | Studio Ghibli | 30th Anniversary Edition)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/202548/",
+      "country": "Australia",
+      "distributor": "Madman Entertainment",
+      "price": ""
+    },
+    {
+      "name": "Mein Nachbar Totoro (My Neighbor Totoro | Tonari no Totoro | となりのトトロ | White Edition)",
+      "link": "https://www.blu-ray.com/movies/Mein-Nachbar-Totoro-Blu-ray/353381/",
+      "country": "Germany",
+      "distributor": "Universum Film",
+      "price": "€22.99"
+    },
+    {
+      "name": "Mein Nachbar Totoro (My Neighbor Totoro / Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/movies/Mein-Nachbar-Totoro-Blu-ray/59617/",
+      "country": "Germany",
+      "distributor": "Universum Film",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Mein Nachbar Totoro / Limited to 5000 copies)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/169389/",
+      "country": "Germany",
+      "distributor": "Universum Film",
+      "price": ""
+    },
+    {
+      "name": "Mon voisin Totoro (My Neighbor Totoro / となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/Mon-voisin-Totoro-Blu-ray/71659/",
+      "country": "France",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "Mon voisin Totoro (My Neighbor Totoro / となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/Mon-voisin-Totoro-Blu-ray/291277/",
+      "country": "France",
+      "distributor": "Wild Side Video",
+      "price": ""
+    },
+    {
+      "name": "Mon voisin Totoro (My Neighbor Totoro / となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/Mon-voisin-Totoro-Blu-ray/266630/",
+      "country": "France",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "Mon voisin Totoro (My Neighbor Totoro / となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/Mon-voisin-Totoro-Blu-ray/342874/",
+      "country": "France",
+      "distributor": "Wild Side Video",
+      "price": ""
+    },
+    {
+      "name": "Mi Vecino Totoro (Tonari no Totoro / My Neighbor Totoro / Studio Ghibli Collection Deluxe)",
+      "link": "https://www.blu-ray.com/movies/Mi-Vecino-Totoro-Blu-ray/84984/",
+      "country": "Spain",
+      "distributor": "Entertainment One",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / Mi vecino Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/246718/",
+      "country": "Spain",
+      "distributor": "Vertigo Films",
+      "price": "€12.99"
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / Mi vecino Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/54837/",
+      "country": "Spain",
+      "distributor": "Aurum",
+      "price": ""
+    },
+    {
+      "name": "Il Mio Vicino Totoro (となりのトトロ / Tonari no Totoro | My Neighbor Totoro)",
+      "link": "https://www.blu-ray.com/movies/Il-Mio-Vicino-Totoro-Blu-ray/359438/",
+      "country": "Italy",
+      "distributor": "Plaion Pictures",
+      "price": "€23.25"
+    },
+    {
+      "name": "Il Mio Vicino Totoro (となりのトトロ / Tonari no Totoro | My Neighbor Totoro)",
+      "link": "https://www.blu-ray.com/movies/Il-Mio-Vicino-Totoro-Blu-ray/86953/",
+      "country": "Italy",
+      "distributor": "Lucky Red",
+      "price": ""
+    },
+    {
+      "name": "Il Mio Vicino Totoro (となりのトトロ / Tonari no Totoro | My Neighbor Totoro)",
+      "link": "https://www.blu-ray.com/movies/Il-Mio-Vicino-Totoro-Blu-ray/142664/",
+      "country": "Italy",
+      "distributor": "Lucky Red",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Min granne Totoro / Tonari no Totoro / Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/49723/",
+      "country": "Sweden",
+      "distributor": "Universal Sony Pictures Home Entertainment",
+      "price": "SEK129"
+    },
+    {
+      "name": "Min nabo Totoro (となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/Min-nabo-Totoro-Blu-ray/168017/",
+      "country": "Norway",
+      "distributor": "Star Media Entertainment",
+      "price": "NOK99"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Tonari no Totoro / Min Nabo Totoro / Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/173550/",
+      "country": "Denmark",
+      "distributor": "Mis.Label",
+      "price": "DKK59"
+    },
+    {
+      "name": "My Neighbor Totoro (Naapurini Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/189133/",
+      "country": "Finland",
+      "distributor": "Cinema Mondo",
+      "price": "€7.95"
+    },
+    {
+      "name": "Mi vecino Totoro (My Neighbor Totoro / Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/movies/Mi-vecino-Totoro-Blu-ray/55984/",
+      "country": "Mexico",
+      "distributor": "Zima",
+      "price": "$315.37"
+    },
+    {
+      "name": "My Neighbor Totoro (Meu Amigo Totoro / となりのトトロ | Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/104216/",
+      "country": "Brazil",
+      "distributor": "Versátil Home Video",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Meu Amigo Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/104147/",
+      "country": "Brazil",
+      "distributor": "Versátil Home Video",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/43064/",
+      "country": "Japan",
+      "distributor": "Studio Ghibli",
+      "price": "¥5982"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / 龍貓)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/55167/",
+      "country": "Hong Kong",
+      "distributor": "Intercontinental Video",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / 龙猫)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/73317/",
+      "country": "China",
+      "distributor": "Excel",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / 龍貓 / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/90535/",
+      "country": "Taiwan",
+      "distributor": "Studio Ghibli",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / となりのトトロ / 龍貓 - 單碟版)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/280504/",
+      "country": "Taiwan",
+      "distributor": "Studio Ghibli",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-Blu-ray/266372/",
+      "country": "Singapore",
+      "distributor": "Cinedigm",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro / Ponyo",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-and-Ponyo-Blu-ray/348080/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": ""
+    },
+    {
+      "name": "The Collected Works of Hayao Miyazaki (Lupin the Third: The Castle of Cagliostro / Nausicaä of the Valley of the Wind / Castle in the Sky / My Neighbor Totoro / Kikis Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howls Moving Castle / Ponyo / The Wind Rises)",
+      "link": "https://www.blu-ray.com/movies/The-Collected-Works-of-Hayao-Miyazaki-Blu-ray/137485/",
+      "country": "United States",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "The Hayao Miyazaki Collection (The Castle Of Cagliostro / Nausicaa Of The Valley Of The Wind / Laputa: Castle In The Sky / My Neighbour Totoro / Kiki's Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howl's Moving Castle / Ponyo / The Wind Rises / + Bonus Disc And Booklet)",
+      "link": "https://www.blu-ray.com/movies/The-Hayao-Miyazaki-Collection-Blu-ray/109558/",
+      "country": "United Kingdom",
+      "distributor": "Studio Canal",
+      "price": ""
+    },
+    {
+      "name": "The Collected Works of Hayao Miyazaki (Lupin the Third: The Castle of Cagliostro / Nausicaä of the Valley of the Wind / Castle in the Sky / My Neighbor Totoro / Kikis Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howls Moving Castle / Ponyo / The Wind Rises)",
+      "link": "https://www.blu-ray.com/movies/The-Collected-Works-of-Hayao-Miyazaki-Blu-ray/340609/",
+      "country": "Canada",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "The Collected Works of Hayao Miyazaki (2017 re-release)",
+      "link": "https://www.blu-ray.com/movies/The-Collected-Works-of-Hayao-Miyazaki-Blu-ray/190204/",
+      "country": "Australia",
+      "distributor": "Madman Entertainment",
+      "price": ""
+    },
+    {
+      "name": "The Collected Works of Hayao Miyazaki (Lupin III: The Castle Of Cagliostro / Nausicaä of the Valley of the Wind / Laputa: Castle In The Sky / My Neighbour Totoro / Kiki's Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howl's Moving Castle / Ponyo / The Wind Rises / Includes Bonus Disc / Studio Ghibli)",
+      "link": "https://www.blu-ray.com/movies/The-Collected-Works-of-Hayao-Miyazaki-Blu-ray/127111/",
+      "country": "Australia",
+      "distributor": "Madman Entertainment",
+      "price": ""
+    },
+    {
+      "name": "Hayao Miyazaki Collection (Limited to 3000 copies | Nausicaa of the Valley of the Wind / Castle in the Sky / My Neighbor Totoro / Kiki's Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howl's Moving Castle / Ponyo on the Cliff by the Sea / The Wind Rises)",
+      "link": "https://www.blu-ray.com/movies/Hayao-Miyazaki-Collection-Blu-ray/113079/",
+      "country": "Germany",
+      "distributor": "Universum Film",
+      "price": ""
+    },
+    {
+      "name": "Hayao Miyazaki Collection (Special Edition | Nausicaa of the Valley of the Wind / Castle in the Sky / My Neighbor Totoro / Kiki's Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howl's Moving Castle / Ponyo on the Cliff by the Sea / The Wind Rises)",
+      "link": "https://www.blu-ray.com/movies/Hayao-Miyazaki-Collection-Blu-ray/170603/",
+      "country": "Germany",
+      "distributor": "Universum Film",
+      "price": ""
+    },
+    {
+      "name": "Hayao Miyazaki - Studio Ghibli Collection",
+      "link": "https://www.blu-ray.com/movies/Hayao-Miyazaki-Studio-Ghibli-Collection-Blu-ray/251763/",
+      "country": "Sweden",
+      "distributor": "TriArt",
+      "price": "SEK999"
+    },
+    {
+      "name": "Studio Ghibli Boxset Vol. 3 (Mi vecino Totoro / My Neighbor Totoro / Tonari no Totoro | El castillo en el cielo / Castle in the Sky / Tenkû no shiro Rapyuta | Susurros del corazón / Whisper of the Heart / Mimi wo sumaseba)",
+      "link": "https://www.blu-ray.com/movies/Studio-Ghibli-Boxset-Vol-3-Blu-ray/118812/",
+      "country": "Mexico",
+      "distributor": "Zima",
+      "price": ""
+    },
+    {
+      "name": "Coleção Studio Ghibli",
+      "link": "https://www.blu-ray.com/movies/Colecao-Studio-Ghibli-Blu-ray/104282/",
+      "country": "Brazil",
+      "distributor": "Versátil Home Video",
+      "price": ""
+    },
+    {
+      "name": "Coleção Studio Ghibli - Edição Limitada",
+      "link": "https://www.blu-ray.com/movies/Colecao-Studio-Ghibli-Edicao-Limitada-Blu-ray/317136/",
+      "country": "Brazil",
+      "distributor": "Versátil Home Video",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro / Grave of the Fireflies (となりのトトロ / 火垂るの墓)",
+      "link": "https://www.blu-ray.com/movies/My-Neighbor-Totoro-and-Grave-of-the-Fireflies-Blu-ray/43761/",
+      "country": "Japan",
+      "distributor": "Studio Ghibli",
+      "price": ""
+    },
+    {
+      "name": "Hayao Miyazaki Collection (Lupin III: The Castle of Cagliostro / Nausicaa of the Valley of the Wind / Castle in the Sky / My Neighbor Totoro / Kiki's Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howl's Moving Castle / Ponyo on the Cliff by the Sea / The Wind Rises / The Boy and the Heron / On Your Mark | 宮崎駿監督作品集)",
+      "link": "https://www.blu-ray.com/movies/Hayao-Miyazaki-Collection-Blu-ray/362693/",
+      "country": "Japan",
+      "distributor": "Studio Ghibli",
+      "price": "¥58133"
+    },
+    {
+      "name": "Hayao Miyazaki Collection (Lupin III: The Castle of Cagliostro / Nausicaa of the Valley of the Wind / Castle in the Sky / My Neighbor Totoro / Kiki's Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howl's Moving Castle / Ponyo on the Cliff by the Sea / The Wind Rises / The Boy and the Heron / On Your Mark | 宮崎駿監督作品集)",
+      "link": "https://www.blu-ray.com/movies/Hayao-Miyazaki-Collection-Blu-ray/362696/",
+      "country": "Japan",
+      "distributor": "Studio Ghibli",
+      "price": ""
+    },
+    {
+      "name": "Hayao Miyazaki Collection (Lupin III: The Castle of Cagliostro / Nausicaa of the Valley of the Wind / Castle in the Sky / My Neighbor Totoro / Kiki's Delivery Service / Porco Rosso / Princess Mononoke / Spirited Away / Howl's Moving Castle / Ponyo on the Cliff by the Sea / The Wind Rises | 宮崎駿監督作品集)",
+      "link": "https://www.blu-ray.com/movies/Hayao-Miyazaki-Collection-Blu-ray/100451/",
+      "country": "Japan",
+      "distributor": "Studio Ghibli",
+      "price": ""
+    },
+    {
+      "name": "Hayao Miyazaki Collection (宮崎駿監督作品珍藏套裝)",
+      "link": "https://www.blu-ray.com/movies/Hayao-Miyazaki-Collection-Blu-ray/175972/",
+      "country": "Hong Kong",
+      "distributor": "Intercontinental Video",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/145798/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "$9.96"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/19986/",
+      "country": "United States",
+      "distributor": "20th Century Fox",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/19957/",
+      "country": "United States",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/21245/",
+      "country": "United States",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/21290/",
+      "country": "United Kingdom",
+      "distributor": "Optimum Home Entertainment",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/53965/",
+      "country": "Canada",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/217653/",
+      "country": "Canada",
+      "distributor": "Shout Factory",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/53966/",
+      "country": "Canada",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Mein Nachbar Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/146510/",
+      "country": "Germany",
+      "distributor": "Universum Film",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ | Mein Nachbar Totoro | Special Edition)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/189027/",
+      "country": "Germany",
+      "distributor": "Universum Film",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Mi vecino Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/172478/",
+      "country": "Spain",
+      "distributor": "Aurum",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Il Mio Vicino Totoro / となりのトトロ / Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/243989/",
+      "country": "Italy",
+      "distributor": "Lucky Red",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/39083/",
+      "country": "Sweden",
+      "distributor": "Pan Vision",
+      "price": "SEK79"
+    },
+    {
+      "name": "My Neighbor Totoro (となりのトトロ / Min nabo Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/134871/",
+      "country": "Denmark",
+      "distributor": "Scanbox Entertainment",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Naapurini Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/129782/",
+      "country": "Finland",
+      "distributor": "Pan Vision",
+      "price": "€7.95"
+    },
+    {
+      "name": "My Neighbor Totoro (Mi Vecino Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/149485/",
+      "country": "Mexico",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Tonari no Totoro / となりのトトロ)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/21278/",
+      "country": "Japan",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (이웃집 토토로)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/162841/",
+      "country": "South Korea",
+      "distributor": "Studio Ghibli",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Single Disc Edition | 龍貓)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/162840/",
+      "country": "Hong Kong",
+      "distributor": "Intercontinental Video",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Special Version / 龍貓)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/150720/",
+      "country": "Taiwan",
+      "distributor": "Disney / Buena Vista",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Mùj soused Totoro)",
+      "link": "https://www.blu-ray.com/dvd/My-Neighbor-Totoro-DVD/47163/",
+      "country": "Czech Republic",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "Archives of Studio Ghibli",
+      "link": "https://www.blu-ray.com/dvd/Archives-of-Studio-Ghibli-DVD/230145/",
+      "country": "Japan",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/131839/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "SD: $14.99, HD: $14.99, rent SD: $3.99, rent HD: $3.99"
+    },
+    {
+      "name": "My Neighbor Totoro (Japanese Language Version)",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/176070/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "rent SD: $3.99, rent HD: $3.99"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/131838/",
+      "country": "Canada",
+      "distributor": "Studio Ghibli",
+      "price": "SD: C$14.99, HD: C$14.99, rent SD: C$3.99, rent HD: C$3.99"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/198101/",
+      "country": "Australia",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/198102/",
+      "country": "Germany",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/198103/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €11.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/225047/",
+      "country": "Belgium",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €11.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "My Neighbor Totoro (Mi vecino Totoro)",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/198104/",
+      "country": "Spain",
+      "distributor": "Studio Ghibli",
+      "price": "SD: €13.99, HD: €11.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/166988/",
+      "country": "Portugal",
+      "distributor": "Studio Ghibli",
+      "price": "SD: €13.99, HD: €11.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/198105/",
+      "country": "Italy",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €11.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/198106/",
+      "country": "Sweden",
+      "distributor": "",
+      "price": "SD: SEK139, HD: SEK119, rent SD: SEK39, rent HD: SEK39"
+    },
+    {
+      "name": "龍貓 (となりのトトロ / Tonari no Totoro / My Neighbor Totoro)",
+      "link": "https://www.blu-ray.com/itunes/ee2-iTunes/165837/",
+      "country": "Taiwan",
+      "distributor": "Studio Ghibli",
+      "price": "SD: $350, HD: $490, rent SD: $60, rent HD: $60"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "link": "https://www.blu-ray.com/itunes/My-Neighbor-Totoro-iTunes/225046/",
+      "country": "Poland",
+      "distributor": "",
+      "price": "SD: zł54.99, HD: zł37.99, rent SD: zł9.99, rent HD: zł9.99"
+    },
+    {
+      "name": "Ponyo / My Neighbor Totoro (Double Feature)",
+      "link": "https://www.blu-ray.com/itunes/Ponyo-and-My-Neighbor-Totoro-iTunes/194926/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "SD: $19.99, HD: $22.99"
+    },
+    {
+      "name": "Studio Ghibli Collection: Volume 1",
+      "link": "https://www.blu-ray.com/itunes/Studio-Ghibli-Collection-Volume-1-iTunes/132108/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "SD: $69.99, HD: $76.94"
+    },
+    {
+      "name": "My Neighbor Totoro (English Language)",
+      "link": "https://www.blu-ray.com/uv/My-Neighbor-Totoro-Digital/30678/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "HD: $16.99"
+    },
+    {
+      "name": "My Neighbor Totoro (Japanese Language Version)",
+      "link": "https://www.blu-ray.com/uv/My-Neighbor-Totoro-Digital/53728/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": ""
+    },
+    {
+      "name": "My Neighbor Totoro (Subtitled)",
+      "link": "https://www.blu-ray.com/uv/My-Neighbor-Totoro-Digital/30700/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "HD: $19.99"
+    },
+    {
+      "name": "Ponyo / My Neighbor Totoro (Double Feature)",
+      "link": "https://www.blu-ray.com/uv/Ponyo-and-My-Neighbor-Totoro-Digital/63605/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "HD: $13.99"
+    },
+    {
+      "name": "Studio Ghibli 6-Film Collection",
+      "link": "https://www.blu-ray.com/uv/Studio-Ghibli-6-Film-Collection-Digital/56774/",
+      "country": "United States",
+      "distributor": "Shout Factory",
+      "price": "HD: $99.99"
+    },
+    {
+      "name": "My Neighbor Totoro HD (English Language)",
+      "link": "https://www.blu-ray.com/prime/My-Neighbor-Totoro-HD-Prime-Video/42357/",
+      "country": "United States",
+      "distributor": "Studio Ghibli",
+      "price": "$14.99"
+    },
+    {
+      "name": "My Neighbor Totoro HD (Japanese Language)",
+      "link": "https://www.blu-ray.com/prime/My-Neighbor-Totoro-HD-Prime-Video/43311/",
+      "country": "United States",
+      "distributor": "Studio Ghibli",
+      "price": "$14.99"
+    }
+  ]
+}

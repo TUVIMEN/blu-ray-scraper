@@ -1,0 +1,61 @@
+{
+  "parent_link": "https://www.blu-ray.com/Godzilla-vs-Megaguirus/37711/",
+  "parent_id": 37711,
+  "title": "Godzilla vs. Megaguirus: The G Annihilation Strategy Digital",
+  "country": "United States",
+  "subtitle": "Gojira tai Megagirasu: Jî shômetsu sakusen",
+  "distributor": "Sony Pictures",
+  "year1": 2000,
+  "year2": 0,
+  "runtime": 105,
+  "release": "2014-05-06T00:00:00",
+  "seasons": 0,
+  "rated": "",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/5402_large.jpg?t=1393342913",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "12.99",
+  "sources": [
+    "https://www.vudu.com/content/movies/details/id/37519",
+    "https://www.microsoft.com/en-us/p/-/8d6kgwzl5fhk",
+    "https://play.google.com/store/movies/details/?id=RxRkvfUq-lU&gl=US&hl=en&PAffiliateID=1011lasW8",
+    "https://tv.apple.com/us/movie/umc.cmc.76yivys4endhozloux76s6fio?at=11laSw&ct=3594_1299_godzilla_vs_megaguirus"
+  ],
+  "info": {
+    "video": [
+      "Codec: TBA",
+      "Resolution: HD/HDX, SD",
+      "Original aspect ratio: 2.39:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://tv.apple.com/us/movie/umc.cmc.76yivys4endhozloux76s6fio?at=11laSw&ct=3594_1299_godzilla_vs_megaguirus",
+      "https://www.xfinity.com/stream/entity/7997650864552952112",
+      "https://www.vudu.com/content/movies/details/id/37519",
+      "https://www.youtube.com/watch?v=RxRkvfUq-lU&PAffiliateID=1011lasW8&gl=US",
+      "https://play.google.com/store/movies/details/?id=RxRkvfUq-lU&PAffiliateID=1011lasW8&gl=US",
+      "https://www.microsoft.com/en-us/p/-/8d6kgwzl5fhk"
+    ]
+  },
+  "url": "https://www.blu-ray.com/uv/Godzilla-vs-Megaguirus-The-G-Annihilation-Strategy-Digital/5402/",
+  "id": 5402,
+  "packaging": [],
+  "region_coding": []
+}

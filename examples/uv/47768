@@ -1,0 +1,59 @@
+{
+  "parent_link": "https://www.blu-ray.com/A-Great-North-Christmas/1503814/",
+  "parent_id": 1503814,
+  "title": "A Great North Christmas Digital",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Screen Media",
+  "year1": 2021,
+  "year2": 0,
+  "runtime": 83,
+  "release": "2021-12-07T00:00:00",
+  "seasons": 0,
+  "rated": "",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/47768_large.jpg?t=1639290299",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "9.99",
+  "sources": [
+    "https://play.google.com/store/movies/details/?id=W3_LEhPn2mY.P&gl=US&hl=en&PAffiliateID=1011lasW8",
+    "https://www.microsoft.com/en-us/p/-/8d6kgwxn68ps",
+    "https://www.vudu.com/content/movies/details/id/1961385",
+    "https://tv.apple.com/us/movie/umc.cmc.5aq36lnlcnrwqqxpxp2ukxbqi?at=11laSw&ct=169359_999_a_great_north_christmas"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: HD/HDX, SD"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://www.amazon.com/dp/B09MF48246/?tag=bluray_piv-20",
+      "https://play.google.com/store/movies/details/?id=W3_LEhPn2mY.P&PAffiliateID=1011lasW8&gl=US",
+      "https://www.vudu.com/content/movies/details/id/1961385",
+      "https://www.microsoft.com/en-us/p/-/8d6kgwxn68ps",
+      "https://tv.apple.com/us/movie/umc.cmc.5aq36lnlcnrwqqxpxp2ukxbqi?at=11laSw&ct=169359_999_a_great_north_christmas"
+    ]
+  },
+  "url": "https://www.blu-ray.com/uv/A-Great-North-Christmas-Digital/47768/",
+  "id": 47768,
+  "packaging": [],
+  "region_coding": []
+}

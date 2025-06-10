@@ -1,0 +1,57 @@
+{
+  "parent_link": "https://www.blu-ray.com/The-Kitchen/1313549/",
+  "parent_id": 1313549,
+  "title": "The Kitchen: Season 35 Digital",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Discovery, Inc.",
+  "year1": 2023,
+  "year2": 2024,
+  "runtime": 0,
+  "release": "2023-10-30T00:00:00",
+  "seasons": 0,
+  "rated": "TV-G",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/63597_large.jpg?t=1698737195",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "14.99",
+  "sources": [
+    "https://www.vudu.com/content/movies/details/id/2694268",
+    "https://tv.apple.com/us/season/season-35/umc.cmc.6usocehzhubyfimfmoqlppneb?showId=umc.cmc.29gofu5mst3dz1cepezn553fq&at=11laSw&ct=194901_1499_the_kitchen_season_35"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: HD/HDX, SD"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://tv.apple.com/us/season/season-35/umc.cmc.6usocehzhubyfimfmoqlppneb?showId=umc.cmc.29gofu5mst3dz1cepezn553fq&at=11laSw&ct=194901_1499_the_kitchen_season_35",
+      "https://play.google.com/store/tv/show/details/?id=ZbgJLdqqOdg&cdid=tvseason-A0WceeoJzhg.P&PAffiliateID=1011lasW8&gl=US",
+      "https://www.amazon.com/dp/B0CHFD8DQ3/?tag=bluray_piv-20",
+      "https://www.vudu.com/content/movies/details/id/2694268",
+      "https://play.google.com/store/tv/show/details/?id=ZbgJLdqqOdg&PAffiliateID=1011lasW8&gl=US"
+    ]
+  },
+  "url": "https://www.blu-ray.com/uv/The-Kitchen-Season-35-Digital/63597/",
+  "id": 63597,
+  "packaging": [],
+  "region_coding": []
+}

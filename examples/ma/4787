@@ -1,0 +1,53 @@
+{
+  "parent_link": "https://www.blu-ray.com/Turn-It-Up/339122/",
+  "parent_id": 339122,
+  "title": "Turn It Up MA",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Warner Bros.",
+  "year1": 2000,
+  "year2": 0,
+  "runtime": 86,
+  "release": "2017-10-12T00:00:00",
+  "seasons": 0,
+  "rated": "R",
+  "cover": "https://images.static-bluray.com/movies/macovers/4787_large.jpg?t=1527721717",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$9.99",
+  "sources": [
+    "https://tv.apple.com/us/movie/umc.cmc.5aikxx2guemwo6izdzgleb9jo?at=11laSw&ct=11161_0_turn_it_up"
+  ],
+  "info": {
+    "video": [],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://www.xfinity.com/stream/entity/6364800259911392112",
+      "https://www.microsoft.com/en-us/p/-/8d6kgwzl5k15",
+      "http://moviesanywhere.com/movie/turn-it-up",
+      "https://tv.apple.com/us/movie/umc.cmc.5aikxx2guemwo6izdzgleb9jo?at=11laSw&ct=11161_0_turn_it_up",
+      "https://play.google.com/store/movies/details/?id=3L0_LBRS7eQ&PAffiliateID=1011lasW8&gl=US",
+      "https://www.amazon.com/dp/B006YK2SXC/?tag=bluray_piv-20",
+      "https://www.vudu.com/content/movies/details/id/20927"
+    ]
+  },
+  "url": "https://www.blu-ray.com/ma/Turn-It-Up-Movies-Anywhere/4787/",
+  "id": 4787,
+  "packaging": [],
+  "region_coding": []
+}

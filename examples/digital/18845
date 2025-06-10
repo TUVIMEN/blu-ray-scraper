@@ -1,0 +1,63 @@
+{
+  "parent_link": "https://www.blu-ray.com/13-Hours-The-Secret-Soldiers-of-Benghazi/493387/",
+  "parent_id": 493387,
+  "title": "13 Hours: The Secret Soldiers of Benghazi Digital",
+  "country": "United States",
+  "subtitle": "4K Ultra HD",
+  "distributor": "Paramount Pictures",
+  "year1": 2016,
+  "year2": 0,
+  "runtime": 144,
+  "release": "2016-05-24T00:00:00",
+  "seasons": 0,
+  "rated": "R",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/18845_large.jpg?t=1657823158",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "14.99",
+  "sources": [
+    "https://tv.apple.com/us/movie/umc.cmc.57vs03ppt0jyktwn4yjk4jdj1?at=11laSw&ct=17375_1499_13_hours_the_secret_soldiers_",
+    "https://www.microsoft.com/en-us/p/-/8d6kgx0j9b0s",
+    "https://play.google.com/store/movies/details/?id=oRFAyhWLpeI&gl=US&hl=en&PAffiliateID=1011lasW8",
+    "https://www.vudu.com/content/movies/details/id/735269"
+  ],
+  "info": {
+    "video": [
+      "Codec: HEVC / H.265",
+      "Resolution: 4K, HD/HDX, SD",
+      "HDR: Dolby Vision, HDR10",
+      "Original aspect ratio: 2.39:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "English: Dolby Digital Plus 5.1"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://www.vudu.com/content/movies/details/id/735269",
+      "https://tv.apple.com/us/movie/umc.cmc.57vs03ppt0jyktwn4yjk4jdj1?at=11laSw&ct=17375_1499_13_hours_the_secret_soldiers_",
+      "https://www.microsoft.com/en-us/p/-/8d6kgx0j9b0s",
+      "https://play.google.com/store/movies/details/?id=oRFAyhWLpeI&PAffiliateID=1011lasW8&gl=US",
+      "https://www.youtube.com/watch?v=oRFAyhWLpeI&PAffiliateID=1011lasW8&gl=US",
+      "http://www.kaleidescape.com/movie-store/movie/13-hours-the-secret-soldiers-of-benghazi-2016",
+      "https://www.amazon.com/dp/B01AIW6QKW/?tag=bluray_piv-20"
+    ]
+  },
+  "url": "https://www.blu-ray.com/digital/13-Hours-The-Secret-Soldiers-of-Benghazi-Digital/18845/",
+  "id": 18845,
+  "packaging": [],
+  "region_coding": []
+}

@@ -1,0 +1,53 @@
+{
+  "parent_link": "https://www.blu-ray.com/Show-Boat/95167/",
+  "parent_id": 95167,
+  "title": "Show Boat MA",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Warner Bros.",
+  "year1": 1951,
+  "year2": 0,
+  "runtime": 107,
+  "release": "",
+  "seasons": 0,
+  "rated": "",
+  "cover": "https://images.static-bluray.com/movies/macovers/6513_large.jpg?t=1526347618",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$9.99",
+  "sources": [
+    "https://tv.apple.com/us/movie/umc.cmc.4h6sydfgzm2nezav0gohqnudm?at=11laSw&ct=1034_0_show_boat"
+  ],
+  "info": {
+    "video": [],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://play.google.com/store/movies/details/?id=bDZ1xp66VSs&PAffiliateID=1011lasW8&gl=US",
+      "http://moviesanywhere.com/movie/show-boat",
+      "https://www.amazon.com/dp/B006M8JFD2/?tag=bluray_piv-20",
+      "https://www.xfinity.com/stream/entity/6173558379466525112",
+      "https://www.microsoft.com/en-us/p/-/8d6kgwzl5h07",
+      "https://www.vudu.com/content/movies/details/id/9376",
+      "https://tv.apple.com/us/movie/umc.cmc.4h6sydfgzm2nezav0gohqnudm?at=11laSw&ct=1034_0_show_boat"
+    ]
+  },
+  "url": "https://www.blu-ray.com/ma/Show-Boat-Movies-Anywhere/6513/",
+  "id": 6513,
+  "packaging": [],
+  "region_coding": []
+}

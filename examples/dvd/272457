@@ -1,0 +1,80 @@
+{
+  "parent_link": "https://www.blu-ray.com/dvd/American-Sniper-DVD/225083/",
+  "parent_id": 359204,
+  "title": "Colección Clint Eastwood DVD",
+  "country": "Spain",
+  "subtitle": "DigiPack / El francotirador + Mystic River + J. Edgar + Cartas desde Iwo Jima + Million Dollar Baby + Banderas de nuestros padres + Sin perdón + Gran Torino + Los puentes de Madison + Invictus",
+  "distributor": "Warner Bros.",
+  "year1": 1992,
+  "year2": 2014,
+  "runtime": 0,
+  "release": "",
+  "seasons": 0,
+  "rated": "ESP: 13, ESP: 16, ESP: 18, ESP: 7, ESP: A",
+  "cover": "https://images.static-bluray.com/movies/dvdcovers/272457_large.jpg?t=1683028614",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "€69.99",
+  "price": "€72.99",
+  "sources": [
+    "https://www.amazon.es/s?k=5051893225723&SubscriptionId=AKIAJVVUESQCQC4UYBWA&suppress-ve=1&tag=bluraycom06-21&linkCode=xm2",
+    "https://www.amazon.es/Coleccion-Clint-Eastwood/dp/B0168UDVVU?tag=bluraycom06-21&linkCode=ogi&th=1&psc=1&m=",
+    "https://www.ebay.es/sch/i.html?_nkw=5051893225723&mkcid=1&mkrid=1185-53479-19255-0&siteid=0&campid=5337460077&toolid=10001&customid=&mkevt=1"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-2",
+      "Encoding format: 16:9",
+      "Resolution: 576i (PAL)",
+      "Aspect ratio: 2.40:1, 2.39:1, 2.35:1, 1.77:1",
+      "Original aspect ratio: 1.85:1, 2.39:1"
+    ],
+    "discs": [
+      "DVD",
+      "Ten-disc set (10 DVD-9)"
+    ],
+    "digital": [],
+    "packaging": [
+      "DigiPack"
+    ],
+    "playback": [
+      "Region 2 (1,3,4,5,6,7,8 untested)"
+    ],
+    "audio": [
+      "American Sniper: English: Dolby Digital 5.1\tGerman: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "Mystic River: English: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "J. Edgar: English: Dolby Digital 5.1\tGerman: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "Letters from Iwo Jima: Japanese: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "Million Dollar Baby: English: DTS 5.1\tSpanish: DTS 5.1\tEnglish: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "Flags of Our Fathers: English: Dolby Digital 5.1\tGerman: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "Unforgiven: English: Dolby Digital 5.1\tGerman: Dolby Digital 2.0\tSpanish: Dolby Digital 2.0",
+      "Gran Torino: English: Dolby Digital 5.1\tGerman: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "The Bridges of Madison County: English: Dolby Digital 5.1\tFrench: Dolby Digital 5.1\tGerman: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1",
+      "Invictus: English: Dolby Digital 5.1\tGerman: Dolby Digital 5.1\tSpanish: Dolby Digital 5.1"
+    ],
+    "subtitles": [
+      "American Sniper: Spanish, English SDH, German SDH, Danish, Finnish, Icelandic, Norwegian, Swedish",
+      "Mystic River: Spanish, Portuguese, English, English SDH",
+      "J. Edgar: Spanish, Portuguese, English SDH, German SDH, Danish, Finnish, Icelandic, Norwegian, Swedish",
+      "Letters from Iwo Jima: Spanish, English",
+      "Million Dollar Baby: Spanish, English",
+      "Flags of Our Fathers: Spanish, Portuguese, English, German, German SDH",
+      "Unforgiven: Spanish, Portuguese, English, English SDH, French, German, German SDH, Italian, Czech, Danish, Dutch, Finnish, Greek, Hebrew, Norwegian, Polish, Swedish",
+      "Gran Torino: Spanish, Portuguese, English SDH, German, German SDH, Danish, Finnish, Norwegian, Swedish",
+      "The Bridges of Madison County: Spanish, English, English SDH, French, German, German SDH",
+      "Invictus: Spanish, Portuguese, English SDH, German SDH, Danish, Finnish, Norwegian, Swedish"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/dvd/Coleccion-Clint-Eastwood-DVD/272457/",
+  "id": 272457,
+  "packaging": [],
+  "region_coding": []
+}

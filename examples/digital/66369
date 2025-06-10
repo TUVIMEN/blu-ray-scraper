@@ -1,0 +1,77 @@
+{
+  "parent_link": "https://www.blu-ray.com/digital/The-Birdcage-Digital/10092/",
+  "parent_id": 61559,
+  "title": "MGM 100 Anniversary Collection Digital",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Metro-Goldwyn-Mayer",
+  "year1": 1944,
+  "year2": 2021,
+  "runtime": 0,
+  "release": "2024-04-17T00:00:00",
+  "seasons": 0,
+  "rated": "G, PG, PG-13, R",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/66369_large.jpg?t=1713671062",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "100",
+  "sources": [
+    "https://www.vudu.com/content/movies/details/id/3080805"
+  ],
+  "info": {
+    "video": [
+      "Codec: HEVC / H.265, MPEG-4 AVC",
+      "Resolution: HD/HDX, SD",
+      "Aspect ratio: 2.55:1, 2.35:1, 2.00:1, 1.85:1, 1.66:1, 1.33:1",
+      "Original aspect ratio:"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "Rain Man: English: Dolby Digital 2.0",
+      "Baby Boom: English: Dolby Digital 2.0",
+      "Ben-Hur: English: Dolby Digital Plus 5.1",
+      "The Big Country: English: Dolby Digital 2.0",
+      "The Defiant Ones: English: Dolby Digital 2.0",
+      "A Fish Called Wanda: English: Dolby Digital Plus 5.1",
+      "Hot Pursuit: English: Dolby Digital Plus 5.1",
+      "The Hustle: English: Dolby Digital Plus 5.1",
+      "If I Stay: English: Dolby Digital Plus 5.1",
+      "Igby Goes Down: English: Dolby Digital Plus 5.1",
+      "The Kentuckian: English: Dolby Digital 2.0",
+      "The Last Waltz: English: Dolby Digital 2.0",
+      "The Man in the Moon: English: Dolby Digital 2.0",
+      "Man of the West: English: Dolby Digital 2.0",
+      "The Miracle Worker: English: Dolby Digital 2.0",
+      "Red River: English: Dolby Digital 2.0",
+      "The Russians Are Coming, the Russians Are Coming: English: Dolby Digital 2.0",
+      "Thief: English: Dolby Digital 2.0",
+      "Tomb Raider: English: Dolby Atmos\tEnglish: Dolby Digital Plus 5.1",
+      "The Train: English: Dolby Digital 2.0",
+      "Uptown Girls: English: Dolby Digital 2.0",
+      "Vera Cruz: English: Dolby Digital 2.0",
+      "Witness for the Prosecution: English: Dolby Digital 2.0"
+    ],
+    "subtitles": [
+      "See individual releases"
+    ],
+    "links": [
+      "https://tv.apple.com/us/movie-bundle/umc.cmr.its.bun.7cyes6bkbh0fqw5h7bjrr8nzw?at=11laSw&ct=website",
+      "https://www.vudu.com/content/movies/details/id/3080805"
+    ]
+  },
+  "url": "https://www.blu-ray.com/digital/MGM-100-Anniversary-Collection-Digital/66369/",
+  "id": 66369,
+  "packaging": [],
+  "region_coding": []
+}

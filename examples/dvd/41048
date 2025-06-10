@@ -1,0 +1,68 @@
+{
+  "parent_link": "https://www.blu-ray.com/dvd/One-Night-in-the-Tropics-DVD/88537/",
+  "parent_id": 340722,
+  "title": "Abbott & Costello: The Complete Universal Pictures Collection DVD",
+  "country": "United States",
+  "subtitle": "One Night in the Tropics / Buck Privates / In the Navy / Hold That Ghost / Keep 'Em Flying / Ride 'Em Cowboy / Pardon My Sarong / Who Done It? / It Ain't Hay / Hit the Ice / In Society / Here Come the Co-Eds / The Naughty Nineties / Little Giant / The Time of Their Lives / Buck Privates Come Home / The Wistful Widow of Wagon Gap / Meet Frankenstein / Mexican Hayride / Meet the Killer, Boris Karloff / in the Foreign Legion / Meet the Invisible Man / Comin' Round the Mountain / Lost in Alaska / Go to Mars / Meet Dr. Jekyll and Mr. Hyde / Meet the Keystone Kops / Meet the Mummy",
+  "distributor": "Universal Studios",
+  "year1": 1940,
+  "year2": 1955,
+  "runtime": 2296,
+  "release": "2008-10-28T00:00:00",
+  "seasons": 0,
+  "rated": "",
+  "cover": "https://images.static-bluray.com/movies/dvdcovers/41048_large.jpg?t=0",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "$39.00",
+  "price": "$72.98",
+  "sources": [
+    "https://www.ebay.com/sch/i.html?_nkw=025195020725&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5336448800&toolid=10001&customid=&mkevt=1",
+    "https://www.amazon.com/Abbott-and-Costello-The-Complete-Universal-Pictures-Collection/dp/B001EXE2Y2?tag=bluray_dvd-20&linkCode=ogi&th=1&psc=1&m=",
+    "https://www.amazon.com/s?rh=n:2644981011&k=025195020725|0025195020725&suppress-ve=1&tag=bluraylink-20&linkCode=xm2"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-2",
+      "Encoding format: 4:3",
+      "Resolution: 480i (NTSC)",
+      "Aspect ratio: 1.33:1",
+      "Original aspect ratio: 1.37:1, 1.85:1"
+    ],
+    "discs": [
+      "DVD",
+      "Fifteen-disc set (15 DVD-9)"
+    ],
+    "digital": [],
+    "packaging": [
+      "Custom"
+    ],
+    "playback": [
+      "Region 1 (2,3,4,5,6,7,8 untested)"
+    ],
+    "audio": [
+      "English: Dolby Digital Mono"
+    ],
+    "subtitles": [
+      "Buck Privates: English SDH",
+      "In the Navy: English SDH",
+      "The Naughty Nineties: English SDH",
+      "Abbott and Costello Meet Frankenstein: English SDH, French",
+      "Abbott and Costello Meet the Invisible Man: English SDH, French, Spanish",
+      "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde: English SDH, French, Spanish",
+      "Abbott and Costello Meet the Mummy: English SDH"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/dvd/Abbott-and-Costello-The-Complete-Universal-Pictures-Collection-DVD/41048/",
+  "id": 41048,
+  "packaging": [],
+  "region_coding": []
+}

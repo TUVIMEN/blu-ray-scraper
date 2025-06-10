@@ -1,0 +1,62 @@
+{
+  "parent_link": "https://www.blu-ray.com/The-Office/21444/",
+  "parent_id": 21444,
+  "title": "The Office: Season 8 Digital",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Universal Studios",
+  "year1": 2011,
+  "year2": 2012,
+  "runtime": 530,
+  "release": "2012-09-04T00:00:00",
+  "seasons": 0,
+  "rated": "TV-PG",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/461_large.jpg?t=1428684188",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "99.99",
+  "sources": [
+    "https://play.google.com/store/tv/show/details/?id=OPYcd4k7ZSQ&gl=US&hl=en&PAffiliateID=1011lasW8",
+    "https://tv.apple.com/us/season/season-1/umc.cmc.3juixtzr38wai4w2h7wusista?showId=umc.cmc.455js879szmdywutf3qjewagm&at=11laSw&ct=105478_9999_the_office_the_complete_seri",
+    "https://www.microsoft.com/en-us/p/-/8d6kgwzl68h6",
+    "https://www.vudu.com/content/movies/details/id/229680"
+  ],
+  "info": {
+    "video": [
+      "Codec: TBA",
+      "Resolution: HD/HDX, SD",
+      "Aspect ratio: 1.78:1",
+      "Original aspect ratio: 1.78:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://tv.apple.com/us/season/season-1/umc.cmc.3juixtzr38wai4w2h7wusista?showId=umc.cmc.455js879szmdywutf3qjewagm&at=11laSw&ct=105478_9999_the_office_the_complete_seri",
+      "https://www.microsoft.com/en-us/p/-/8d6kgwzl68h6",
+      "https://www.vudu.com/content/movies/details/id/229680",
+      "https://play.google.com/store/tv/show/details/?id=OPYcd4k7ZSQ&cdid=tvseason-UNGGV0Q3-eI&PAffiliateID=1011lasW8&gl=US",
+      "https://play.google.com/store/tv/show/details/?id=OPYcd4k7ZSQ&PAffiliateID=1011lasW8&gl=US",
+      "http://www.universalhidef.com/digitalcopy/step1.aspx?discid=ab63be10-0a67-49bf-a9fc-41a6588b2fa1"
+    ]
+  },
+  "url": "https://www.blu-ray.com/digital/The-Office-Season-8-Digital/461/",
+  "id": 461,
+  "packaging": [],
+  "region_coding": []
+}

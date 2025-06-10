@@ -1,0 +1,61 @@
+{
+  "parent_link": "https://www.blu-ray.com/CSI-Crime-Scene-Investigation/19652/",
+  "parent_id": 19652,
+  "title": "CSI: Crime Scene Investigation: Season 8 Digital",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Paramount Pictures",
+  "year1": 2007,
+  "year2": 2008,
+  "runtime": 0,
+  "release": "",
+  "seasons": 0,
+  "rated": "TV-14",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/8860_large.jpg?t=1412013262",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "14.99",
+  "sources": [
+    "https://www.vudu.com/content/movies/details/id/239238",
+    "https://tv.apple.com/us/season/season-8/umc.cmc.3y4a4l4enbyj5wi3r7dml2094?showId=umc.cmc.1rq7kopvvpayyuav6vda2hx6r&at=11laSw&ct=12037_1499_csi_crime_scene_investigation",
+    "https://play.google.com/store/tv/show/details/?id=0gALbvKU_C8&gl=US&hl=en&PAffiliateID=1011lasW8",
+    "https://www.microsoft.com/en-us/p/-/8d6kgwzlcdgs"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: HD/HDX, SD",
+      "Original aspect ratio: 1.78:1, 1.33:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://play.google.com/store/tv/show/details/?id=0gALbvKU_C8&cdid=tvseason-nAmeTIdgBA_LVNbbSl962Q&PAffiliateID=1011lasW8&gl=US",
+      "https://www.vudu.com/content/movies/details/id/239238",
+      "https://play.google.com/store/tv/show/details/?id=0gALbvKU_C8&PAffiliateID=1011lasW8&gl=US",
+      "https://www.microsoft.com/en-us/p/-/8d6kgwzlcdgs",
+      "https://tv.apple.com/us/season/season-8/umc.cmc.3y4a4l4enbyj5wi3r7dml2094?showId=umc.cmc.1rq7kopvvpayyuav6vda2hx6r&at=11laSw&ct=12037_1499_csi_crime_scene_investigation",
+      "https://www.amazon.com/dp/B0067QYB92/?tag=bluray_piv-20"
+    ]
+  },
+  "url": "https://www.blu-ray.com/digital/CSI-Crime-Scene-Investigation-Season-8-Digital/8860/",
+  "id": 8860,
+  "packaging": [],
+  "region_coding": []
+}

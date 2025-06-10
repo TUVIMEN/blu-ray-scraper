@@ -1,0 +1,50 @@
+{
+  "parent_link": "https://www.blu-ray.com/First-Time-Fixer/1531467/",
+  "parent_id": 1531467,
+  "title": "First Time Fixer: Season 3 Prime",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Discovery, Inc.",
+  "year1": 2022,
+  "year2": 0,
+  "runtime": 0,
+  "release": "2022-02-26T00:00:00",
+  "seasons": 0,
+  "rated": "TV-G",
+  "cover": "https://m.media-amazon.com/images/I/51Fm0bCd6dL._SL500_.jpg",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$9.99",
+  "sources": [
+    "https://www.amazon.com/First-Time-Fixer-Season-3/dp/B09RSKNJQ5?SubscriptionId=AKIAIY4YSQJMFDJATNBA&tag=bluray_piv-20&linkCode=ogi&th=1&psc=1"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: 1080p"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/prime/First-Time-Fixer-Season-3-Prime-Video/58175/",
+  "id": 58175,
+  "packaging": [],
+  "region_coding": []
+}

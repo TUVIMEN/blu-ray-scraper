@@ -1,0 +1,82 @@
+{
+  "parent_link": "https://www.blu-ray.com/dvd/Big-Jake-DVD/6562/",
+  "parent_id": 30040,
+  "title": "John Wayne 14-Movie Collection DVD",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Paramount Pictures",
+  "year1": 1953,
+  "year2": 1976,
+  "runtime": 1690,
+  "release": "",
+  "seasons": 0,
+  "rated": "G, PG, PG-13",
+  "cover": "https://images.static-bluray.com/movies/dvdcovers/259166_large.jpg?t=1657723525",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$29.96",
+  "sources": [
+    "https://www.amazon.com/John-Wayne-14-Movie-Collection/dp/B08SXZBBZV?tag=bluray_dvd-20&linkCode=ogi&th=1&psc=1&m=ATVPDKIKX0DER"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-2",
+      "Resolution: 480i (NTSC)",
+      "Aspect ratio: 2.35:1, 1.85:1, 1.33:1",
+      "Original aspect ratio: 1.85:1, 2.35:1, 2.39:1, 2.55:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [
+      "Inner print"
+    ],
+    "playback": [
+      "Region 1 (2,3,4,5,6,7,8 untested)"
+    ],
+    "audio": [
+      "Big Jake: English: Dolby Digital 2.0\tFrench: Dolby Digital Mono",
+      "Donovan's Reef: English: Dolby Digital Mono\tFrench: Dolby Digital Mono",
+      "El Dorado: English: Dolby Digital Mono\tFrench: Dolby Digital Mono",
+      "Hatari!: English: Dolby Digital Mono\tFrench: Dolby Digital Mono",
+      "Hondo: English: Dolby Digital 5.1\tEnglish: Dolby Digital Mono",
+      "In Harm's Way: English: Dolby Digital 5.1\tEnglish: Dolby Digital 2.0",
+      "Island in the Sky: English: Dolby Digital Mono",
+      "\"McLintock!\": English: Dolby Digital 5.1\tEnglish: Dolby Digital Mono",
+      "Rio Lobo: English: Dolby Digital 2.0\tFrench: Dolby Digital Mono",
+      "The High and the Mighty: English: Dolby Digital 5.1\tEnglish: Dolby Digital Mono",
+      "The Man Who Shot Liberty Valance: English: Dolby Digital 5.1\tEnglish: Dolby Digital Mono\tSpanish: Dolby Digital Mono",
+      "The Shootist: English: Dolby Digital Mono\tFrench: Dolby Digital Mono",
+      "The Sons of Katie Elder: English: Dolby Digital Mono\tFrench: Dolby Digital Mono",
+      "True Grit: English: Dolby Digital 5.1\tEnglish: Dolby Digital Mono\tFrench: Dolby Digital Mono"
+    ],
+    "subtitles": [
+      "Big Jake: English",
+      "Donovan's Reef: English",
+      "El Dorado: English SDH",
+      "Hatari!: English",
+      "Hondo: English",
+      "In Harm's Way: English",
+      "Island in the Sky: English",
+      "\"McLintock!\": English",
+      "Rio Lobo: English",
+      "The High and the Mighty: English",
+      "The Man Who Shot Liberty Valance: English, French, Spanish",
+      "The Shootist: English",
+      "The Sons of Katie Elder: English",
+      "True Grit: English SDH"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/dvd/John-Wayne-14-Movie-Collection-DVD/259166/",
+  "id": 259166,
+  "packaging": [],
+  "region_coding": []
+}

@@ -1,0 +1,1422 @@
+{
+  "cover": "https://images.static-bluray.com/products/20/789_1_front.jpg",
+  "title": "Heroes",
+  "year": 2006,
+  "screenshots": [
+    "https://images.static-bluray.com/reviews/3067_1.jpg",
+    "https://images.static-bluray.com/reviews/3067_2.jpg",
+    "https://images.static-bluray.com/reviews/3067_3.jpg",
+    "https://images.static-bluray.com/reviews/3067_4.jpg",
+    "https://images.static-bluray.com/reviews/3067_5.jpg",
+    "https://images.static-bluray.com/reviews/3067_6.jpg"
+  ],
+  "watched": 1785,
+  "watchlist": 42,
+  "notinterested": 47,
+  "appeals": [
+    {
+      "name": "Action",
+      "amount": 230
+    },
+    {
+      "name": "Sci-Fi",
+      "amount": 168
+    },
+    {
+      "name": "Fantasy",
+      "amount": 145
+    },
+    {
+      "name": "Drama",
+      "amount": 0
+    }
+  ],
+  "plottags": [
+    "Save the world",
+    "Superhero",
+    "Time travel",
+    "On the run",
+    "New York",
+    "Serial killer",
+    "Twists and turns",
+    "Coming home",
+    "Post apocalypse",
+    "Mutant",
+    "Split personality"
+  ],
+  "studios": [
+    {
+      "name": "Tailwind Productions",
+      "link": "https://www.blu-ray.com/Tailwind-Productions/1290958/"
+    },
+    {
+      "name": "Universal Television",
+      "link": "https://www.blu-ray.com/Universal-Television/1288485/"
+    }
+  ],
+  "distributors": [
+    {
+      "name": "Universal Studios",
+      "link": "https://www.blu-ray.com/Universal-Studios/1281871/"
+    }
+  ],
+  "releasedates": [],
+  "boxoffice": [],
+  "country": "US",
+  "language": "English",
+  "runtime": 3280,
+  "rated": "TV-14",
+  "technical": "1.78:1",
+  "fans": 70,
+  "collections": {
+    "blu-ray": 9723,
+    "dvd": 4311,
+    "digital": 213,
+    "itunes": 166,
+    "prime": 32
+  },
+  "score": 7.12,
+  "liked": 999,
+  "sources": [
+    {
+      "name": "imdb",
+      "link": "https://www.imdb.com/title/tt0813715/"
+    },
+    {
+      "name": "rottentomatoes",
+      "link": "https://www.rottentomatoes.com/tv/heroes"
+    },
+    {
+      "name": "wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Heroes_(American_TV_series)"
+    },
+    {
+      "name": "allrovi",
+      "link": "http://www.allmovie.com/movie/v358376"
+    },
+    {
+      "name": "themoviedb",
+      "link": "https://www.themoviedb.org/tv/1639-heroes"
+    }
+  ],
+  "id": 18724,
+  "url": "https://www.blu-ray.com/Heroes/18724/",
+  "releases": [
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/840/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$16.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/841/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/5697/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/11112/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/205671/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/8240/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/8239/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/78053/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/78543/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": "£3.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/4866/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/10428/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/36540/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": "C$49.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/36541/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": "C$49.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/36539/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": "C$49.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/36542/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": "C$49.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/33978/",
+      "country": "Australia",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/33981/",
+      "country": "Australia",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/33984/",
+      "country": "Australia",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/14253/",
+      "country": "Australia",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/191623/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/191622/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/191621/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": "€28.49"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/19754/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/191620/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1 (Saison 1)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/244761/",
+      "country": "France",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2 (Saison 2)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/244760/",
+      "country": "France",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3 (Saison 3)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/6054/",
+      "country": "France",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4 (Saison 4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/13350/",
+      "country": "France",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1 (Stagioni 1)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/244255/",
+      "country": "Italy",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2 (Stagioni 2)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/244256/",
+      "country": "Italy",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3 (Stagioni 3)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/244257/",
+      "country": "Italy",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4 (Stagioni 4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/244258/",
+      "country": "Italy",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/118057/",
+      "country": "Sweden",
+      "distributor": "Universal Studios",
+      "price": "SEK149"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/118058/",
+      "country": "Sweden",
+      "distributor": "Universal Studios",
+      "price": "SEK119"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/118059/",
+      "country": "Sweden",
+      "distributor": "Universal Studios",
+      "price": "SEK119"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/118060/",
+      "country": "Sweden",
+      "distributor": "Universal Studios",
+      "price": "SEK149"
+    },
+    {
+      "name": "Heroes: Season 1 (Sesong 1)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/244222/",
+      "country": "Norway",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2 (Sesong 2)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/244221/",
+      "country": "Norway",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3 (Sesong 3)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/244220/",
+      "country": "Norway",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4 (Sesong 4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/244223/",
+      "country": "Norway",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/118086/",
+      "country": "Denmark",
+      "distributor": "Universal Studios",
+      "price": "DKK179"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/118085/",
+      "country": "Denmark",
+      "distributor": "Universal Studios",
+      "price": "DKK149"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/118084/",
+      "country": "Denmark",
+      "distributor": "Universal Studios",
+      "price": "DKK119"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/118083/",
+      "country": "Denmark",
+      "distributor": "Universal Studios",
+      "price": "DKK179"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/117722/",
+      "country": "Finland",
+      "distributor": "Universal Sony Pictures Home Entertainment",
+      "price": "€17.95"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/117721/",
+      "country": "Finland",
+      "distributor": "Universal Sony Pictures Home Entertainment",
+      "price": "€14.95"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/117720/",
+      "country": "Finland",
+      "distributor": "Universal Sony Pictures Home Entertainment",
+      "price": "€12.49"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/117719/",
+      "country": "Finland",
+      "distributor": "Universal Sony Pictures Home Entertainment",
+      "price": "€17.95"
+    },
+    {
+      "name": "Heroes: Season 1 (Héroes: Temporada 1)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/168907/",
+      "country": "Mexico",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2 (Héroes: Temporada 2)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/121807/",
+      "country": "Mexico",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3 (Héroes: Temporada 3)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/168908/",
+      "country": "Mexico",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4 (Héroes: Temporada 4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/168909/",
+      "country": "Mexico",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1 (ヒーローズ シーズン1)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-1-Blu-ray/138886/",
+      "country": "Japan",
+      "distributor": "NBCUniversal Entertainment Japan",
+      "price": "¥3873"
+    },
+    {
+      "name": "Heroes: Season 2 (ヒーローズ シーズン2)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-2-Blu-ray/138887/",
+      "country": "Japan",
+      "distributor": "NBCUniversal Entertainment Japan",
+      "price": "¥2318"
+    },
+    {
+      "name": "Heroes: Season 3 (ヒーローズ シーズン3)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-3-Blu-ray/138888/",
+      "country": "Japan",
+      "distributor": "NBCUniversal Entertainment Japan",
+      "price": "¥3873"
+    },
+    {
+      "name": "Heroes: Season 4 (Final Season / ヒーローズ ファイナル・シーズン)",
+      "link": "https://www.blu-ray.com/movies/Heroes-Season-4-Blu-ray/138889/",
+      "country": "Japan",
+      "distributor": "NBCUniversal Entertainment Japan",
+      "price": "¥3873"
+    },
+    {
+      "name": "Heroes: The Complete Seasons 1 & 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Seasons-1-and-2-Blu-ray/1994/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Series-Blu-ray/136793/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Series-Blu-ray/245083/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/355145/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$61.21"
+    },
+    {
+      "name": "Heroes: The Complete Seasons 1 & 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Seasons-1-and-2-Blu-ray/1934/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Seasons 1-3",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Seasons-1-3-Blu-ray/5418/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/10427/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/218210/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection (2012 Repackage)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/45890/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Series-Blu-ray/264073/",
+      "country": "United Kingdom",
+      "distributor": "Mediumrare Entertainment",
+      "price": "£56.81"
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Series-Blu-ray/138581/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/33986/",
+      "country": "Australia",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Complete Seasons 1 & 2",
+      "link": "https://www.blu-ray.com/movies/Heroes-Complete-Seasons-1-and-2-Blu-ray/25261/",
+      "country": "Australia",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Complete Seasons 1-3",
+      "link": "https://www.blu-ray.com/movies/Heroes-Complete-Seasons-1-3-Blu-ray/33985/",
+      "country": "Australia",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection (Die Komplette Serie)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/327812/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": "€39.97"
+    },
+    {
+      "name": "Heroes: The Complete Collection (Staffel 1-4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/112582/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series (L'Intégrale de la Série)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Series-Blu-ray/137584/",
+      "country": "France",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series (L'Intégrale de la Série / Heroes + Heroes Reborn)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Series-Blu-ray/158346/",
+      "country": "France",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection (Stagioni 1-4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/170572/",
+      "country": "Italy",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Collection (Säsong 1-4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/117914/",
+      "country": "Sweden",
+      "distributor": "Universal Studios",
+      "price": "SEK299"
+    },
+    {
+      "name": "Heroes: The Complete Collection (Sesong 1-4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/117913/",
+      "country": "Norway",
+      "distributor": "Universal Studios",
+      "price": "NOK299"
+    },
+    {
+      "name": "Heroes: The Complete Collection (Sæson 1-4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/117915/",
+      "country": "Denmark",
+      "distributor": "Universal Studios",
+      "price": "DKK249"
+    },
+    {
+      "name": "Heroes: The Complete Collection (Kaudet 1-4)",
+      "link": "https://www.blu-ray.com/movies/Heroes-The-Complete-Collection-Blu-ray/117718/",
+      "country": "Finland",
+      "distributor": "Universal Sony Pictures Home Entertainment",
+      "price": "€29.95"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-DVD/3093/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$15.18"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-DVD/79848/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1 (Collector's Edition)",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-DVD/31531/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/6561/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/80459/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/295991/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3-DVD/3152/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$15.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3-DVD/79869/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4-DVD/9840/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4-DVD/80458/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1 Volumes 1 & 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-Volumes-1-and-2-DVD/278907/",
+      "country": "United Kingdom",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2 Volume 1",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-Volume-1-DVD/288027/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Season 1",
+      "link": "https://www.blu-ray.com/dvd/Heroes-The-Complete-Season-1-DVD/23404/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "We Can Be Heroes",
+      "link": "https://www.blu-ray.com/dvd/We-Can-Be-Heroes-DVD/106308/",
+      "country": "United Kingdom",
+      "distributor": "2 Entertain Video",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/20349/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3-DVD/23405/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4-DVD/179962/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-DVD/75255/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/75256/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": "C$22.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3-DVD/75257/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": "C$14.94"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4-DVD/75258/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Die komplette Season 1 - Metal-Pack [7 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Die-komplette-Season-1-Metal-Pack-7-DVDs-DVD/303808/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 1 [7 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-7-DVDs-DVD/303799/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 1.2 (3 DVDs im Steelbook)",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1.2-DVD/303803/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1.1",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1.1-DVD/291502/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 2 [4 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-4-DVDs-DVD/303800/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/291496/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 3 [6 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3-6-DVDs-DVD/303801/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 3.1 - Steelbook [3 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3.1-Steelbook-3-DVDs-DVD/303804/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 3.1 [3 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3.1-3-DVDs-DVD/303809/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 3.2 - Steelbook [3 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3.2-Steelbook-3-DVDs-DVD/303805/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 3.2 [3 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3.2-3-DVDs-DVD/303810/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 4 [6 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4-6-DVDs-DVD/303802/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 4.1 - Steelbook [4 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4.1-Steelbook-4-DVDs-DVD/303806/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 4.1 [3 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4.1-3-DVDs-DVD/303811/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 4.2 - Steelbook [3 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4.2-Steelbook-3-DVDs-DVD/303807/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes - Season 4.2 [3 DVDs]",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4.2-3-DVDs-DVD/303812/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1 (Héroes: Temporada 1)",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-DVD/183381/",
+      "country": "Spain",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes (Héroes / Segunda Temporada Completa)",
+      "link": "https://www.blu-ray.com/dvd/Heroes-DVD/276625/",
+      "country": "Spain",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes (Héroes / Tercera Temporada Completa)",
+      "link": "https://www.blu-ray.com/dvd/Heroes-DVD/276639/",
+      "country": "Spain",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/201386/",
+      "country": "Greece",
+      "distributor": "Sony Pictures",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 1 (Heroes: Primeira Temporada [Digistak])",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-1-DVD/186853/",
+      "country": "Brazil",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 2 (Heroes: Segunda Temporada [Digistak])",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-2-DVD/186852/",
+      "country": "Brazil",
+      "distributor": "Universal Music",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 3 (Heroes: Terceira Temporada)",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-3-DVD/186851/",
+      "country": "Brazil",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Season 4 (Heroes: Quarta Temporada)",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Season-4-DVD/186850/",
+      "country": "Brazil",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "The Little Heroes  Gamera: The Day Toto Became Gamera",
+      "link": "https://www.blu-ray.com/dvd/The-Little-Heroes---Gamera-The-Day-Toto-Became-Gamera-DVD/265087/",
+      "country": "Japan",
+      "distributor": "Kadokawa Entertainment",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Seasons 1-3 Collection",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Seasons-1-3-Collection-DVD/18302/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/dvd/Heroes-The-Complete-Series-DVD/80456/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/dvd/Heroes-The-Complete-Series-DVD/117632/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/dvd/Heroes-The-Complete-Series-DVD/281101/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$30.99"
+    },
+    {
+      "name": "Heroes: Complete Seasons 1 & 2",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Complete-Seasons-1-and-2-DVD/179965/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Seasons 1-3 Collection",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Seasons-1-3-Collection-DVD/75259/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/dvd/Heroes-The-Complete-Series-DVD/115971/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/dvd/Heroes-The-Complete-Series-DVD/279189/",
+      "country": "Canada",
+      "distributor": "Universal Studios",
+      "price": "C$46.99"
+    },
+    {
+      "name": "Heroes - Die komplette Serie",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Die-komplette-Serie-DVD/303839/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes: Die komplette Serie - Season 1-4",
+      "link": "https://www.blu-ray.com/dvd/Heroes-Die-komplette-Serie-Season-1-4-DVD/303840/",
+      "country": "Germany",
+      "distributor": "Universal Studios",
+      "price": ""
+    },
+    {
+      "name": "Heroes, Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/6535/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "SD: $34.99, HD: $39.99"
+    },
+    {
+      "name": "Heroes, Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/6547/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "SD: $18.99, HD: $24.99"
+    },
+    {
+      "name": "Heroes, Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/6546/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "SD: $34.99, HD: $39.99"
+    },
+    {
+      "name": "Heroes: All-Stars",
+      "link": "https://www.blu-ray.com/itunes/Heroes-All-Stars-iTunes/22139/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "SD: $4.99, HD: $7.99"
+    },
+    {
+      "name": "Heroes, Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/6560/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "SD: $34.99, HD: $39.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/109902/",
+      "country": "United Kingdom",
+      "distributor": "",
+      "price": "SD: £12.99, HD: £14.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/109903/",
+      "country": "United Kingdom",
+      "distributor": "",
+      "price": "SD: £9.99, HD: £11.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/109901/",
+      "country": "United Kingdom",
+      "distributor": "",
+      "price": "SD: £12.99, HD: £14.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/109904/",
+      "country": "United Kingdom",
+      "distributor": "",
+      "price": "SD: £12.99, HD: £14.99"
+    },
+    {
+      "name": "Heroes: All-Stars",
+      "link": "https://www.blu-ray.com/itunes/Heroes-All-Stars-iTunes/156735/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$4.99, HD: C$7.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/129827/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$18.99, HD: C$24.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/109907/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$18.99, HD: C$24.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/111392/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$34.99, HD: C$39.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/109905/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$34.99, HD: C$39.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/111390/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$34.99, HD: C$39.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/109908/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$34.99, HD: C$39.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/111391/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$34.99, HD: C$39.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/109906/",
+      "country": "Canada",
+      "distributor": "",
+      "price": "SD: C$34.99, HD: C$39.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/109909/",
+      "country": "Australia",
+      "distributor": "",
+      "price": "SD: AU$17.99, HD: AU$19.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/109912/",
+      "country": "Australia",
+      "distributor": "",
+      "price": "SD: AU$17.99, HD: AU$19.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/109910/",
+      "country": "Australia",
+      "distributor": "",
+      "price": "SD: AU$17.99, HD: AU$19.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/109911/",
+      "country": "Australia",
+      "distributor": "",
+      "price": "SD: AU$17.99, HD: AU$19.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/205455/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €24.99, HD: €27.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/205459/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €24.99, HD: €27.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/205458/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €16.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/205461/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €13.99, HD: €16.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/205456/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €24.99, HD: €27.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/205460/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €24.99, HD: €27.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/205457/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €21.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/205462/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €21.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/205463/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-1-iTunes/205466/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/205465/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-2-iTunes/205470/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/205467/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-3-iTunes/205468/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/205464/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/itunes/Heroes-Season-4-iTunes/205469/",
+      "country": "France",
+      "distributor": "",
+      "price": "SD: €8.99, HD: €9.99"
+    },
+    {
+      "name": "Heroes, The Complete Collection",
+      "link": "https://www.blu-ray.com/itunes/Heroes-The-Complete-Collection-iTunes/126254/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "SD: $69.99, HD: $69.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/uv/Heroes-Season-1-Digital/4344/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "HD: $29.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/uv/Heroes-Season-2-Digital/4343/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "HD: $24.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/uv/Heroes-Season-3-Digital/8835/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "HD: $29.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/uv/Heroes-Season-4-Digital/8834/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "HD: $29.99"
+    },
+    {
+      "name": "Heroes: The Complete Series",
+      "link": "https://www.blu-ray.com/uv/Heroes-The-Complete-Series-Digital/65642/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "HD: $49.99"
+    },
+    {
+      "name": "Heroes: The Complete Collection",
+      "link": "https://www.blu-ray.com/uv/Heroes-The-Complete-Collection-Digital/65643/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "HD: $69.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-1-Prime-Video/10021/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$39.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-2-Prime-Video/18896/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$24.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-3-Prime-Video/14964/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$39.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-4-Prime-Video/22198/",
+      "country": "United States",
+      "distributor": "Universal Studios",
+      "price": "$39.99"
+    },
+    {
+      "name": "Heroes: Season 1",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-1-Prime-Video/23350/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": "£14.99"
+    },
+    {
+      "name": "Heroes: Season 2",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-2-Prime-Video/23272/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": "£11.99"
+    },
+    {
+      "name": "Heroes: Season 3",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-3-Prime-Video/20717/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": "£14.99"
+    },
+    {
+      "name": "Heroes: Season 4",
+      "link": "https://www.blu-ray.com/prime/Heroes-Season-4-Prime-Video/22935/",
+      "country": "United Kingdom",
+      "distributor": "Universal Studios",
+      "price": "£14.99"
+    }
+  ]
+}

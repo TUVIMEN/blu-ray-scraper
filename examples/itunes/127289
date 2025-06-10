@@ -1,0 +1,57 @@
+{
+  "parent_link": "https://www.blu-ray.com/Batman-Returns/19032/",
+  "parent_id": 19032,
+  "title": "Batman Returns iTunes",
+  "country": "United Kingdom",
+  "subtitle": "4K Ultra HD",
+  "distributor": "Warner Bros.",
+  "year1": 1992,
+  "year2": 0,
+  "runtime": 126,
+  "release": "",
+  "seasons": 0,
+  "rated": "BBFC: 12",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f1/64/5d/f1645d68-3374-2f08-2eb3-1552394623d1/c84d7276-2ad2-4a85-b01b-7cbbb672ce83_BatmanReturns_V_DD_KA_TT_2000x3000_300dpi_EN.jpg/400x400bb.jpg",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "£8.99",
+  "sources": [
+    "https://tv.apple.com/gb/movie/umc.cmc.zebdhe8v15m7ey865c0kmgf1?at=11laSw&ct=127289_899_batman_returns"
+  ],
+  "info": {
+    "video": [
+      "Codec: HEVC / H.265",
+      "Resolution: 4K (2160p)",
+      "HDR: Dolby Vision, HDR10",
+      "Aspect ratio: 1.85:1",
+      "Original aspect ratio: 1.85:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "English: Dolby Atmos",
+      "English: Dolby Digital 5.1",
+      "English: AAC 2.0",
+      "French: AAC 2.0",
+      "Spanish: AAC 2.0"
+    ],
+    "subtitles": [
+      "English, French, German, Italian, Japanese, Portuguese, Spanish, Arabic, Bulgarian, Cantonese, Czech, Danish, Dutch, Estonian, Finnish, Greek, Hebrew, Hungarian, Indonesian, Korean, Latvian, Lithuanian, Malay, Mandarin (Simplified), Mandarin (Traditional), Norwegian, Polish, Russian, Slovenian, Swedish, Thai, Turkish, Ukrainian"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/itunes/Batman-Returns-iTunes/127289/",
+  "id": 127289,
+  "packaging": [],
+  "region_coding": []
+}

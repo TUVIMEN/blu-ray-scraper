@@ -1,0 +1,51 @@
+{
+  "parent_link": "https://www.blu-ray.com/Robin-and-the-7-Hoods/335781/",
+  "parent_id": 335781,
+  "title": "Robin and the 7 Hoods Prime",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Warner Bros.",
+  "year1": 1964,
+  "year2": 0,
+  "runtime": 124,
+  "release": "2009-01-01T00:00:00",
+  "seasons": 0,
+  "rated": "",
+  "cover": "https://m.media-amazon.com/images/I/51o0-K3Uu+L._SL500_.jpg",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$9.99",
+  "sources": [
+    "https://www.amazon.com/Robin-and-the-7-Hoods/dp/B0058DIU8I?SubscriptionId=AKIAIY4YSQJMFDJATNBA&tag=bluray_piv-20&linkCode=ogi&th=1&psc=1"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: 480i",
+      "Original aspect ratio: 2.35:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/prime/Robin-and-the-7-Hoods-Prime-Video/17785/",
+  "id": 17785,
+  "packaging": [],
+  "region_coding": []
+}

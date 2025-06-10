@@ -1,0 +1,62 @@
+{
+  "parent_link": "https://www.blu-ray.com/Ant-Man/132631/",
+  "parent_id": 132631,
+  "title": "Ant-Man Digital",
+  "country": "United States",
+  "subtitle": "4K Ultra HD",
+  "distributor": "Disney / Buena Vista",
+  "year1": 2015,
+  "year2": 0,
+  "runtime": 117,
+  "release": "2015-12-08T00:00:00",
+  "seasons": 0,
+  "rated": "PG-13",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/16012_large.jpg?t=1552861009",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "19.99",
+  "sources": [
+    "https://tv.apple.com/us/movie/umc.cmc.5v0c1mtw53zkyw8a0hf8xglwm?at=11laSw&ct=15695_1999_ant_man",
+    "https://www.microsoft.com/en-us/p/-/8d6kgx05c1m9",
+    "https://play.google.com/store/movies/details/?id=mmiHxnOcLQk.P&gl=US&hl=en&PAffiliateID=1011lasW8",
+    "https://www.vudu.com/content/movies/details/id/675937"
+  ],
+  "info": {
+    "video": [
+      "Codec: HEVC / H.265",
+      "Resolution: 4K, HD/HDX, SD",
+      "HDR: Dolby Vision, HDR10",
+      "Original aspect ratio: 1.85:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://www.microsoft.com/en-us/p/-/8d6kgx05c1m9",
+      "https://www.xfinity.com/stream/entity/5992010106256768112",
+      "https://tv.apple.com/us/movie/umc.cmc.5v0c1mtw53zkyw8a0hf8xglwm?at=11laSw&ct=15695_1999_ant_man",
+      "https://www.youtube.com/watch?v=YPMcVUPGeGo&PAffiliateID=1011lasW8&gl=US",
+      "https://play.google.com/store/movies/details/?id=mmiHxnOcLQk.P&PAffiliateID=1011lasW8&gl=US",
+      "https://www.vudu.com/content/movies/details/id/675937"
+    ]
+  },
+  "url": "https://www.blu-ray.com/uv/Ant-Man-Digital/16012/",
+  "id": 16012,
+  "packaging": [],
+  "region_coding": []
+}

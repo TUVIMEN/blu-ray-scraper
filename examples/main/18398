@@ -1,0 +1,2176 @@
+{
+  "cover": "https://images.static-bluray.com/products/20/463_8_front.jpg",
+  "title": "The Shining",
+  "year": 1980,
+  "screenshots": [
+    "https://images.static-bluray.com/reviews/19559_1.jpg",
+    "https://images.static-bluray.com/reviews/19559_2.jpg",
+    "https://images.static-bluray.com/reviews/19559_3.jpg",
+    "https://images.static-bluray.com/reviews/19559_4.jpg",
+    "https://images.static-bluray.com/reviews/19559_5.jpg",
+    "https://images.static-bluray.com/reviews/19559_6.jpg"
+  ],
+  "watched": 9532,
+  "watchlist": 276,
+  "notinterested": 61,
+  "appeals": [
+    {
+      "name": "Drama",
+      "amount": 230
+    },
+    {
+      "name": "Horror",
+      "amount": 200
+    },
+    {
+      "name": "Mystery",
+      "amount": 173
+    },
+    {
+      "name": "Psychological thriller",
+      "amount": 161
+    },
+    {
+      "name": "Supernatural",
+      "amount": 92
+    }
+  ],
+  "plottags": [
+    "Psychic",
+    "Ghost",
+    "Psychological",
+    "Alcoholism",
+    "Mental breakdown",
+    "Slasher",
+    "Resort",
+    "Haunted House",
+    "Space",
+    "Monster"
+  ],
+  "studios": [
+    {
+      "name": "Warner Bros. Pictures",
+      "link": "https://www.blu-ray.com/Warner-Bros-Pictures/1290435/"
+    }
+  ],
+  "distributors": [
+    {
+      "name": "Warner Bros.",
+      "link": "https://www.blu-ray.com/Warner-Bros/1281872/"
+    }
+  ],
+  "releasedates": [
+    {
+      "name": "Poland",
+      "date": "1990-12-31T00:00:00"
+    },
+    {
+      "name": "United States",
+      "date": "1980-05-23T00:00:00"
+    },
+    {
+      "name": "United Kingdom",
+      "date": "1980-11-07T00:00:00"
+    },
+    {
+      "name": "Australia",
+      "date": "1980-11-13T00:00:00"
+    },
+    {
+      "name": "Germany",
+      "date": "1980-10-16T00:00:00"
+    },
+    {
+      "name": "Poland",
+      "date": "1990-12-31T00:00:00"
+    },
+    {
+      "name": "United States",
+      "date": "1980-05-23T00:00:00"
+    },
+    {
+      "name": "United Kingdom",
+      "date": "1980-11-07T00:00:00"
+    },
+    {
+      "name": "Australia",
+      "date": "1980-11-13T00:00:00"
+    },
+    {
+      "name": "Germany",
+      "date": "1980-10-16T00:00:00"
+    },
+    {
+      "name": "France",
+      "date": "1980-10-16T00:00:00"
+    },
+    {
+      "name": "Spain",
+      "date": "1980-12-19T00:00:00"
+    },
+    {
+      "name": "Italy",
+      "date": "1980-12-22T00:00:00"
+    },
+    {
+      "name": "Argentina",
+      "date": "1980-12-25T00:00:00"
+    },
+    {
+      "name": "Brazil",
+      "date": "1980-12-25T00:00:00"
+    },
+    {
+      "name": "Belgium",
+      "date": "1980-11-06T00:00:00"
+    },
+    {
+      "name": "Denmark",
+      "date": "1980-09-26T00:00:00"
+    },
+    {
+      "name": "Finland",
+      "date": "1980-09-26T00:00:00"
+    },
+    {
+      "name": "Greece",
+      "date": "1980-12-22T00:00:00"
+    },
+    {
+      "name": "Hong Kong",
+      "date": "1983-06-02T00:00:00"
+    },
+    {
+      "name": "Japan",
+      "date": "1980-12-13T00:00:00"
+    },
+    {
+      "name": "Mexico",
+      "date": "1980-12-25T00:00:00"
+    },
+    {
+      "name": "Netherlands",
+      "date": "1980-10-30T00:00:00"
+    },
+    {
+      "name": "Norway",
+      "date": "1980-09-26T00:00:00"
+    },
+    {
+      "name": "Portugal",
+      "date": "1980-11-20T00:00:00"
+    },
+    {
+      "name": "Sweden",
+      "date": "1980-09-26T00:00:00"
+    }
+  ],
+  "boxoffice": [
+    {
+      "name": "Box office US",
+      "amount": "$44,360,123"
+    },
+    {
+      "name": "Box office worldwide (including US)",
+      "amount": "$45,722,103"
+    }
+  ],
+  "country": "UK",
+  "language": "English",
+  "runtime": 144,
+  "rated": "R",
+  "technical": "1.85:1",
+  "fans": 634,
+  "collections": {
+    "blu-ray": 42058,
+    "dvd": 3448,
+    "digital": 923,
+    "itunes": 774,
+    "prime": 94
+  },
+  "score": 8.81,
+  "liked": 999,
+  "sources": [
+    {
+      "name": "imdb",
+      "link": "https://www.imdb.com/title/tt0081505/"
+    },
+    {
+      "name": "rottentomatoes",
+      "link": "http://www.rottentomatoes.com/m/shining/"
+    },
+    {
+      "name": "wikipedia",
+      "link": "http://en.wikipedia.org/wiki/The_Shining_%28film%29"
+    },
+    {
+      "name": "allrovi",
+      "link": "http://www.allmovie.com/movie/the-shining-v44363"
+    },
+    {
+      "name": "boxofficemojo",
+      "link": "http://www.boxofficemojo.com/movies/?id=shining.htm"
+    },
+    {
+      "name": "fandango",
+      "link": "http://www.fandango.com/theshining_408/movieoverview"
+    },
+    {
+      "name": "filmaffinity",
+      "link": "https://www.filmaffinity.com/us/film598422.html"
+    },
+    {
+      "name": "justwatch",
+      "link": "https://www.justwatch.com/us/movie/the-shining"
+    },
+    {
+      "name": "metacritic",
+      "link": "http://www.metacritic.com/movie/the-shining"
+    },
+    {
+      "name": "paramount+",
+      "link": "https://www.paramountplus.com/movies/video/VoHqtN_7oIBWRy8_aChoqqGPXG7eOS2l/"
+    },
+    {
+      "name": "themoviedb",
+      "link": "https://www.themoviedb.org/movie/694-the-shining"
+    },
+    {
+      "name": "thenumbers",
+      "link": "https://www.the-numbers.com/movie/Shining-The#tab=summary"
+    },
+    {
+      "name": "letterboxd",
+      "link": "https://letterboxd.com/film/the-shining/"
+    }
+  ],
+  "id": 18398,
+  "url": "https://www.blu-ray.com/The-Shining/18398/",
+  "releases": [
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/238513/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$23.99"
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/377885/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/242655/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/310703/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£19.99"
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/243771/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (40th Anniversary special edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/350796/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/244869/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/242703/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": "C$32.06"
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/254782/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/254910/",
+      "country": "Australia",
+      "distributor": "Roadshow Entertainment",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/240699/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": "€19.94"
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/247741/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/252604/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": "€14.99"
+    },
+    {
+      "name": "The Shining 4K (Theatrical Cut on DVD)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/242762/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/290818/",
+      "country": "Netherlands",
+      "distributor": "Warner Bros.",
+      "price": "€15"
+    },
+    {
+      "name": "The Shining 4K (Cine-Museum Art CMA #16 / Lenticular Fullslip)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/280918/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (Cine-Museum Art CMA #16 / Variant Fullslip)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/280917/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (Extended Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/252482/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": "€13.9"
+    },
+    {
+      "name": "The Shining 4K (Extended Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/252438/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/251568/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK299"
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/251567/",
+      "country": "Norway",
+      "distributor": "Warner Bros.",
+      "price": "NOK299"
+    },
+    {
+      "name": "The Shining 4K",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/251570/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": "DKK249"
+    },
+    {
+      "name": "The Shining 4K (Hohto)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/251569/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": "€29.95"
+    },
+    {
+      "name": "The Shining 4K (El Resplandor)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/317286/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (シャイニング / 北米公開版)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/250765/",
+      "country": "Japan",
+      "distributor": "Warner Bros.",
+      "price": "¥2885"
+    },
+    {
+      "name": "The Shining 4K (샤이닝)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/252489/",
+      "country": "South Korea",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (샤이닝 | Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/252491/",
+      "country": "South Korea",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (鬼店)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/264362/",
+      "country": "Taiwan",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (Сияние)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/262514/",
+      "country": "Russia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (Osvícení, BLACK BARONS #24 FullSlip XL + Lenticular 3D Magnet Steelbook)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/269522/",
+      "country": "Czech Republic",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining 4K (Osvícení, BLACK BARONS #24 FullSlip XL + Lenticular 3D Magnet Steelbook)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/269516/",
+      "country": "Czech Republic",
+      "distributor": "Magic Box",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/508/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$11.96"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/213965/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Iconic Moments)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/208818/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Includes Pocket Pop Jack Torrance)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/220575/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Reissue with Lenticular Slip + It 2 Movie Cash)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/249100/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Travel Poster Cover)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/277094/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (with Collectible T-Shirt)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/160675/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Iconic Moments)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/189210/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (International Cut)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/2104/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£5.99"
+    },
+    {
+      "name": "The Shining (International Cut | Limited Edition of 4000)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/84072/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (International Cut | Warner Bros. 90th Anniversary Collection)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/68103/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Premium Collection | Extended Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/164085/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Re-Issue with SlipCover)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/253469/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/20968/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": "C$16.98"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/378873/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/217743/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (L'Enfant Lumiere | Warner 90th Anniversary Edition )",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/77989/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/193720/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/19407/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/200473/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/135037/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Shining)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/15763/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": "€8.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/24574/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Édition boîtier | International Cut)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/149118/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (International Cut)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/198954/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Shining (The Shining | International Cut)",
+      "link": "https://www.blu-ray.com/movies/Shining-Blu-ray/365826/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": "€11.09"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/52715/",
+      "country": "Netherlands",
+      "distributor": "Warner Bros.",
+      "price": "€7"
+    },
+    {
+      "name": "The Shining (El Resplandor / Iconic Moments)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/237950/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (El Resplandor | International Cut)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/277438/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": "€11.99"
+    },
+    {
+      "name": "The Shining (El Resplandor | International Cut)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/9948/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (El Resplandor | International Cut)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/208941/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (El Resplandor | International Cut)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/218870/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/38184/",
+      "country": "Portugal",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Shining / Iconic Moments)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/195616/",
+      "country": "Portugal",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/19445/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/151713/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Horror Maniacs)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/295406/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": "€6.99"
+    },
+    {
+      "name": "The Shining (Iconic Moments)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/214980/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/41009/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK59"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/149477/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/204896/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK149"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/149652/",
+      "country": "Norway",
+      "distributor": "Warner Bros.",
+      "price": "NOK99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/204897/",
+      "country": "Norway",
+      "distributor": "Warner Bros.",
+      "price": "NOK179"
+    },
+    {
+      "name": "The Shining (Ondskapens hotell)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/43117/",
+      "country": "Norway",
+      "distributor": "Warner Bros.",
+      "price": "NOK59"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/204895/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": "DKK149"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/149653/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": "DKK99"
+    },
+    {
+      "name": "The Shining (Ondskabens Hotel)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/29387/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Ondskabens Hotel | Nordic Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/43121/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": "DKK59"
+    },
+    {
+      "name": "The Shining (Hohto)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/41010/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Hohto)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/149478/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": "€9.95"
+    },
+    {
+      "name": "The Shining (Hohto)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/204805/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": "€14.95"
+    },
+    {
+      "name": "The Shining (Hohto | Nordic Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/90569/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": "€5.95"
+    },
+    {
+      "name": "The Shining (El resplandor)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/117299/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (O Iluminado)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/30828/",
+      "country": "Brazil",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (シャイニング)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/84115/",
+      "country": "Japan",
+      "distributor": "Warner Bros.",
+      "price": "¥1200"
+    },
+    {
+      "name": "The Shining (스탠리 큐브릭의 샤이닝)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/216673/",
+      "country": "South Korea",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Limited Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/152307/",
+      "country": "South Korea",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/77835/",
+      "country": "Hong Kong",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/movies/The-Shining-Blu-ray/216672/",
+      "country": "Hong Kong",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: 3-Film 4K Collection (2001: A Space Odyssey / The Shining / Full Metal Jacket)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-3-Film-4K-Collection-Blu-ray/274467/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$42.49"
+    },
+    {
+      "name": "The Shining 4K (40th Anniversary Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/267041/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: 5-Film Collection 4K (Spartacus / 2001: A Space Odyssey / A Clockwork Orange / The Shining / Full Metal Jacket)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-5-Film-Collection-4K-Blu-ray/303836/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£59.99"
+    },
+    {
+      "name": "The Stanley Kubrick Limited Edition Film Collection (Lolita / 2001: A Space Odyssey 4K / A Clockwork Orange / Barry Lyndon / The Shining 4K / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/The-Stanley-Kubrick-Limited-Edition-Film-Collection-Blu-ray/251644/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "100 Years of Warner Bros: The 100th Anniversary Studio Collection 4K",
+      "link": "https://www.blu-ray.com/movies/100-Years-of-Warner-Bros-The-100th-Anniversary-Studio-Collection-4K-Blu-ray/332395/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£299.99"
+    },
+    {
+      "name": "Stanley Kubrick: 3 Film 4K Collection (2001: A Space Odyssey / The Shining / Full Metal Jacket)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-3-Film-4K-Collection-Blu-ray/323703/",
+      "country": "Australia",
+      "distributor": "Roadshow Entertainment",
+      "price": ""
+    },
+    {
+      "name": "Kubrick Coffret 2 films 4K (2001 l'odyssée de l'espace / Shining)",
+      "link": "https://www.blu-ray.com/movies/Kubrick-Coffret-2-films-4K-Blu-ray/246937/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: 3-Film 4K Collection (2001: a Space Odyssey / The Shining / Full Metal Jacket)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-3-Film-4K-Collection-Blu-ray/276183/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: 4-Film 4K Collection (2001: a Space Odyssey / A Clockwork Orange / The Shining / Full Metal Jacket)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-4-Film-4K-Collection-Blu-ray/383597/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": "€58.17"
+    },
+    {
+      "name": "Stanley Kubrick: 5-Film 4K Collection (2001: a Space Odyssey / The Shining / Full Metal Jacket / A Clockwork Orange / Spartacus)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-5-Film-4K-Collection-Blu-ray/301742/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stephen King-Collection 5 Films 4K (It / It 2 / The Shining / Doctor Sleep / The Shawshank Redemption)",
+      "link": "https://www.blu-ray.com/movies/Stephen-King-Collection-5-Films-4K-Blu-ray/294570/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Lost Boys + The Shining + Poltergeist 4K",
+      "link": "https://www.blu-ray.com/movies/The-Lost-Boys-and-The-Shining-and-Poltergeist-4K-Blu-ray/346564/",
+      "country": "Netherlands",
+      "distributor": "Warner Bros.",
+      "price": "€51.93"
+    },
+    {
+      "name": "The Shining 4K (Cine-Museum Art CMA #16 / Combo Box Set)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/280930/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Stanley Kubrick Limited Edition Film Collection (Lolita / 2001: A Space Odyssey 4K / A Clockwork Orange / Barry Lyndon / The Shining 4K / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/The-Stanley-Kubrick-Limited-Edition-Film-Collection-Blu-ray/255799/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: 4-Film Collection 4K (2001: A Space Odyssey / A Clockwork Orange / The Shining / Full Metal Jacket)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-4-Film-Collection-4K-Blu-ray/383598/",
+      "country": "Japan",
+      "distributor": "Warner Bros.",
+      "price": "¥21927"
+    },
+    {
+      "name": "Stanley Kubrick Triple Feature (2001: A Space Odyssey / A Clockwork Orange / The Shining)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Triple-Feature-Blu-ray/51449/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$13.14"
+    },
+    {
+      "name": "Best of 80s: 10-Film Collection, Vol. 1",
+      "link": "https://www.blu-ray.com/movies/Best-of-80s-10-Film-Collection-Vol-1-Blu-ray/276400/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$54.99"
+    },
+    {
+      "name": "King of Horror Collection (Salem's Lot / The Shining / Stephen King's Cat's Eye / Stephen King's It)",
+      "link": "https://www.blu-ray.com/movies/King-of-Horror-Collection-Blu-ray/183282/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$22.54"
+    },
+    {
+      "name": "King of Horror Collection (Expanded Edition)",
+      "link": "https://www.blu-ray.com/movies/King-of-Horror-Collection-Blu-ray/246909/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$36.39"
+    },
+    {
+      "name": "Stanley Kubrick (Limited Edition Collection)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Blu-ray/20820/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/109625/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut / Stanley Kubrick: A Life in Pictures / O Lucky Malcolm)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/292866/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Best of Warner Bros. 50 Film Collection",
+      "link": "https://www.blu-ray.com/movies/Best-of-Warner-Bros-50-Film-Collection-Blu-ray/57010/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Best of Horror (10-Film)",
+      "link": "https://www.blu-ray.com/movies/Best-of-Horror-Blu-ray/246908/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "2-Film Collection: Doctor Sleep / The Shining (Doctor Sleep Theatrical Cut Only)",
+      "link": "https://www.blu-ray.com/movies/2-Film-Collection-Doctor-Sleep-and-The-Shining-Blu-ray/278795/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$12.99"
+    },
+    {
+      "name": "Warner Bros. WB 100th 25-Film Collection, Vol. Four - Thrillers, Sci-Fi and Horror",
+      "link": "https://www.blu-ray.com/movies/Warner-Bros-WB-100th-25-Film-Collection-Vol-Four-Thrillers-Sci-Fi-and-Horror-Blu-ray/332626/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$83.45"
+    },
+    {
+      "name": "The Shining 4K (40th Anniversary Edition)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-4K-Blu-ray/267041/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "King of Horror Collection (Salem's Lot / The Shining / Stephen King's It)",
+      "link": "https://www.blu-ray.com/movies/King-of-Horror-Collection-Blu-ray/188910/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£18.79"
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection (Lolita / Dr. Strangelove / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/115142/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut / Stanley Kubrick: A Life in Pictures / O Lucky Malcolm)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/20647/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£22.35"
+    },
+    {
+      "name": "Stephen King 8-Film Collection (Stephen King's IT / IT Chapter 2 / The Shining / Doctor Sleep / The Shawshank Redemption / The Green Mile / Misery / Carrie)",
+      "link": "https://www.blu-ray.com/movies/Stephen-King-8-Film-Collection-Blu-ray/331793/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£35.89"
+    },
+    {
+      "name": "2001: A Space Odyssey / A Clockwork Orange / The Shining (Triple Feature | 2001: L'Odyssée de l'Espace / Orange Mécanique / Shining: L'Enfant Lumière)",
+      "link": "https://www.blu-ray.com/movies/2001-A-Space-Odyssey-and-A-Clockwork-Orange-and-The-Shining-Blu-ray/59519/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": "C$22.99"
+    },
+    {
+      "name": "Stanley Kubrick Triple Feature (2001: A Space Odyssey / A Clockwork Orange / The Shining)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Triple-Feature-Blu-ray/378870/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "King of Horror Collection (Salem's Lot / The Shining / Stephen King's Cat's Eye / Stephen King's It)",
+      "link": "https://www.blu-ray.com/movies/King-of-Horror-Collection-Blu-ray/183716/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Limited Edition Collector",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Limited-Edition-Collector-Blu-ray/22824/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/115077/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "King of Horror Collection (Expanded Edition)",
+      "link": "https://www.blu-ray.com/movies/King-of-Horror-Collection-Blu-ray/292314/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut / Stanley Kubrick: A Life in Pictures / O Lucky Malcolm)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/292861/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Best of Warner Bros. 50 Film Collection",
+      "link": "https://www.blu-ray.com/movies/Best-of-Warner-Bros-50-Film-Collection-Blu-ray/58409/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: 8-Film Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-8-Film-Collection-Blu-ray/127419/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/44030/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Best of Warner Bros. 50 Film Collection (90th Anniversary Limited-Edition Blu-ray Gifset)",
+      "link": "https://www.blu-ray.com/movies/Best-of-Warner-Bros-50-Film-Collection-Blu-ray/90141/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Doctor Sleep / The Shining - 2 Film Collection",
+      "link": "https://www.blu-ray.com/movies/Doctor-Sleep-and-The-Shining-2-Film-Collection-Blu-ray/261775/",
+      "country": "Australia",
+      "distributor": "Roadshow Entertainment",
+      "price": ""
+    },
+    {
+      "name": "King of Horror Collection (Salem's Lot / The Shining / Stephen King's It)",
+      "link": "https://www.blu-ray.com/movies/King-of-Horror-Collection-Blu-ray/187152/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": "€17.99"
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/114262/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick - Visionary Filmmaker Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/20862/",
+      "country": "Germany",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick - Coffret (Lolita + Docteur Folamour + Barry Lyndon + Full Metal Jacket + 2001, l'odyssée de l'espace + Orange mécanique + Shining + Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Coffret-Blu-ray/251313/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Collection-Blu-ray/24577/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection ( Lolita / Docteur Folamour / 2001, l'odyssée de l'espace / Orange mécanique / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut | Édition Limitée)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/110738/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Pop Culture Anthology 20 Films Cultes (Éditon limitée collector)",
+      "link": "https://www.blu-ray.com/movies/Pop-Culture-Anthology-20-Films-Cultes-Blu-ray/218574/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Shining / Doctor Sleep",
+      "link": "https://www.blu-ray.com/movies/Shining-and-Doctor-Sleep-Blu-ray/259584/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": "€19.99"
+    },
+    {
+      "name": "Doctor Sleep + The Shining",
+      "link": "https://www.blu-ray.com/movies/Doctor-Sleep-and-The-Shining-Blu-ray/371828/",
+      "country": "Netherlands",
+      "distributor": "Warner Bros.",
+      "price": "€22.97"
+    },
+    {
+      "name": "The Shining / A Clockwork Orange (El Resplandor / La Naranja Mecánica)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-A-Clockwork-Orange-Blu-ray/74448/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "King of Horror Collection (Salem's Lot / The Shining / Stephen King's It)",
+      "link": "https://www.blu-ray.com/movies/King-of-Horror-Collection-Blu-ray/187308/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Collection (Colección Stanley Kubrick: Un Director Visionario / Reedición)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Collection-Blu-ray/142423/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Collection (Colección: Stanley Kubrick)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Collection-Blu-ray/218141/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": "€56.35"
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Colección Stanley Kubrick: Un Director Visionario)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/126500/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Colección Stanley Kubrick: Un Director Visionario / Reedición)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/125812/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Warner Bros. 90 Aniversario (Lo mejor de Warner Bros.)",
+      "link": "https://www.blu-ray.com/movies/Warner-Bros-90-Aniversario-Blu-ray/67155/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (2001: A Space Odyssey / A Clockwork Orange / The Shining / Full Metal Jacket / Eyes Wide Shut | Colecção Stanley Kubrick)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/85348/",
+      "country": "Portugal",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "I Grandi Registi - Stanley Kubrick (2001: Odissea nello Spazio / Arancia Meccanica / Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/I-Grandi-Registi-Stanley-Kubrick-Blu-ray/262015/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick La Collezione Di Un Registra Visionario (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-La-Collezione-Di-Un-Registra-Visionario-Blu-ray/67505/",
+      "country": "Italy",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining / A Clockwork Orange / 2001: A Space Odyssey",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-A-Clockwork-Orange-and-2001-A-Space-Odyssey-Blu-ray/84436/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK179"
+    },
+    {
+      "name": "Jack Nicholson Collection (One Flew Over the Cuckoo's Nest / Batman / Mars Attacks! / The Shining)",
+      "link": "https://www.blu-ray.com/movies/Jack-Nicholson-Collection-Blu-ray/161056/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK199"
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection (Lolita / Dr. Strangelove / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/115760/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/48916/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK449"
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/144324/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": "SEK299"
+    },
+    {
+      "name": "The Shining / Doctor Sleep",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-Doctor-Sleep-Blu-ray/256247/",
+      "country": "Sweden",
+      "distributor": "20th Century Fox",
+      "price": "SEK249"
+    },
+    {
+      "name": "Jack Nicholson Collection",
+      "link": "https://www.blu-ray.com/movies/Jack-Nicholson-Collection-Blu-ray/165026/",
+      "country": "Norway",
+      "distributor": "Warner Bros.",
+      "price": "NOK199"
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/115759/",
+      "country": "Norway",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining / Doctor Sleep",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-Doctor-Sleep-Blu-ray/256257/",
+      "country": "Norway",
+      "distributor": "20th Century Fox",
+      "price": "NOK249"
+    },
+    {
+      "name": "Jack Nicholson Collection",
+      "link": "https://www.blu-ray.com/movies/Jack-Nicholson-Collection-Blu-ray/165025/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": "DKK199"
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/115762/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/83061/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": "DKK349"
+    },
+    {
+      "name": "The Shining / Doctor Sleep",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-Doctor-Sleep-Blu-ray/256256/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": "DKK199"
+    },
+    {
+      "name": "The Shining / A Clockwork Orange / 2001: A Space Odyssey",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-A-Clockwork-Orange-and-2001-A-Space-Odyssey-Blu-ray/85470/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": "€16.95"
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/115761/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/84303/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": "€44.95"
+    },
+    {
+      "name": "The Shining / Doctor Sleep",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-Doctor-Sleep-Blu-ray/256258/",
+      "country": "Finland",
+      "distributor": "Warner Bros.",
+      "price": "€24.95"
+    },
+    {
+      "name": "Kubrick Collection (Colección Stanley Kubrick)",
+      "link": "https://www.blu-ray.com/movies/Kubrick-Collection-Blu-ray/135527/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Collection (Coleccion Stanley Kubrick: 2001 Odisea en el Espacio, Barry Lyndon, Cara de Guerra, El Resplandor, Naranja Mecanica, Lolita, Ojos bien Cerrados)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Collection-Blu-ray/281852/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: The Masterpiece Collection (La colección de Stanlek Kubrick)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-The-Masterpiece-Collection-Blu-ray/117857/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Lo mejor de Warner Bros. (Colección de 20 películas / Edición limitada del 90 aniversario)",
+      "link": "https://www.blu-ray.com/movies/Lo-mejor-de-Warner-Bros-Blu-ray/117004/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining / A Clockwork Orange (O Iluminado / Laranja Mecânica | O Melhor Da Warner Bros. Dois Filmes)",
+      "link": "https://www.blu-ray.com/movies/The-Shining-and-A-Clockwork-Orange-Blu-ray/129298/",
+      "country": "Brazil",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Visionary Filmmaker Collection (Stanley Kubrick: Coleção Um Diretor Visionário - Lolita / 2001: Uma Odisséia No Espaço / Laranja Mecânica / Barry Lyndon / O Iluminado / Nascido Para Matar / De Olhos Bem Fechados)",
+      "link": "https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/36299/",
+      "country": "Brazil",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Remastered / Keepcase)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/15616/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$4.68"
+    },
+    {
+      "name": "The Shining (Remastered | Stanley Kubrick Collection)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/1261/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Stanley Kubrick Collection)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/202190/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Two-Disc Special Edition)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/16382/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Stanley Kubrick Collection)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/239521/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Stanley Kubrick Collection | Digitally Restored and Remastered)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/150134/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "£6.6"
+    },
+    {
+      "name": "The Shining (Two-Disc Special Edition | Limited Edition Slipcase)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/121489/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Bilingual)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/265166/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": "C$10.71"
+    },
+    {
+      "name": "The Shining (Two-Disc Special Edition)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/265165/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/255006/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/257728/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Shining)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/146976/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "€6.99"
+    },
+    {
+      "name": "The Shining (Shining)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/307808/",
+      "country": "Netherlands",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (El resplandor / Colección Stanley Kubrick)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/155333/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (El Resplandor | International Cut | Colección Cine de Terror | El País)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/298686/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Η Λάμψη / I Lampsi | Συλλογή Ταινιών του Στάνλεϊ Κιούμπρικ | Promo Release)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/208396/",
+      "country": "Greece",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Stanley Kubrick Collection)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/301874/",
+      "country": "Greece",
+      "distributor": "Audio Visual Entertainment",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Special Edition)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/86109/",
+      "country": "Sweden",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Ondskabens Hotel)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/92987/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Ondskabens Hotel)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/41971/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (El Resplandor / Colección Stanley Kubrick)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/269640/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "O Iluminado (The Shining)",
+      "link": "https://www.blu-ray.com/dvd/O-Iluminado-DVD/304953/",
+      "country": "Brazil",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Special Edition | Continental Version)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/164540/",
+      "country": "Japan",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "The Shining Special Edition (Continental Version | Limited Edition)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-Special-Edition-DVD/164539/",
+      "country": "Japan",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "The Shining (스탠리 큐브릭의 샤이닝 | Uncut)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/164542/",
+      "country": "South Korea",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (Two-Disc Special Edition | 閃靈 - 雙碟特別版)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/164536/",
+      "country": "Hong Kong",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining (鬼店)",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-DVD/164541/",
+      "country": "Taiwan",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "4 Film Favorites: Stanley Kubrick Films: A Clockwork Orange / 2001: A Space Odyssey / The Shining / Full Metal Jacket",
+      "link": "https://www.blu-ray.com/dvd/4-Film-Favorites-Stanley-Kubrick-Films-A-Clockwork-Orange-and-2001-A-Space-Odyssey-and-The-Shining-and-Full-Metal-Jacket-DVD/113633/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Full Metal Jacket / The Shining (Double Feature)",
+      "link": "https://www.blu-ray.com/dvd/Full-Metal-Jacket-and-The-Shining-DVD/80501/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$11.99"
+    },
+    {
+      "name": "Stanley Kubrick Collection",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-Collection-DVD/166078/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "10 Film Collection: Best of 80s Vol. 1",
+      "link": "https://www.blu-ray.com/dvd/10-Film-Collection-Best-of-80s-Vol-1-DVD/226665/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "4 Film Favorites: Stanley Kubrick (The Shining: Special Edition, 2001: A Space Odyssey: Special Edition, Barry Lyndon, Eyes Wide Shut: Special Edition)",
+      "link": "https://www.blu-ray.com/dvd/4-Film-Favorites-Stanley-Kubrick-DVD/73959/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: The Essential Collection",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-The-Essential-Collection-DVD/4075/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Collection (Remastered)",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-Collection-DVD/300274/",
+      "country": "United States",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: Warner Home Video Directors Series (2001: A Space Odyssey / A Clockwork Orange / Eyes Wide Shut / Full Metal Jacket / The Shining / Stanley Kubrick: A Life in Pictures)",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-Warner-Home-Video-Directors-Series-DVD/24281/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "King of Horror (Expanded Edition)",
+      "link": "https://www.blu-ray.com/dvd/King-of-Horror-DVD/189501/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$14.96"
+    },
+    {
+      "name": "Stephen King Thriller Collection",
+      "link": "https://www.blu-ray.com/dvd/Stephen-King-Thriller-Collection-DVD/139750/",
+      "country": "United States",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "Best of Warner Bros 100 Film Collection",
+      "link": "https://www.blu-ray.com/dvd/Best-of-Warner-Bros-100-Film-Collection-DVD/71931/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Best of Horror (10-Film)",
+      "link": "https://www.blu-ray.com/dvd/Best-of-Horror-DVD/188988/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining / Doctor Sleep 2-Film Collection",
+      "link": "https://www.blu-ray.com/dvd/The-Shining-and-Doctor-Sleep-2-Film-Collection-DVD/258786/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick (Special Edition) (Warner Home Video Directors Series)",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-DVD/138119/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Collection (Lolita + Dr. Strangelove + 2001: A Space Odyssey + A Clockwork Orange + Barry Lyndon + The Shining + Full Metal Jacket + Eyes Wide Shut + Stanley Kubrick: A Life in Pictures)",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-Collection-DVD/306947/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "King of Horror (Expanded Edition)",
+      "link": "https://www.blu-ray.com/dvd/King-of-Horror-DVD/307723/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": "C$37.81"
+    },
+    {
+      "name": "Best of Horror: 10-Film (The Shining / Poltergeist / A Nightmare on Elm Street / The Lost Boys / The Exorcist / The Texas Chainsaw Massacre / Friday the 13th / The Conjuring / Annabelle / IT)",
+      "link": "https://www.blu-ray.com/dvd/Best-of-Horror-10-Film-DVD/279411/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": "C$45.08"
+    },
+    {
+      "name": "Stanley Kubrick: La Colección (2001: Odisea del Espacio + La Naranja Mecánica + Barry Lyndon + El Resplandor + La Chaqueta Metálica + Eyes Wide Shut + Stanley Kubrick: Una vida en imágenes)",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-La-Coleccion-DVD/297742/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Jack Nicholson Colección (Infiltrados + El Resplandor + Los Brujas de Eastwick + Cuando menos te lo esperas + Alguien voló sobre el nido del cuco + El cartero siempre llama dos veces)",
+      "link": "https://www.blu-ray.com/dvd/Jack-Nicholson-Coleccion-DVD/238151/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Collection",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-Collection-DVD/144178/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick Directors Series",
+      "link": "https://www.blu-ray.com/dvd/Stanley-Kubrick-Directors-Series-DVD/144660/",
+      "country": "Denmark",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/400/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $14.99, HD: $14.99, rent SD: $3.99, rent HD: $3.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/131111/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "SD: £3.99, HD: £3.99, rent SD: £3.49, rent HD: £3.49"
+    },
+    {
+      "name": "The Shining (Extended Cut)",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/17861/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/17859/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/17860/",
+      "country": "Canada",
+      "distributor": "Warner Bros.",
+      "price": "SD: C$14.99, HD: C$14.99, rent SD: C$4.99, rent HD: C$4.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/33897/",
+      "country": "Australia",
+      "distributor": "Warner Bros.",
+      "price": "SD: AU$14.99, HD: AU$14.99, rent SD: AU$4.99, rent HD: AU$4.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/71236/",
+      "country": "Germany",
+      "distributor": "",
+      "price": "SD: €3.99, HD: €3.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/223726/",
+      "country": "Austria",
+      "distributor": "",
+      "price": "SD: €4.99, HD: €4.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/223727/",
+      "country": "Switzerland",
+      "distributor": "",
+      "price": "SD: CHF7, HD: CHF7, rent SD: CHF4.5, rent HD: CHF4.5"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/71237/",
+      "country": "France",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/130629/",
+      "country": "France",
+      "distributor": "Warner Bros.",
+      "price": "SD: €4.99, HD: €4.99, rent SD: €2.99, rent HD: €2.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/135407/",
+      "country": "Netherlands",
+      "distributor": "Warner Bros.",
+      "price": "SD: €7.99, HD: €7.99, rent SD: €2.99, rent HD: €2.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/136855/",
+      "country": "Belgium",
+      "distributor": "",
+      "price": "SD: €7.99, HD: €7.99, rent SD: €2.99, rent HD: €2.99"
+    },
+    {
+      "name": "The Shining (El Resplandor)",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/71238/",
+      "country": "Spain",
+      "distributor": "Warner Bros.",
+      "price": "SD: €8.99, HD: €8.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/139084/",
+      "country": "Portugal",
+      "distributor": "Warner Bros.",
+      "price": "SD: €8.99, HD: €8.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/71239/",
+      "country": "Italy",
+      "distributor": "",
+      "price": "SD: €7.99, HD: €7.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/71240/",
+      "country": "Sweden",
+      "distributor": "",
+      "price": "SD: SEK99, HD: SEK99, rent SD: SEK39, rent HD: SEK39"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/86000/",
+      "country": "Norway",
+      "distributor": "",
+      "price": "SD: NOK99, HD: NOK99, rent SD: NOK39, rent HD: NOK39"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/86001/",
+      "country": "Denmark",
+      "distributor": "",
+      "price": "SD: DKK99, HD: DKK99, rent SD: DKK39, rent HD: DKK39"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/85999/",
+      "country": "Finland",
+      "distributor": "",
+      "price": "SD: €9.99, HD: €9.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "The Shining (El resplandor)",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/148561/",
+      "country": "Mexico",
+      "distributor": "Warner Bros.",
+      "price": "SD: $149, HD: $149, rent SD: $50, rent HD: $50"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/146332/",
+      "country": "Brazil",
+      "distributor": "",
+      "price": "SD: R$19.9, HD: R$19.9, rent SD: R$7.9, rent HD: R$7.9"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/207932/",
+      "country": "Hong Kong",
+      "distributor": "",
+      "price": "SD: $138, HD: $138, rent SD: $28, rent HD: $28"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/207931/",
+      "country": "Taiwan",
+      "distributor": "",
+      "price": "SD: $450, HD: $450, rent SD: $60, rent HD: $60"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/223725/",
+      "country": "Poland",
+      "distributor": "",
+      "price": "SD: zł39.99, HD: zł39.99, rent SD: zł9.99, rent HD: zł9.99"
+    },
+    {
+      "name": "The Shining (Extended Cut)",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/124877/",
+      "country": "Ireland",
+      "distributor": "Warner Bros.",
+      "price": "SD: €8.99, HD: €8.99, rent SD: €3.99, rent HD: €3.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/127024/",
+      "country": "Malaysia",
+      "distributor": "",
+      "price": "SD: RM49.9, HD: RM49.9, rent SD: RM9.9, rent HD: RM9.9"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/itunes/The-Shining-iTunes/160552/",
+      "country": "Turkey",
+      "distributor": "",
+      "price": "SD: ₺179.99, HD: ₺179.99, rent SD: ₺24.99, rent HD: ₺24.99"
+    },
+    {
+      "name": "Kubrick: 3-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/Kubrick-3-Film-Collection-iTunes/167186/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $29.99, HD: $29.99"
+    },
+    {
+      "name": "Total 80's Halloween 4K 5-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/Total-80s-Halloween-4K-5-Film-Collection-iTunes/190643/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $39.99, HD: $39.99"
+    },
+    {
+      "name": "Classic 80's Bundle Volume 1",
+      "link": "https://www.blu-ray.com/itunes/Classic-80s-Bundle-Volume-1-iTunes/98706/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $79.99, HD: $79.99"
+    },
+    {
+      "name": "Stanley Kubrick: 7-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/Stanley-Kubrick-7-Film-Collection-iTunes/11426/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick: 7-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/Stanley-Kubrick-7-Film-Collection-iTunes/174796/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $44.99, HD: $44.99"
+    },
+    {
+      "name": "King of Horror (Expanded Edition 9 Film Collection)",
+      "link": "https://www.blu-ray.com/itunes/King-of-Horror-iTunes/129915/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "King of Horror (Expanded Edition 9 Film Collection)",
+      "link": "https://www.blu-ray.com/itunes/King-of-Horror-iTunes/233136/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $39.99, HD: $39.99"
+    },
+    {
+      "name": "It/ The Shining: Two Film Collection",
+      "link": "https://www.blu-ray.com/itunes/It--The-Shining-Two-Film-Collection-iTunes/159475/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $19.99, HD: $19.99"
+    },
+    {
+      "name": "Doctor Sleep & The Shining 2-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/Doctor-Sleep-and-The-Shining-2-Film-Collection-iTunes/132564/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "SD: $19.99, HD: $19.99"
+    },
+    {
+      "name": "Doctor Sleep & The Shining 2-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/Doctor-Sleep-and-The-Shining-2-Film-Collection-iTunes/185956/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "SD: £7.98, HD: £7.98"
+    },
+    {
+      "name": "Best of Horror 9-Film Collection",
+      "link": "https://www.blu-ray.com/itunes/Best-of-Horror-9-Film-Collection-iTunes/228098/",
+      "country": "United Kingdom",
+      "distributor": "",
+      "price": "SD: £39.99, HD: £39.99"
+    },
+    {
+      "name": "WB100 25-Film Vol 4: Thrillers",
+      "link": "https://www.blu-ray.com/itunes/WB100-25-Film-Vol-4-Thrillers-iTunes/194131/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": "SD: £44.99, HD: £44.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/ma/The-Shining-Movies-Anywhere/1637/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/uv/The-Shining-Digital/162/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "HD: $14.99, 4K: $14.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/uv/The-Shining-Digital/19349/",
+      "country": "United Kingdom",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/uv/The-Shining-Digital/18450/",
+      "country": "Canada",
+      "distributor": "",
+      "price": ""
+    },
+    {
+      "name": "Stanley Kubrick 3-Film Collection",
+      "link": "https://www.blu-ray.com/uv/Stanley-Kubrick-3-Film-Collection-Digital/38304/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "HD: $29.99, 4K: $29.99"
+    },
+    {
+      "name": "Total 80's Halloween 4K 5-Film Collection",
+      "link": "https://www.blu-ray.com/uv/Total-80s-Halloween-4K-5-Film-Collection-Digital/54425/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "HD: $49.99, 4K: $49.99"
+    },
+    {
+      "name": "King of Horror (Expanded Edition 9 Film Collection)",
+      "link": "https://www.blu-ray.com/uv/King-of-Horror-Digital/41707/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": ""
+    },
+    {
+      "name": "It / The Shining (2-Film Collection)",
+      "link": "https://www.blu-ray.com/uv/It-and-The-Shining-Digital/38195/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "HD: $19.99, 4K: $19.99"
+    },
+    {
+      "name": "Book to Screen 10-Film Collection",
+      "link": "https://www.blu-ray.com/uv/Book-to-Screen-10-Film-Collection-Digital/69384/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "HD: $19.99"
+    },
+    {
+      "name": "Doctor Sleep & The Shining 2-Film Collection (Bundle)",
+      "link": "https://www.blu-ray.com/uv/Doctor-Sleep-and-The-Shining-2-Film-Collection-Digital/37989/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "HD: $19.99, 4K: $19.99"
+    },
+    {
+      "name": "5-Film Collection",
+      "link": "https://www.blu-ray.com/uv/5-Film-Collection-Digital/64155/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "HD: $59.99"
+    },
+    {
+      "name": "The Shining",
+      "link": "https://www.blu-ray.com/prime/The-Shining-Prime-Video/9942/",
+      "country": "United States",
+      "distributor": "Warner Bros.",
+      "price": "$14.99"
+    }
+  ]
+}

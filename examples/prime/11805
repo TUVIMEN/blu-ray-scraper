@@ -1,0 +1,51 @@
+{
+  "parent_link": "https://www.blu-ray.com/Cheaper-by-the-Dozen-2/20502/",
+  "parent_id": 20502,
+  "title": "Cheaper by the Dozen 2 Prime",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "20th Century Fox",
+  "year1": 2005,
+  "year2": 0,
+  "runtime": 94,
+  "release": "2012-09-18T00:00:00",
+  "seasons": 0,
+  "rated": "PG",
+  "cover": "https://m.media-amazon.com/images/I/5174HeeyxeL._SL500_.jpg",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$14.99",
+  "sources": [
+    "https://www.amazon.com/Cheaper-by-the-Dozen-2/dp/B009EEQZUW?SubscriptionId=AKIAIY4YSQJMFDJATNBA&tag=bluray_piv-20&linkCode=ogi&th=1&psc=1"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: 1080p",
+      "Original aspect ratio: 2.39:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/prime/Cheaper-by-the-Dozen-2-Prime-Video/11805/",
+  "id": 11805,
+  "packaging": [],
+  "region_coding": []
+}

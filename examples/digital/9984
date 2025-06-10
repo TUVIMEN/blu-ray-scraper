@@ -1,0 +1,62 @@
+{
+  "parent_link": "https://www.blu-ray.com/Everybody-Loves-Raymond/57894/",
+  "parent_id": 57894,
+  "title": "Everybody Loves Raymond: Season 1 Digital",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Warner Bros.",
+  "year1": 1996,
+  "year2": 1997,
+  "runtime": 0,
+  "release": "",
+  "seasons": 0,
+  "rated": "TV-PG",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/9984_large.jpg?t=1415350906",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "19.99",
+  "sources": [
+    "https://www.vudu.com/content/movies/details/id/523313",
+    "https://tv.apple.com/us/season/season-1/umc.cmc.609g017jndb2tn3n9qwf6418x?showId=umc.cmc.6u71oc2i9xonb73wtftcd2lg6&at=11laSw&ct=193244_1999_everybody_loves_raymond_seas",
+    "https://play.google.com/store/tv/show/details/?id=xcvvjH8XgJ0&gl=US&hl=en&PAffiliateID=1011lasW8",
+    "https://www.microsoft.com/en-us/p/-/8d6kgx0038nh"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: HD/HDX, SD",
+      "Aspect ratio: 1.78:1",
+      "Original aspect ratio: 1.78:1, 1.33:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://tv.apple.com/us/season/season-1/umc.cmc.609g017jndb2tn3n9qwf6418x?showId=umc.cmc.6u71oc2i9xonb73wtftcd2lg6&at=11laSw&ct=193244_1999_everybody_loves_raymond_seas",
+      "https://www.vudu.com/content/movies/details/id/523313",
+      "https://play.google.com/store/tv/show/details/?id=xcvvjH8XgJ0&PAffiliateID=1011lasW8&gl=US",
+      "https://play.google.com/store/tv/show/details/?id=xcvvjH8XgJ0&cdid=tvseason-etpFP0T3tD9m7YIgEjpoBQ&PAffiliateID=1011lasW8&gl=US",
+      "https://www.microsoft.com/en-us/p/-/8d6kgx0038nh",
+      "https://www.amazon.com/dp/B0BX2KXVGZ/?tag=bluray_piv-20"
+    ]
+  },
+  "url": "https://www.blu-ray.com/digital/Everybody-Loves-Raymond-Season-1-Digital/9984/",
+  "id": 9984,
+  "packaging": [],
+  "region_coding": []
+}

@@ -1,0 +1,74 @@
+{
+  "parent_link": "https://www.blu-ray.com/Seinfeld/87333/",
+  "parent_id": 87333,
+  "title": "Seinfeld: The Complete Series DVD",
+  "country": "Australia",
+  "subtitle": "Repackaged",
+  "distributor": "Sony Pictures",
+  "year1": 1989,
+  "year2": 1998,
+  "runtime": 4140,
+  "release": "2020-08-12T00:00:00",
+  "seasons": 0,
+  "rated": "M",
+  "cover": "https://images.static-bluray.com/movies/dvdcovers/216668_large.jpg?t=1596506754",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "AU$84.99",
+  "price": "AU$99.99",
+  "sources": [
+    "https://www.ebay.com.au/sch/i.html?_nkw=9317731158940&mkcid=1&mkrid=705-53470-19255-0&siteid=0&campid=5337460077&toolid=10001&customid=&mkevt=1",
+    "https://www.amazon.com.au/s?k=9317731158940&SubscriptionId=AKIAJVVUESQCQC4UYBWA&suppress-ve=1&tag=bluray0741-22&linkCode=xm2",
+    "https://www.amazon.com.au/Seinfeld-The-Complete-Series/dp/B089757YV9?tag=bluray0741-22&linkCode=ogi&th=1&psc=1&m="
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-2",
+      "Encoding format: 4:3",
+      "Resolution: 576i (PAL)",
+      "Aspect ratio: 1.33:1",
+      "Original aspect ratio: 1.33:1"
+    ],
+    "discs": [
+      "DVD",
+      "Thirty three-disc set (33 DVD-9)"
+    ],
+    "digital": [],
+    "packaging": [
+      "Slipbox"
+    ],
+    "playback": [
+      "Region 4 (1,2,3,5,6,7,8 untested)"
+    ],
+    "audio": [
+      "English: Dolby Digital 2.0"
+    ],
+    "subtitles": [
+      "Seinfeld: The Complete 1st & 2nd Season: English, English SDH, Portuguese, Spanish, Danish, Dutch, Finnish, Hebrew, Norwegian, Swedish",
+      "Seinfeld: The Complete 3rd Season: English, Portuguese, Spanish, Danish, Dutch, Finnish, Hebrew, Swedish",
+      "Seinfeld: The Complete 4th Season: English, French, German, Portuguese, Danish, Dutch, Finnish, Hebrew, Norwegian, Swedish",
+      "Seinfeld: The Complete 5th Season: English, French, German, Portuguese, Danish, Dutch, Finnish, Hebrew, Norwegian, Swedish",
+      "Seinfeld: The Complete 6th Season: English, French, German, Portuguese, Danish, Dutch, Finnish, Hebrew, Norwegian, Swedish",
+      "Seinfeld: The Complete 7th Season: English, French, German, Portuguese, Danish, Dutch, Hebrew, Norwegian, Swedish",
+      "Seinfeld: The Complete 8th Season: English, French, German, Portuguese, Danish, Dutch, Flemish, Hebrew, Norwegian, Swedish",
+      "Seinfeld: The Complete 9th Season: English, French, German, Spanish, Dutch, Hebrew"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/dvd/Seinfeld-The-Complete-Series-DVD/216668/",
+  "id": 216668,
+  "packaging": [
+    {
+      "link": "https://images.static-bluray.com/products/21/216668_1_large.jpg",
+      "date": "2020-12-26T23:23:55"
+    }
+  ],
+  "region_coding": []
+}

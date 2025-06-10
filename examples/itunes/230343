@@ -1,0 +1,56 @@
+{
+  "parent_link": "https://www.blu-ray.com/Kraven-the-Hunter/1441038/",
+  "parent_id": 1441038,
+  "title": "Kraven the Hunter iTunes",
+  "country": "United Kingdom",
+  "subtitle": "4K Ultra HD",
+  "distributor": "Sony Pictures",
+  "year1": 2024,
+  "year2": 0,
+  "runtime": 127,
+  "release": "",
+  "seasons": 0,
+  "rated": "BBFC: 15",
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f8/bc/23/f8bc233f-9c0f-4bf1-455f-80f81641a884/SPE_KRAVEN_THE_HUNTER_TH_ITUNES_FINAL_WW_ARTWORK_EN_2000x3000_3U6QFC00000KNH.lsr/400x400bb.jpg",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "£13.99",
+  "sources": [
+    "https://tv.apple.com/gb/movie/umc.cmc.24on06t6758phqiu38vgwuxvf?at=11laSw&ct=230343_1399_kraven_the_hunter"
+  ],
+  "info": {
+    "video": [
+      "Codec: HEVC / H.265",
+      "Resolution: 4K (2160p)",
+      "HDR: Dolby Vision, HDR10",
+      "Original aspect ratio: 2.39:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "English: Dolby Atmos",
+      "English: Dolby Digital 5.1",
+      "English: AAC 2.0",
+      "French: AAC 2.0",
+      "Spanish: AAC 2.0"
+    ],
+    "subtitles": [
+      "English, English SDH, French, German, Italian, Japanese, Portuguese, Spanish, Arabic, Bulgarian, Cantonese, Czech, Danish, Dutch, Estonian, Finnish, Greek, Hebrew, Hungarian, Indonesian, Korean, Latvian, Lithuanian, Malay, Mandarin (Simplified), Mandarin (Traditional), Norwegian, Polish, Russian, Slovak, Slovenian, Swedish, Thai, Vietnamese"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/itunes/Kraven-the-Hunter-iTunes/230343/",
+  "id": 230343,
+  "packaging": [],
+  "region_coding": []
+}

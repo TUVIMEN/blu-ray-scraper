@@ -1,0 +1,57 @@
+{
+  "parent_link": "https://www.blu-ray.com/Squidbillies/461584/",
+  "parent_id": 461584,
+  "title": "Squidbillies: Volume 10 Digital",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Warner Bros.",
+  "year1": 2016,
+  "year2": 0,
+  "runtime": 0,
+  "release": "",
+  "seasons": 0,
+  "rated": "TV-MA",
+  "cover": "https://images.static-bluray.com/movies/uvcovers/47043_large.jpg?t=1636603213",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "12.99",
+  "sources": [
+    "https://tv.apple.com/us/season/season-10/umc.cmc.4a6p9y4x2ybtjjv043vmam84k?showId=umc.cmc.1uam95cwjg3tvishz99oeq94z&at=11laSw&ct=63107_1899_squidbillies_vol_10",
+    "https://www.vudu.com/content/movies/details/id/785712"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: HD/HDX, SD",
+      "Original aspect ratio: 1.78:1, 1.33:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://play.google.com/store/tv/show/details/?id=GeriMXfGUag&PAffiliateID=1011lasW8&gl=US",
+      "https://play.google.com/store/tv/show/details/?id=GeriMXfGUag&cdid=tvseason-1-413qIAmbJqmNQHbg6v1A&PAffiliateID=1011lasW8&gl=US",
+      "https://tv.apple.com/us/season/season-10/umc.cmc.4a6p9y4x2ybtjjv043vmam84k?showId=umc.cmc.1uam95cwjg3tvishz99oeq94z&at=11laSw&ct=63107_1899_squidbillies_vol_10",
+      "https://www.vudu.com/content/movies/details/id/785712"
+    ]
+  },
+  "url": "https://www.blu-ray.com/uv/Squidbillies-Volume-10-Digital/47043/",
+  "id": 47043,
+  "packaging": [],
+  "region_coding": []
+}

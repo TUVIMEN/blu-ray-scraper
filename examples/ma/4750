@@ -1,0 +1,51 @@
+{
+  "parent_link": "https://www.blu-ray.com/Universal-Soldier-Regeneration/20631/",
+  "parent_id": 20631,
+  "title": "Universal Soldier: Regeneration MA",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Sony Pictures",
+  "year1": 2009,
+  "year2": 0,
+  "runtime": 98,
+  "release": "2017-10-12T00:00:00",
+  "seasons": 0,
+  "rated": "R",
+  "cover": "https://images.static-bluray.com/movies/macovers/4750_large.jpg?t=1521599188",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "",
+  "sources": [
+    "https://tv.apple.com/us/movie/umc.cmc.21aiylixt7lxgxugjvpnxz294?at=11laSw&ct=10922_0_universal_soldier_regeneration"
+  ],
+  "info": {
+    "video": [],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [],
+    "subtitles": [],
+    "links": [
+      "https://www.vudu.com/content/movies/details/id/172412",
+      "http://moviesanywhere.com/movie/universal-soldier-regeneration",
+      "https://www.xfinity.com/stream/entity/6830186247985405112",
+      "https://www.amazon.com/dp/B0094M2RP6/?tag=bluray_piv-20",
+      "https://tv.apple.com/us/movie/umc.cmc.21aiylixt7lxgxugjvpnxz294?at=11laSw&ct=10922_0_universal_soldier_regeneration",
+      "https://www.microsoft.com/en-us/p/-/8d6kgwzl5spx",
+      "https://play.google.com/store/movies/details/?id=iAPHzGZkc5g&PAffiliateID=1011lasW8&gl=US"
+    ]
+  },
+  "url": "https://www.blu-ray.com/ma/Universal-Soldier-Regeneration-Movies-Anywhere/4750/",
+  "id": 4750,
+  "packaging": [],
+  "region_coding": []
+}

@@ -1,0 +1,53 @@
+{
+  "parent_link": "https://www.blu-ray.com/Meet-the-Parents/21447/",
+  "parent_id": 21447,
+  "title": "Meet the Parents MA",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "Universal Studios",
+  "year1": 2000,
+  "year2": 0,
+  "runtime": 108,
+  "release": "2017-10-12T00:00:00",
+  "seasons": 0,
+  "rated": "PG-13",
+  "cover": "https://images.static-bluray.com/movies/macovers/973_large.jpg?t=1518833917",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$14.99",
+  "sources": [
+    "https://tv.apple.com/us/movie/umc.cmc.18redm9u408s7rze0g4ws7er1?at=11laSw&ct=9377_1499_meet_the_parents"
+  ],
+  "info": {
+    "video": [],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [],
+    "subtitles": [
+      "None"
+    ],
+    "links": [
+      "https://www.microsoft.com/en-us/p/-/8d6kgwzl5k0b",
+      "https://www.xfinity.com/stream/entity/6919521792020106112",
+      "https://play.google.com/store/movies/details/?id=QAXfdCmoU8E&PAffiliateID=1011lasW8&gl=US",
+      "https://www.amazon.com/dp/B00ECTJBN2/?tag=bluray_piv-20",
+      "http://moviesanywhere.com/movie/meet-the-parents",
+      "https://www.vudu.com/content/movies/details/id/5923",
+      "https://tv.apple.com/us/movie/umc.cmc.18redm9u408s7rze0g4ws7er1?at=11laSw&ct=9377_1499_meet_the_parents"
+    ]
+  },
+  "url": "https://www.blu-ray.com/ma/Meet-the-Parents-Movies-Anywhere/973/",
+  "id": 973,
+  "packaging": [],
+  "region_coding": []
+}

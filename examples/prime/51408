@@ -1,0 +1,51 @@
+{
+  "parent_link": "https://www.blu-ray.com/Craft-in-America/622807/",
+  "parent_id": 622807,
+  "title": "Craft in America, Season 1 Prime",
+  "country": "United States",
+  "subtitle": "",
+  "distributor": "",
+  "year1": 2007,
+  "year2": 2021,
+  "runtime": 0,
+  "release": "2019-09-20T00:00:00",
+  "seasons": 0,
+  "rated": "TV-G",
+  "cover": "https://m.media-amazon.com/images/I/41hfNiyx0sL._SL500_.jpg",
+  "rating": {
+    "movie": 0,
+    "video": 0,
+    "video2k": 0,
+    "video4k": 0,
+    "audio": 0,
+    "extras": 0,
+    "overall": 0
+  },
+  "list-price": "",
+  "price": "$7.99",
+  "sources": [
+    "https://www.amazon.com/Craft-in-America-Season-1/dp/B07XM8YYYJ?SubscriptionId=AKIAIY4YSQJMFDJATNBA&tag=bluray_piv-20&linkCode=ogi&th=1&psc=1"
+  ],
+  "info": {
+    "video": [
+      "Codec: MPEG-4 AVC",
+      "Resolution: 1080p",
+      "Aspect ratio: 1.78:1"
+    ],
+    "discs": [],
+    "digital": [],
+    "packaging": [],
+    "playback": [],
+    "audio": [
+      "TBA"
+    ],
+    "subtitles": [
+      "None"
+    ],
+    "links": []
+  },
+  "url": "https://www.blu-ray.com/prime/Craft-in-America-Season-1-Prime-Video/51408/",
+  "id": 51408,
+  "packaging": [],
+  "region_coding": []
+}
