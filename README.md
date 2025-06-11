@@ -22,6 +22,45 @@ Running with `--help` option will print available options.
 
     ./blu-ray.py --help
 
+```
+usage: blu-ray.py [-h] [-d DIR] [-f] [-w TIME] [-W MILISECONDS] [-r NUM]
+                  [--retry-wait TIME] [--force-retry] [-m TIME] [-k] [-L]
+                  [-A UA] [-x DICT] [-H HEADER] [-b COOKIE] [-B BROWSER]
+                  [URL ...]
+
+Tool for scraping blu-ray.com. If no URLs provided scrapes the whole site
+
+positional arguments:
+  URL                   urls
+
+options:
+  -h, --help            Show this help message and exit
+  -d, --directory DIR   Use DIR as working directory
+  -f, --force           Exit if anything fails
+
+Request settings:
+  -w, --wait TIME       Sets waiting time for each request
+  -W, --wait-random MILISECONDS
+                        Sets random waiting time for each request to be at max
+                        MILISECONDS
+  -r, --retries NUM     Sets number of retries for failed request to NUM
+  --retry-wait TIME     Sets interval between each retry
+  --force-retry         Retry no matter the error
+  -m, --timeout TIME    Sets request timeout
+  -k, --insecure        Ignore ssl errors
+  -L, --location        Allow for redirections, can be dangerous if
+                        credentials are passed in headers
+  -A, --user-agent UA   Sets custom user agent
+  -x, --proxies DICT    Set requests proxies dictionary, e.g. -x
+                        '{"http":"127.0.0.1:8080","ftp":"0.0.0.0"}'
+  -H, --header HEADER   Set curl style header, can be used multiple times e.g.
+                        -H 'User: Admin' -H 'Pass: 12345'
+  -b, --cookie COOKIE   Set curl style cookie, can be used multiple times e.g.
+                        -b 'auth=8f82ab' -b 'PHPSESSID=qw3r8an829'
+  -B, --browser BROWSER
+                        Get cookies from specified browser e.g. -B firefox
+```
+
 # Protection
 
 `blu-ray.com` will block you if you make requests too fast, it also sets periodic limit per ip (i did not confirm if it was limited to a day) after which you'll get banned. If done correctly you can expect about 4000 pages scraped every day.
