@@ -36,7 +36,7 @@ positional arguments:
 options:
   -h, --help            Show this help message and exit
   -d, --directory DIR   Use DIR as working directory
-  -f, --force           Exit if anything fails
+  -f, --force           Overwrite existing files
 
 Request settings:
   -w, --wait TIME       Sets waiting time for each request

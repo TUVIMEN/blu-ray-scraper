@@ -619,7 +619,7 @@ def argparser():
         "-f",
         "--force",
         action="store_true",
-        help="Exit if anything fails",
+        help="Overwrite existing files",
     )
 
     treerequests.args_section(parser)
