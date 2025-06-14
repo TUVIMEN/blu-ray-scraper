@@ -98,7 +98,7 @@ class BluRayItem:
         # for main components returns int, otherwise string
         pass
 
-    def process(self, rq, url, p_id):
+    def process(self, rq, url, p_id, **settings):
         pass
 
     # def raws_path(self, p_id):
@@ -129,9 +129,9 @@ class BluRayItem:
     # f.write("\n")
     # f.write(rq.get_data())
 
-    def add(self, url, p_id):
+    def add(self, url, p_id, **settings):
         self.links_add(url)
-        rq = self.ses.get_html(url)
+        rq = self.ses.get_html(url, **settings)
         # self.raw_save(rq, ref, url, p_id)
         return rq
 
@@ -140,7 +140,7 @@ class BluRayItem:
         with open(path, "r") as f:
             return json.load(f)
 
-    def get(self, url, p_id=0, force=False):
+    def get(self, url, p_id=0, force=False, **settings):
         if p_id == 0:
             p_id = self.get_id(url)
 
@@ -150,9 +150,9 @@ class BluRayItem:
         # if not force and self.raw_exists(p_id):
         # rq, ref = self.raw_read(p_id)
         # else:
-        rq = self.add(url, p_id)
+        rq = self.add(url, p_id, **settings)
 
-        return self.process(rq, url, p_id)
+        return self.process(rq, url, p_id, **settings)
 
     def file_exists(self, path, minsize=2):
         if not os.path.exists(path):
@@ -168,12 +168,12 @@ class BluRayItem:
         path = self.post_path(p_id)
         return self.file_exists(path, minsize=8)
 
-    def save(self, url, force=False):
+    def save(self, url, force=False, **settings):
         p_id = self.get_id(url)
         if not force and self.post_exists(p_id):
             return False
 
-        r = self.get(url, p_id, force=force)
+        r = self.get(url, p_id, force=force, **settings)
         path = self.post_path(p_id)
         with open(path, "w") as f:
             json.dump(r, f, separators=(",", ":"))
@@ -225,7 +225,7 @@ class BluRay_Thing(BluRayItem):
             )
         )
 
-    def get_packaging(self, p_id):
+    def get_packaging(self, p_id, **settings):
         if self.name != "dvd" and self.name != "movies":
             return []
 
@@ -233,7 +233,7 @@ class BluRay_Thing(BluRayItem):
             self.name, p_id
         )
 
-        rq = self.ses.get_html(url)
+        rq = self.ses.get_html(url, **settings)
         r = rq.json(
             r"""
             .c h3 i@f>"Member uploaded packaging images"; [:3] * ssub@; [0] div self@; a; {
@@ -247,14 +247,14 @@ class BluRay_Thing(BluRayItem):
             i["date"] = self.conv_date(i["date"], "%H:%M:%S %B %d, %Y")
         return r
 
-    def get_region_coding(self, p_id):
+    def get_region_coding(self, p_id, **settings):
         if self.name != "dvd" and self.name != "movies":
             return []
 
         url = "https://www.blu-ray.com/{}/movies.php?id={}&action=showregioncoding&filter=rating&page=".format(
             self.name, p_id
         )
-        rq = self.ses.get_html(url)
+        rq = self.ses.get_html(url, **settings)
         r = rq.json(
             r"""
             .c table l@[0] style; {
@@ -275,9 +275,9 @@ class BluRay_Thing(BluRayItem):
             i["date"] = self.conv_date(i["date"], "%b %d, %Y")
         return r
 
-    def get_redirection(self, url):
+    def get_redirection(self, url, **settings):
         time.sleep(0.8)
-        resp = self.ses.get(url, allow_redirects=False, redirects=True)
+        resp = self.ses.get(url, allow_redirects=False, redirects=True, **settings)
         if resp.status_code != 301:
             return url
         loc = resp.headers.get("Location")
@@ -287,16 +287,16 @@ class BluRay_Thing(BluRayItem):
             return ""
         return reliq.urljoin(url, loc)
 
-    def clear_redirections(self, arr):
+    def clear_redirections(self, arr, **settings):
         ret = set()
         for i in set(arr):
             if i.find("/link/click.php?") == -1:
                 ret.add(i)
                 continue
-            ret.add(self.get_redirection(i))
+            ret.add(self.get_redirection(i, **settings))
         return list(ret)
 
-    def process(self, rq, url, p_id):
+    def process(self, rq, url, p_id, **settings):
         r = rq.json(
             r"""
             [0] td width=728; {
@@ -370,8 +370,8 @@ class BluRay_Thing(BluRayItem):
 
         r["url"] = url
         r["id"] = p_id
-        r["packaging"] = self.get_packaging(p_id)
-        r["region_coding"] = self.get_region_coding(p_id)
+        r["packaging"] = self.get_packaging(p_id, **settings)
+        r["region_coding"] = self.get_region_coding(p_id, **settings)
 
         info = r["info"]
         info["video"] = self.trim_info(info["video"])
@@ -379,10 +379,10 @@ class BluRay_Thing(BluRayItem):
         info["digital"] = self.trim_info(info["digital"])
         info["packaging"] = self.trim_info(info["packaging"])
         info["playback"] = self.trim_info(info["playback"])
-        info["links"] = self.clear_redirections(info["links"])
+        info["links"] = self.clear_redirections(info["links"], **settings)
 
         r["release"] = self.conv_date(r["release"], "%b %d, %Y")
-        r["sources"] = self.clear_redirections(r["sources"])
+        r["sources"] = self.clear_redirections(r["sources"], **settings)
         return r
 
 
@@ -402,12 +402,11 @@ class BluRay_Movie(BluRayItem):
             return 0
         return int(r[1])
 
-    def get_releases(self, url):
-        rq = self.ses.get_html(url)
+    def get_releases(self, url, **settings):
+        rq = self.ses.get_html(url, **settings)
 
-        r = json.loads(
-            rq.search(
-                r"""
+        r = rq.json(
+            r"""
             .releases tr; a; {
                 .name @ | "%(title)Dv" trim,
                 .link.U @ | "%(href)v",
@@ -418,17 +417,15 @@ class BluRay_Movie(BluRayItem):
                 }
             } |
         """
-            )
         )["releases"]
 
         for i in r:
             self.alllinks.add(i["link"])
         return r
 
-    def process(self, rq, url, p_id):
-        r = json.loads(
-            rq.search(
-                r"""
+    def process(self, rq, url, p_id, **settings):
+        r = rq.json(
+            r"""
             .cover.U [0] img #productimage | "%(src)v",
             [0] h1 .eurostile; {
                 .title @ | "%t" trim,
@@ -490,7 +487,6 @@ class BluRay_Movie(BluRayItem):
                 } |
             }
         """
-            )
         )
         r["id"] = p_id
         r["url"] = url
@@ -500,7 +496,8 @@ class BluRay_Movie(BluRayItem):
         r["releases"] = self.get_releases(
             "https://www.blu-ray.com/products/menu_ajax.php?p={}&c=20&action=showreleasesall".format(
                 p_id
-            )
+            ),
+            **settings,
         )
 
         return r
@@ -542,17 +539,17 @@ class BluRay(BluRayItem):
                 return i
         return None
 
-    def get(self, url, force=False):
+    def get(self, url, force=False, **settings):
         obj = self.guess(url)
         if obj is None:
             return None
-        return obj.get(url, force=force)
+        return obj.get(url, force=force, **settings)
 
-    def save(self, url, force=False):
+    def save(self, url, force=False, **settings):
         obj = self.guess(url)
         if obj is None:
             return None
-        return obj.save(url, force=force)
+        return obj.save(url, force=force, **settings)
 
     def sitemap_load(self):
         try:
@@ -570,15 +567,15 @@ class BluRay(BluRayItem):
             raise e
         self.save_state()
 
-    def saveall_r(self, force, threads):
+    def saveall_r(self, force, threads, proxies):
         saved = 0
 
         def save(i):
-            return self.save(i, force)
+            return self.save(i[0], force, proxies={"https": i[1], "http": i[1]})
 
         while True:
             saved = 0
-            links = list(self.links)
+            links = zip(list(self.links), itertools.cycle(proxies))
 
             if threads > 1:
                 with ThreadPoolExecutor(max_workers=threads) as executor:
@@ -594,9 +591,9 @@ class BluRay(BluRayItem):
             if saved == 0:
                 break
 
-    def saveall(self, force=False, threads=1):
+    def saveall(self, force=False, threads=1, proxies=[]):
         try:
-            self.saveall_r(force, threads)
+            self.saveall_r(force, threads, proxies)
         except Exception as e:
             self.save_state()
             raise e
@@ -646,7 +643,15 @@ def argparser():
         default=1,
     )
 
-    treerequests.args_section(parser)
+    requests = treerequests.args_section(parser, rename=["proxies"])
+    requests.add_argument(
+        "--proxy",
+        metavar="PROXY",
+        type=str,
+        help="add proxy to list",
+        action="append",
+        default=[],
+    )
 
     return parser
 
@@ -661,15 +666,18 @@ def cli(argv: list[str]):
     force = args.force
 
     blur = BluRay(directory, **net_settings)
-    treerequests.args_session(blur.ses, args)
+    treerequests.args_session(blur.ses, args, rename=["proxies"])
 
     for i in args.urls:
         blur.save(i, force=force)
 
+    if len(args.proxy) == 0:
+        args.proxy.append("")
+
     if len(args.urls) == 0:
         if len(blur.links) == 0:
             blur.sitemap_load()
-        blur.saveall(force=force, threads=args.threads)
+        blur.saveall(force=force, threads=args.threads, proxies=args.proxy)
 
 
 cli(sys.argv[1:])

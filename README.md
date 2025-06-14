@@ -26,6 +26,7 @@ Running with `--help` option will print available options.
 usage: blu-ray.py [-h] [-d DIR] [-f] [-t NUM] [-w TIME] [-W MILISECONDS]
                   [-r NUM] [--retry-wait TIME] [--force-retry] [-m TIME] [-k]
                   [-L] [-A UA] [-x DICT] [-H HEADER] [-b COOKIE] [-B BROWSER]
+                  [--proxy PROXY]
                   [URL ...]
 
 Tool for scraping blu-ray.com. If no URLs provided scrapes the whole site
@@ -52,7 +53,7 @@ Request settings:
   -L, --location        Allow for redirections, can be dangerous if
                         credentials are passed in headers
   -A, --user-agent UA   Sets custom user agent
-  -x, --proxies DICT    Set requests proxies dictionary, e.g. -x
+  -x DICT               Set requests proxies dictionary, e.g. -x
                         '{"http":"127.0.0.1:8080","ftp":"0.0.0.0"}'
   -H, --header HEADER   Set curl style header, can be used multiple times e.g.
                         -H 'User: Admin' -H 'Pass: 12345'
@@ -60,6 +61,7 @@ Request settings:
                         -b 'auth=8f82ab' -b 'PHPSESSID=qw3r8an829'
   -B, --browser BROWSER
                         Get cookies from specified browser e.g. -B firefox
+  --proxy PROXY         add proxy to list
 ```
 
 # Protection
@@ -73,7 +75,7 @@ For getting the whole site i recommend running
 ```bash
 while :
 do
-    ./blu-ray --wait 22 --wait-random 14000 --proxies '{"https": "YOUR ROTATED PROXY"}'
+    ./blu-ray --wait 22 --wait-random 14000 --threads 3 --proxy PROXY1 --proxy PROXY2 --proxy PROXY3
     sleep 1m
 done
 ```
