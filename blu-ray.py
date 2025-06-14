@@ -4,16 +4,15 @@
 
 import os
 import sys
-import random
 import time
 import json
 import re
 from datetime import datetime
-from typing import Tuple
 from pathlib import Path
 import argparse
-import ast
 import gzip
+import itertools
+from concurrent.futures import ThreadPoolExecutor
 
 from reliq import RQ
 import requests
@@ -278,7 +277,7 @@ class BluRay_Thing(BluRayItem):
 
     def get_redirection(self, url):
         time.sleep(0.8)
-        resp = self.ses.get(url, allow_redirects=False)
+        resp = self.ses.get(url, allow_redirects=False, redirects=True)
         if resp.status_code != 301:
             return url
         loc = resp.headers.get("Location")
@@ -294,7 +293,6 @@ class BluRay_Thing(BluRayItem):
             if i.find("/link/click.php?") == -1:
                 ret.add(i)
                 continue
-            print(i)
             ret.add(self.get_redirection(i))
         return list(ret)
 
@@ -514,6 +512,7 @@ class BluRay(BluRayItem):
             requests,
             requests.Session,
             lambda x, y: treerequests.reliq(x, y, obj=reliq),
+            allow_redirects=True,
             **kwargs,
         )
 
@@ -571,16 +570,33 @@ class BluRay(BluRayItem):
             raise e
         self.save_state()
 
-    def saveall(self, force=False):
-        try:
-            while True:
-                saved = 0
-                for i in list(self.links):
-                    if self.save(i, force) is True:
+    def saveall_r(self, force, threads):
+        saved = 0
+
+        def save(i):
+            return self.save(i, force)
+
+        while True:
+            saved = 0
+            links = list(self.links)
+
+            if threads > 1:
+                with ThreadPoolExecutor(max_workers=threads) as executor:
+                    for i in itertools.batched(links, 1000):
+                        for j in executor.map(save, i):
+                            if j is True:
+                                saved += 1
+            else:
+                for i in links:
+                    if save(i) is True:
                         saved += 1
 
-                if saved == 0:
-                    break
+            if saved == 0:
+                break
+
+    def saveall(self, force=False, threads=1):
+        try:
+            self.saveall_r(force, threads)
         except Exception as e:
             self.save_state()
             raise e
@@ -621,6 +637,14 @@ def argparser():
         action="store_true",
         help="Overwrite existing files",
     )
+    parser.add_argument(
+        "-t",
+        "--threads",
+        metavar="NUM",
+        type=int,
+        help="run tasks using NUM of threads",
+        default=1,
+    )
 
     treerequests.args_section(parser)
 
@@ -644,7 +668,7 @@ def cli(argv: list[str]):
 
     if len(args.urls) == 0:
         blur.sitemap_load()
-        blur.saveall(force=force)
+        blur.saveall(force=force, threads=args.threads)
 
 
 cli(sys.argv[1:])

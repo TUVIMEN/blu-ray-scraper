@@ -23,9 +23,9 @@ Running with `--help` option will print available options.
     ./blu-ray.py --help
 
 ```
-usage: blu-ray.py [-h] [-d DIR] [-f] [-w TIME] [-W MILISECONDS] [-r NUM]
-                  [--retry-wait TIME] [--force-retry] [-m TIME] [-k] [-L]
-                  [-A UA] [-x DICT] [-H HEADER] [-b COOKIE] [-B BROWSER]
+usage: blu-ray.py [-h] [-d DIR] [-f] [-t NUM] [-w TIME] [-W MILISECONDS]
+                  [-r NUM] [--retry-wait TIME] [--force-retry] [-m TIME] [-k]
+                  [-L] [-A UA] [-x DICT] [-H HEADER] [-b COOKIE] [-B BROWSER]
                   [URL ...]
 
 Tool for scraping blu-ray.com. If no URLs provided scrapes the whole site
@@ -37,6 +37,7 @@ options:
   -h, --help            Show this help message and exit
   -d, --directory DIR   Use DIR as working directory
   -f, --force           Overwrite existing files
+  -t, --threads NUM     run tasks using NUM of threads
 
 Request settings:
   -w, --wait TIME       Sets waiting time for each request
