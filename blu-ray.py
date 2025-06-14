@@ -667,7 +667,8 @@ def cli(argv: list[str]):
         blur.save(i, force=force)
 
     if len(args.urls) == 0:
-        blur.sitemap_load()
+        if len(blur.links) == 0:
+            blur.sitemap_load()
         blur.saveall(force=force, threads=args.threads)
 
 
