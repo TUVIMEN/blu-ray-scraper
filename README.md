@@ -68,7 +68,7 @@ Request settings:
 
 `blu-ray.com` will block you if you make requests too fast, it also sets periodic limit per ip (i did not confirm if it was limited to a day) after which you'll get banned. If done correctly you can expect about 4000 pages scraped every day.
 
-If you want to scrape the whole site you should use a lot of proxies, they don't require residential proxies pretty much anything will do. Although the site is extremely inefficient and their html pages take about 300KB-400KB, so 1170773 entries will take at least 390GB of transfer.
+If you want to scrape the whole site you should use a lot of proxies, they don't require residential proxies pretty much anything will do, they block IPv6 addresses though. Although the site is extremely inefficient and their html pages take about 300KB-400KB, so 1170773 entries will take at least 390GB of transfer.
 
 For getting the whole site i recommend running
 
