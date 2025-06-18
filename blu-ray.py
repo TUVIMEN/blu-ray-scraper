@@ -94,8 +94,7 @@ class BluRayItem:
     def links_load(self):
         return self.load_set_from_file(self.links_path)
 
-    def get_id(self, url):
-        # for main components returns int, otherwise string
+    def get_id(self, url) -> int | None:
         pass
 
     def process(self, rq, url, p_id, **settings):
@@ -200,7 +199,7 @@ class BluRay_Thing(BluRayItem):
         self.urlvalid_pattern = (
             r"^https?://www\.blu-ray\.com/"
             + self.name
-            + r"/[a-zA-Z0-9_-]+/\d+(/(#.*)?)?$"
+            + r"/[a-zA-Z0-9_-]+/\d+(/([#?].*)?)?$"
         )
 
     def get_id(self, url):
@@ -680,7 +679,8 @@ def cli(argv: list[str]):
         blur.saveall(force=force, threads=args.threads, proxies=args.proxy)
 
 
-cli(sys.argv[1:])
+if __name__ == "__main__":
+    cli(sys.argv[1:])
 
 # https://www.blu-ray.com/movies/Tarantino-XX-8-Film-Collection-Blu-ray/55782/#Packaging
 # https://www.blu-ray.com/movies/Pulp-Fiction-4K-Blu-ray/252780/#Packaging
