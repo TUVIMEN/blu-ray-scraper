@@ -23,10 +23,9 @@ Running with `--help` option will print available options.
     ./blu-ray.py --help
 
 ```
-usage: blu-ray.py [-h] [-d DIR] [-f] [-t NUM] [-w TIME] [-W MILISECONDS]
-                  [-r NUM] [--retry-wait TIME] [--force-retry] [-m TIME] [-k]
-                  [-L] [-A UA] [-x DICT] [-H HEADER] [-b COOKIE] [-B BROWSER]
-                  [--proxy PROXY]
+usage: blu-ray.py [-h] [-d DIR] [-f] [-t NUM] [-w TIME] [-W TIME] [-r NUM]
+                  [--retry-wait TIME] [--force-retry] [-m TIME] [-k] [-L] [-A UA]
+                  [-x DICT] [-H HEADER] [-b COOKIE] [-B BROWSER] [--proxy PROXY]
                   [URL ...]
 
 Tool for scraping blu-ray.com. If no URLs provided scrapes the whole site
@@ -42,23 +41,22 @@ options:
 
 Request settings:
   -w, --wait TIME       Sets waiting time for each request
-  -W, --wait-random MILISECONDS
-                        Sets random waiting time for each request to be at max
-                        MILISECONDS
+  -W, --wait-random TIME
+                        Sets random waiting time for each request to be from 0 to TIME
   -r, --retries NUM     Sets number of retries for failed request to NUM
   --retry-wait TIME     Sets interval between each retry
   --force-retry         Retry no matter the error
   -m, --timeout TIME    Sets request timeout
   -k, --insecure        Ignore ssl errors
-  -L, --location        Allow for redirections, can be dangerous if
-                        credentials are passed in headers
+  -L, --location        Allow for redirections, can be dangerous if credentials are
+                        passed in headers
   -A, --user-agent UA   Sets custom user agent
   -x DICT               Set requests proxies dictionary, e.g. -x
                         '{"http":"127.0.0.1:8080","ftp":"0.0.0.0"}'
-  -H, --header HEADER   Set curl style header, can be used multiple times e.g.
-                        -H 'User: Admin' -H 'Pass: 12345'
-  -b, --cookie COOKIE   Set curl style cookie, can be used multiple times e.g.
-                        -b 'auth=8f82ab' -b 'PHPSESSID=qw3r8an829'
+  -H, --header HEADER   Set curl style header, can be used multiple times e.g. -H
+                        'User: Admin' -H 'Pass: 12345'
+  -b, --cookie COOKIE   Set curl style cookie, can be used multiple times e.g. -b
+                        'auth=8f82ab' -b 'PHPSESSID=qw3r8an829'
   -B, --browser BROWSER
                         Get cookies from specified browser e.g. -B firefox
   --proxy PROXY         add proxy to list
@@ -75,7 +73,7 @@ For getting the whole site i recommend running
 ```bash
 while :
 do
-    ./blu-ray --wait 22 --wait-random 14000 --threads 3 --proxy PROXY1 --proxy PROXY2 --proxy PROXY3
+    ./blu-ray --wait 22 --wait-random 14 --threads 3 --proxy PROXY1 --proxy PROXY2 --proxy PROXY3
     sleep 1m
 done
 ```
