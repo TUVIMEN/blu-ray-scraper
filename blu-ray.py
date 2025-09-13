@@ -276,7 +276,7 @@ class BluRay_Thing(BluRayItem):
 
     def get_redirection(self, url, **settings):
         time.sleep(0.8)
-        resp = self.ses.get(url, allow_redirects=False, redirects=True, **settings)
+        resp = self.ses.get(url, allow_redirects=False, **settings)
         if resp.status_code != 301:
             return url
         loc = resp.headers.get("Location")
